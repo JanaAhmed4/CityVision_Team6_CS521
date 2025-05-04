@@ -1,0 +1,828 @@
+cell_id,Name,Place ID,Types,Vicinity,Business Status,Rating,User Ratings Total,Latitude,Longitude,Distance (m)
+1,Al Bassam Institute,ChIJBXxHbPTkST4ROyssH_OJbY8,"university, point_of_interest, establishment","Prince Mohammed Bin Fahd Branch Road, Dhahran",OPERATIONAL,3.8,382,26.363791191623783,50.12370846557617,400.76
+1,Aldawaa Pharmacy,ChIJ46XmkfPkST4R9JGUhio1-v0,"pharmacy, store, health, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dammam",OPERATIONAL,3.7,131,26.363791191623783,50.12370846557617,538.6
+1,Murjan Medical Complex,ChIJufL6ifLkST4RJ3Vpfek7o6U,"health, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, شارع الساحل, Dammam",OPERATIONAL,3.7,1934,26.363791191623783,50.12370846557617,862.66
+1,مدرسة هالة بنت خويلد,ChIJv6APGQDlST4R50YOmFcvPLw,"school, point_of_interest, establishment","947F+JG2, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.12370846557617,24.57
+1,Lina Groceries,ChIJnwFyBfXkST4RRZGfeeNSdkU,"grocery_or_supermarket, store, food, point_of_interest, establishment",Dhahran,OPERATIONAL,4,62,26.363791191623783,50.12370846557617,57.8
+1,Abu Talha Alansari Mosque,ChIJ6_WZCfXkST4RzUHWQJRqm_o,"mosque, place_of_worship, point_of_interest, establishment","947F+QH9, Dhahran",OPERATIONAL,4.8,30,26.363791191623783,50.12370846557617,74.71
+1,مغسلة لمياء,ChIJ1WBvBQDlST4RTRP1SjVxDBA,"laundry, point_of_interest, establishment","947F+P8V, Dhahran",OPERATIONAL,5,8,26.363791191623783,50.12370846557617,75.61
+1,ABUTALIB 🏠,ChIJU3IyZwDlST4RIfl4Arl1AzU,"car_repair, point_of_interest, establishment","حي, EAMA7219, 5158 4ب, 7219, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,262.0
+1,حديقة مشي حالك,ChIJLyOVAgDlST4RFdMKOo0pzR4,"park, point_of_interest, establishment","7302 Al Bahir, حديقة الفيروز حي هجر, هجر، حي, 5139, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,327.32
+1,AlHoqail Mosque,ChIJAyGuj_TkST4RhRsSQ4_a_Mk,"mosque, place_of_worship, point_of_interest, establishment","Duba Street, 948F+J2V, Dhahran",OPERATIONAL,4.7,73,26.363791191623783,50.12370846557617,331.77
+1,حديقة الفيروز حي هجر,ChIJr3SpMNHlST4RlAhWFo03bqo,"park, point_of_interest, establishment","حي, 5139 Al Bahir 7302, Saudi Arabia, الظهران",OPERATIONAL,3.8,13,26.363791191623783,50.12370846557617,332.65
+1,جامع عثمان بن مظعون,ChIJtRcxq9nlST4R6M39Vr7jt8s,"mosque, place_of_worship, point_of_interest, establishment","EAMB6953، 6953 HJ 43 هجر، 4902، حي هجر،, Dhahran",OPERATIONAL,5,3,26.363791191623783,50.12370846557617,349.44
+1,Twig.Perfumes,ChIJx1TLVUPlST4ROfB1-dhRdQc,"clothing_store, store, point_of_interest, establishment","Albaher Street, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,390.24
+1,موسسه عبرة لعزل خزانات بابها,ChIJC52Ed8jlST4R_4DmSLNW1OU,"point_of_interest, establishment","62521 Shamsan Street, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,473.01
+1,مدرسة أجيال المواهب الأهلية,ChIJGx--UwDlST4RzEknNS84puE,"school, point_of_interest, establishment","EAMB7501, EAMB7501، 7501 رماح، 5140, Dhahran",OPERATIONAL,3.9,9,26.363791191623783,50.12370846557617,527.49
+1,My Clinic,ChIJFXqOkPPkST4Rp5irj6Cw90Q,"health, point_of_interest, establishment","Sahil Street, 949F+CX3, Dhahran",OPERATIONAL,4,4,26.363791191623783,50.12370846557617,536.65
+1,Almazrou Tower,ChIJeTR8kPPkST4RqxeC0lSvn1M,"point_of_interest, establishment","Sahil Street, 949F+CVV, Dhahran",OPERATIONAL,3.5,13,26.363791191623783,50.12370846557617,543.71
+1,Gaico office,ChIJn34GkvPkST4R-YuZym_716A,"point_of_interest, establishment","Sahil Street, 949G+F24, Dammam",OPERATIONAL,3.3,3,26.363791191623783,50.12370846557617,554.11
+1,معلمة انجليزي خصوصية الدمام,ChIJwWVl18TlST4RXDlp8FSveF0,"point_of_interest, establishment",Dhahran,OPERATIONAL,5,1,26.363791191623783,50.12370846557617,583.13
+1,Heliport,ChIJoeF5-GPlST4RW7AWYfJovf8,"airport, point_of_interest, establishment","948H+W7M, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,594.67
+1,"آيكلا ريزدنس ""خلف"" السلطان العقارية",ChIJXerebQDlST4RLzjzKzZLFIQ,"point_of_interest, establishment","5372 الحزام الذهبي, EAMB7611، 7611, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,599.63
+1,آيكلا ريزدنس الظهران السلطان العقارية,ChIJj--oZQDlST4R7IF5t6thadI,"point_of_interest, establishment","949F+PXR, Dhahran",OPERATIONAL,5,3,26.363791191623783,50.12370846557617,627.86
+1,Ahmed Bin Abdulrahman Mosque,ChIJDQZmZVnkST4R9SfF9iNL45o,"mosque, place_of_worship, point_of_interest, establishment","1 Street, 945H+X97, Dhahran",OPERATIONAL,4.9,65,26.363791191623783,50.12370846557617,637.86
+1,Anwar,ChIJoV2_RwDlST4RC2tvjwrHjZY,"hair_care, health, point_of_interest, establishment","949C+PG3, Hajar, Dhahran, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,651.12
+1,بصمة الثمار للخضار والفواكة,ChIJs5r6oFHlST4RoGx3tS8ZgUQ,"store, food, point_of_interest, establishment","حي, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,651.12
+1,اسكان الجفر (الاداره),ChIJuTSkBr3lST4RWNftRm_O3Q4,"point_of_interest, establishment","حي, الثاني عشر, FJSI3799، 3799 محمد بن حنبل، 8443, المريخ",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,651.12
+1,chessperfume,ChIJXaY9sHzlST4RyoF-HT41KYo,"point_of_interest, establishment","حي, Dammam",OPERATIONAL,1,1,26.363791191623783,50.12370846557617,651.12
+1,Hajar,ChIJG7LmOgDlST4RSHBeupuHzxI,"lodging, point_of_interest, establishment","949C+PG3, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,651.12
+1,مجمع زمول هادي مسفر دهران العرجاني,ChIJ_XYTTwDlST4RDfQUUEuOnys,"point_of_interest, establishment","هجره ال, 949C+PG3, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,651.12
+1,Jehadacademy,ChIJ30SnzunlST4RqJN-iIYrdso,"point_of_interest, establishment",Dhahran,OPERATIONAL,5,1,26.363791191623783,50.12370846557617,651.12
+1,المؤسسة العامة للتأمينات الاجتماعية - فرع الدمام,ChIJK3ozaHj7ST4R174FVoxr3Nw,"point_of_interest, establishment","شارع الأمير منصور, C4P5+4V, Dammam",OPERATIONAL,3.1,368,26.363791191623783,50.12370846557617,813.17
+1,مسجد البراء بن مالك رضي الله عنه,ChIJB9cyZADlST4RjE1Nl9KNAus,"mosque, place_of_worship, point_of_interest, establishment","3625، 8652, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,673.38
+1,Labeed Ibn Rabeeah Mosque,ChIJk8aV4PLkST4RzNJ3YRRoshg,"mosque, place_of_worship, point_of_interest, establishment","5225 Rihab Street, Dhahran",OPERATIONAL,4.8,23,26.363791191623783,50.12370846557617,686.39
+1,حاوية جمع الملابس المستخدمة - Used clothing collection container,ChIJNSQ6eQDlST4ROMgdO6Dx-XY,"point_of_interest, establishment","5393 شارع الساحل, EAMB7666, 7666, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,696.17
+1,مجمع عماير بن سلطان حي هجر,ChIJZ0t9NQDlST4RICgzEhYZI2c,"point_of_interest, establishment","5383 شارع الساحل, حي, EAMD7706, 7706, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,701.71
+1,MN KHAN,ChIJXW83bwDlST4R2Tma3QJT0Tw,"point_of_interest, establishment","7706 شارع الساحل, حي, EAMD7706 5383, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,703.31
+1,الروضه التاسعه عشر بالدمام,ChIJDVdR6uXlST4RWYZJTUjL2U4,"school, point_of_interest, establishment","3 Street, 94CC+284, Dammam",OPERATIONAL,2.7,17,26.363791191623783,50.12370846557617,747.2
+1,22nd Elementary for Girls,ChIJF3s5OY3kST4RtZgqQRkMk8U,"school, point_of_interest, establishment","Rumah Street, 94CC+264, Dhahran",OPERATIONAL,3,45,26.363791191623783,50.12370846557617,755.97
+1,Bandariyah Park,ChIJIzYmtlvkST4R6fTbD9lOJF4,"park, point_of_interest, establishment","34255, الظهران",OPERATIONAL,4.3,72,26.363791191623783,50.12370846557617,805.39
+1,ضبط الوزن - النحت الغير جراحي للجسم - د مني ابو جمره,ChIJSVj8FHLlST4RCRXCXaaro5k,"health, point_of_interest, establishment","avenue, Dammam",OPERATIONAL,4.8,22,26.363791191623783,50.12370846557617,867.83
+1,Najla Almuraikhi Mosque,ChIJWaX3eo3kST4Rbr1x-evWYDE,"mosque, place_of_worship, point_of_interest, establishment","94C9+6PQ, Dammam",OPERATIONAL,4.7,98,26.363791191623783,50.12370846557617,869.13
+1,Nahdi pharmacy | صيدليه النهدى,ChIJdVqBpRPlST4RY4fAaubSuvU,"pharmacy, store, health, point_of_interest, establishment","الساحل, 94CF+MH4، طريق الأمير محمد بن فهد بن عبدالعزيز، شارع, الدمام",OPERATIONAL,4.5,109,26.363791191623783,50.12370846557617,869.97
+1,ريل فتنس للمساج والحمام المغربي,ChIJndXfo1zlST4RjltW5Uo9HuU,"point_of_interest, establishment","7902 Prince Mohammed Bin Fahd Road, Dammam",OPERATIONAL,3.6,8,26.363791191623783,50.12370846557617,892.95
+1,اكاديمية كورال ستارز للأطفال coral stars academy,ChIJu8tICRrpST4RUSQRSPJ9xOM,"school, health, point_of_interest, establishment","مدارس اليرموك الاهلية, Alysrmook schools, الظهران",OPERATIONAL,5,2,26.363791191623783,50.12370846557617,904.52
+1,الفهد,ChIJC_w_bADlST4RlCP3XN-Dilk,"point_of_interest, establishment","5243 Sahil Street, EAMC7888، 7888, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,914.52
+1,(ثانوية اليرموك الاهليه) بنين,ChIJn0DMqlvkST4RhJv-mm5l9mo,"school, point_of_interest, establishment","4763, Dhahran",OPERATIONAL,3.4,5,26.363791191623783,50.12370846557617,916.14
+1,Yarmook Elementary Private School,ChIJn0DMqlvkST4RUZMwW2Z4rnI,"school, point_of_interest, establishment","4763, Dhahran",OPERATIONAL,3.6,63,26.363791191623783,50.12370846557617,916.14
+1,National Company for Management and Services,ChIJ0WZ3g_LkST4Rv_fceIHgtsM,"food, point_of_interest, establishment","7938 Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3.8,6,26.363791191623783,50.12370846557617,927.4
+1,مطعم طلة جبل للوجبات السريعة,ChIJbWTjg1fjST4R8f4zQ2elidA,"meal_takeaway, restaurant, food, point_of_interest, establishment","حي, شارع المتباهي, Dhahran",OPERATIONAL,4.7,52,26.363791191623783,50.12370846557617,931.57
+1,مكتب الساري العقاري -Real estate office,ChIJdTvdhvLkST4RD27BGp11CPg,"real_estate_agency, point_of_interest, establishment","94CF+VGQ, Dhahran",OPERATIONAL,4.4,8,26.363791191623783,50.12370846557617,934.07
+1,Shamaliyah Rental office,ChIJvxSxIwDlST4R7AZhBHCX3Gw,"real_estate_agency, point_of_interest, establishment","94CF+W89, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,943.93
+1,Nabares Laundry مغاسل نبراس,ChIJHRiggfLkST4Rx6A4yQLwgHE,"laundry, point_of_interest, establishment","94CF+WGW, Dhahran",OPERATIONAL,2.4,9,26.363791191623783,50.12370846557617,949.86
+1,مطعم الرواق الشامي للمشويات والمعجنات,ChIJrVV0gfLkST4R6PUAqJD_fbo,"restaurant, food, point_of_interest, establishment","Sahil Street, Dhahran",OPERATIONAL,3.7,340,26.363791191623783,50.12370846557617,951.36
+1,مؤسسة بروج النزهة للخضار والفواكة,ChIJIdW8cp7lST4RWV9QrVbZ0uw,"store, food, point_of_interest, establishment","94CF+XF6, شارع الساحل، هجر،, Dhahran",OPERATIONAL,4,6,26.363791191623783,50.12370846557617,954.96
+1,Ahmed Alsaeed Mosque,ChIJQVWvA1vkST4RYNojL3VBgVg,"mosque, place_of_worship, point_of_interest, establishment","944H+JHQ, Dhahran",OPERATIONAL,5,3,26.363791191623783,50.12370846557617,956.26
+1,دهانات الجزيرة - Jazeera Paints معرض حي هجر ( وكيل ),ChIJyRgRkqnlST4Rztk4z2Z44VI,"home_goods_store, store, point_of_interest, establishment","حي, Sahil Street, Dhahran",OPERATIONAL,5,5,26.363791191623783,50.12370846557617,956.38
+1,Amnah Mosque,ChIJN8NdXMzlST4RtvZZzeB4zEk,"mosque, place_of_worship, point_of_interest, establishment","944H+JHQ, Dhahran",OPERATIONAL,5,6,26.363791191623783,50.12370846557617,957.24
+1,FBSS-JOND Security Co.,ChIJZ74GGAflST4RAV_eHV_YUU8,"point_of_interest, establishment","94CF+XGF, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.12370846557617,958.09
+2,Come to Momma,ChIJ34tj9P7kST4R7aOOzpRR2Ms,"restaurant, food, point_of_interest, establishment",Dammam,OPERATIONAL,4.5,4423,26.363791191623783,50.13970846557618,825.93
+2,Dani Massage Club,ChIJ9UP3DADlST4R4hdb_82BJ_0,"point_of_interest, establishment","3979 ابن الناصر, EAJB3979، 7564, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,458.27
+2,HANA RESIDENTS VILLA (2),ChIJjw2diMXlST4R9KGpVbxKjpM,"point_of_interest, establishment","King Abdulaziz Road, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,490.88
+2,Saudi Royal Court,ChIJ-3LHp4nlST4RsMBZ9ic-uno,"point_of_interest, establishment","7209 Prince Metib Road, Dammam",OPERATIONAL,4.8,21,26.363791191623783,50.13970846557618,578.42
+2,AlDamegh Mosque,ChIJFQXXo__kST4REgp5XNNi9_0,"mosque, place_of_worship, point_of_interest, establishment","949Q+QW9, Dammam",OPERATIONAL,4.7,127,26.363791191623783,50.13970846557618,621.88
+2,Parking,ChIJW8K4Go7lST4RDS2CLnw3dqo,"point_of_interest, establishment","الجهم بن مالك، 7878،, EAJA3966، 3966, الدمام",OPERATIONAL,5,2,26.363791191623783,50.13970846557618,756.65
+2,حمامات حديقة النهضة,ChIJH_zsbgDlST4RMdnic0RqFx0,"point_of_interest, establishment","EAJB7868، 7868 8د، 3909, الدمام",OPERATIONAL,5,1,26.363791191623783,50.13970846557618,763.68
+2,KAG School,ChIJCQzGIwDlST4RrjOMXU4S3nw,"primary_school, school, point_of_interest, establishment","7820 King Abdulaziz Road, Dammam",OPERATIONAL,4.2,15,26.363791191623783,50.13970846557618,770.49
+2,مؤسسة حجي محمد النجار,ChIJJa8dR13lST4RNZNzcKEkR-w,"point_of_interest, establishment","سوق الحب, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,776.2
+2,Mishmish's World Daycare,ChIJ31hHxQLlST4RadyFxX5_vco,"school, point_of_interest, establishment","Prince Ahmed Street, Dhahran",OPERATIONAL,4.4,50,26.363791191623783,50.13970846557618,782.15
+2,Suwaiket Furniture Factory,ChIJMRR1cADlST4Rd_bhrCwATng,"point_of_interest, establishment","949V+XJ3, Dammam",OPERATIONAL,5,1,26.363791191623783,50.13970846557618,802.27
+2,Meem One,ChIJP2RkJwDlST4RQPwouR6tuDI,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","EAJB3868 3868 Nahda, الدمام",OPERATIONAL,3.1,15,26.363791191623783,50.13970846557618,813.38
+2,Playground,ChIJMcozRuLlST4RIYWaMb07aw4,"point_of_interest, establishment","EAJB3868، 3868 الجهم بن مالك، 7943، حي النهضة،, الدمام",OPERATIONAL,5,4,26.363791191623783,50.13970846557618,814.13
+2,Aljabr Laundry,ChIJdye8oU7lST4RK9a6UMCXIaE,"laundry, point_of_interest, establishment","94CQ+FW2, Dammam",OPERATIONAL,1.8,17,26.363791191623783,50.13970846557618,814.4
+2,Alyoum Fruits And Vegetables,ChIJ87FcuP7lST4R2vniCtl2ubM,"store, food, point_of_interest, establishment","شارع قزاز, Dammam",OPERATIONAL,3.8,16,26.363791191623783,50.13970846557618,815.45
+2,ورد هدايا دبليو دي | WD Designs,ChIJB1YkKy7lST4RT8SqjwQsT6g,"florist, home_goods_store, store, point_of_interest, establishment","شارع رقم 1, Dammam",OPERATIONAL,4.4,59,26.363791191623783,50.13970846557618,816.09
+2,wecode,ChIJx378lVDlST4R5HGmYIDLhV4,"point_of_interest, establishment",Dammam,OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,817.22
+2,Torty app,ChIJGUKwzZvlST4Rl2oIAdDa52M,"gym, health, point_of_interest, establishment",Dammam,OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,817.38
+2,Al-Nahdah Park,ChIJ_fWZg73lST4R55yZqCGuoH0,"park, point_of_interest, establishment","EAJA7992، 7992 7ب، 3972، حي النهضة،, Dammam",OPERATIONAL,4.5,230,26.363791191623783,50.13970846557618,816.43
+2,الأنصاري للعود | اكتشف العود الطبيعي والعطور المستوحاة بثبات استثنائي يدوم طويلاً.,ChIJeerF-n_9ST4RDbo-NzHQEXw,"shopping_mall, point_of_interest, establishment","Ibn, 3800 طريق الملك فهد, 6833 King Abdulaziz Rd, الدمام",OPERATIONAL,4.4,5,26.363791191623783,50.13970846557618,817.82
+2,Naif Groceries,ChIJ6RIbWf7kST4RwF1feM8kgNI,"grocery_or_supermarket, store, food, point_of_interest, establishment","94CQ+FV9, Dammam",OPERATIONAL,3.6,77,26.363791191623783,50.13970846557618,818.02
+2,MAS Compound,ChIJG29oP6rlST4R78c4QontMng,"point_of_interest, establishment","King Abdulaziz Road, 949W+C9H, Dammam",OPERATIONAL,3.7,116,26.363791191623783,50.13970846557618,820.6
+2,Sage Salon,ChIJb17fRgDlST4RMWOs3jdVFSA,"beauty_salon, point_of_interest, establishment","Ibn Allban St, Dammam",OPERATIONAL,4.4,92,26.363791191623783,50.13970846557618,819.41
+2,SAB الأول,ChIJc94UVNDlST4RlCS96sJqbfk,"atm, finance, point_of_interest, establishment","Prince Metib Road, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,820.92
+2,EmbroDelly,ChIJF_SdVqLlST4RxQcVoJFZ6Ok,"clothing_store, store, point_of_interest, establishment","Prince Mutib street, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,821.1
+2,صراف ساب,ChIJDWdDN7_lST4RaatTZGl_Feo,"atm, finance, point_of_interest, establishment",3842 الجهم بن مالك، حي النهضة، Dammam 34243 7957,OPERATIONAL,3,2,26.363791191623783,50.13970846557618,821.63
+2,الحفرة للحلاقة الرجالية Cukur Barbershop,ChIJ4dweNfnlST4R0-28dicLyZg,"hair_care, health, point_of_interest, establishment",Dhahran,OPERATIONAL,3.7,22,26.363791191623783,50.13970846557618,823.22
+2,MUNIRAH OTHAIBI LADIES TAILORING 🪡,ChIJn7vYCwDlST4RWqHfJojjXqo,"clothing_store, store, point_of_interest, establishment","94CR+F4P, Dammam",OPERATIONAL,2.4,8,26.363791191623783,50.13970846557618,823.79
+2,Gaslamp restaurant,ChIJh1QrbQzlST4RvP9LGk8fuBc,"restaurant, food, point_of_interest, establishment",Dammam,OPERATIONAL,3.5,17,26.363791191623783,50.13970846557618,825.91
+2,CorFit,ChIJycTLRtblST4RhMn1DQ5WNno,"gym, health, point_of_interest, establishment","Jaham bin Malik, Dammam",OPERATIONAL,3,1,26.363791191623783,50.13970846557618,831.2
+2,حلاق الشكل الرائع,ChIJs8MAFADlST4RgslZht_T01M,"hair_care, health, point_of_interest, establishment","7957 الجهم بن مالك, EAJB3842، 3842, الدمام",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,834.64
+2,Olympia Football Academy,ChIJdyzcmwHlST4RtrgaVe3uQF8,"point_of_interest, establishment",Dammam,OPERATIONAL,5,1,26.363791191623783,50.13970846557618,846.39
+2,Nahda Park,ChIJyUWCNQDlST4RkAmflToHhm8,"park, point_of_interest, establishment","8034 ابن اللبان, EAJA3787، 3787, الدمام",OPERATIONAL,4.5,2,26.363791191623783,50.13970846557618,859.71
+2,Nahda Park's Basketball Court,ChIJD20BxtTlST4RhBWfiK5aogI,"point_of_interest, establishment","الجهم بن مالك، 7949،, EAJA3725، 3725, الدمام",OPERATIONAL,5,1,26.363791191623783,50.13970846557618,861.07
+2,Public Parking,ChIJjXvKIgDlST4Rs9suV92Or6k,"point_of_interest, establishment","8000 ابن اللبان, EAJC3887، 3887, الدمام",OPERATIONAL,N/A,N/A,26.363791191623783,50.13970846557618,867.41
+2,Mulhim Mosque,ChIJK-XMLrLlST4R_OMqxsZJ7hc,"mosque, place_of_worship, point_of_interest, establishment","Mulhim Mosque, Dhahran",OPERATIONAL,4.8,183,26.363791191623783,50.13970846557618,940.51
+2,مسجد نورة عبدالله بو علي رحمها الله,ChIJDfQpzMnlST4R-AymddPXw7g,"mosque, place_of_worship, point_of_interest, establishment","حي, EAJC8109, 2440 جبل شهلان, 8109, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.13970846557618,974.99
+2,Upadel,ChIJx7JVOOflST4R-fao6For0tg,"point_of_interest, establishment","EAJD8109، 8109, 4 القصور، 2366،, Dhahran",OPERATIONAL,4.1,63,26.363791191623783,50.13970846557618,990.28
+3,حي القادسية 7,ChIJW9PITmLlST4Ruy93PDxHq-c,"point_of_interest, establishment","7992 35ا, EAGA2106، 2106, Dhahran",OPERATIONAL,5,1,26.363791191623783,50.15570846557618,169.66
+3,القادسية 10,ChIJSe7VkhflST4R7fsidcMIcBA,"point_of_interest, establishment","9584+8Q3, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,250.96
+3,القادسية 6,ChIJtUtkKQDlST4RXA-ueOGwI2I,"point_of_interest, establishment","EAGA2098، 2098 33ا، 8102, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,280.12
+3,ملعب حي حطين,ChIJeRGTwLzlST4ReKo2MiDkKZo,"point_of_interest, establishment","7744, 2490, الظهران",OPERATIONAL,4.7,6,26.363791191623783,50.15570846557618,319.13
+3,حي حطين 6,ChIJx1KedMblST4Rr5hGJuruJWE,"point_of_interest, establishment","7970 32جـ EAGB7970 2415, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,371.58
+3,القادسية 11,ChIJa4cXATvlST4Rebyaq0pxWiA,"point_of_interest, establishment","9584+RM6, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.15570846557618,372.7
+3,Hittin Neighborhood Mosque,ChIJ7xa30LzlST4Rb5yOmF6nrAA,"mosque, place_of_worship, point_of_interest, establishment","7862, 2479, الظهران",OPERATIONAL,4.8,6,26.363791191623783,50.15570846557618,404.67
+3,حديقة حي حطين,ChIJF3uRAr3lST4RBsdIqiMvz8Q,"park, point_of_interest, establishment","7744, 2490, الظهران",OPERATIONAL,4.5,8,26.363791191623783,50.15570846557618,453.7
+3,القادسية 12,ChIJ4yxyMwLlST4RMmzepIRfiXM,"point_of_interest, establishment","9594+7WC, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,511.68
+3,Eastern Sector Ninth Regiment,ChIJjTl_BqblST4Ry5KcSpKp84Y,"health, point_of_interest, establishment","3464, Dhahran",OPERATIONAL,2.4,12,26.363791191623783,50.15570846557618,530.55
+3,حي اليرموك 8,ChIJpwQo7-vlST4RcY8iUvW-3_s,"point_of_interest, establishment","9595+847, Dhahran",OPERATIONAL,5,1,26.363791191623783,50.15570846557618,540.97
+3,حطين 5,ChIJ7zFiztrlST4RM97UEOJZ0aY,"point_of_interest, establishment","حي, EAGA2504, 8171 39 الحرس الوطني, 2504, Dhahran",OPERATIONAL,4.5,2,26.363791191623783,50.15570846557618,547.41
+3,مدرسة أم المؤمنين ميمونة بنت الحارث بالحرس الوطني,ChIJg-UYFb3lST4RJug9tAAoYXQ,"school, point_of_interest, establishment","7800, Dhahran",OPERATIONAL,3.2,22,26.363791191623783,50.15570846557618,561.5
+3,حي القادسية 3 الثالث,ChIJoWBJUBzlST4RWJJj5bNMK9I,"point_of_interest, establishment","ا, غالب بن بشر, 9594+H5W 27 ا/28, Dhahran",OPERATIONAL,1.7,3,26.363791191623783,50.15570846557618,570.82
+3,حديقة حي بدر,ChIJp-Ce5r3lST4RfN-e00BaFSA,"park, point_of_interest, establishment","7466, 2703, الظهران",OPERATIONAL,4,107,26.363791191623783,50.15570846557618,679.35
+3,كتيبة الحراسات بالحرس الوطني,ChIJZwrjcOTlST4RoZg-FqpL-h4,"point_of_interest, establishment","3382، 9512, Dhahran",OPERATIONAL,5,1,26.363791191623783,50.15570846557618,690.98
+3,حي اليرموك 9,ChIJecKLcpjlST4R9wFG36WIvt8,"point_of_interest, establishment","9595+JPV, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.15570846557618,691.23
+3,حي القادسية 2,ChIJqepZ7qPlST4ROQg04IjOVAA,"point_of_interest, establishment","95C4+39R, Dhahran",OPERATIONAL,4.5,2,26.363791191623783,50.15570846557618,713.54
+3,شعبة المطابع بالقطاع الشرقي,ChIJiw-6p2DlST4R9w273Moee9g,"point_of_interest, establishment","95C3+3V8, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,715.11
+3,Othman Ibn Affan School,ChIJ9-L-oKLlST4RFWYyV21VWf4,"school, point_of_interest, establishment","مدرسه عثمان بن عفان بالحرس الوطني, Dammam",OPERATIONAL,2.5,37,26.363791191623783,50.15570846557618,737.68
+3,Laban Riyadh,ChIJq8hRHADlST4RRrIphhzqKVA,"point_of_interest, establishment","RDLC8645, Riyadh",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,757.31
+3,حي اليرموك 6,ChIJK55AP2flST4RsUybL2d-oCQ,"point_of_interest, establishment","95C5+4J3, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,789.16
+3,الرجيع (العهد التالفه بالحرس الوطني),ChIJg7Bqf5HlST4RtykLzokY_5U,"point_of_interest, establishment","95C3+3V8, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,853.89
+3,اليرموك ١٣,ChIJLYqVtqrlST4RIQj8wYC5j4w,"point_of_interest, establishment","9577+GP7, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,855.65
+3,حي اليرموك 5,ChIJXXDDL1_lST4RZ7SRlJ9qodA,"point_of_interest, establishment",Dhahran,OPERATIONAL,5,1,26.363791191623783,50.15570846557618,894.79
+3,ملعب الحرس الوطني,ChIJ-WTHrZflST4RwqrItA3-Ew0,"point_of_interest, establishment","7824, 2887, الظهران",OPERATIONAL,3.9,61,26.363791191623783,50.15570846557618,898.69
+3,مدرسة زينب بنت محمد الابتدائية,ChIJoQXZm_7lST4R8MV5UPELzdw,"primary_school, school, point_of_interest, establishment","7976, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.15570846557618,900.43
+3,حي اليرموك 11,ChIJoYxX303lST4ROJXNtyZ5wA4,"point_of_interest, establishment","8586 53 الحرس الوطني, EAGA2574، 2574, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.15570846557618,904.98
+3,اسكان الحرس الوطني مدينة الملك فهد السكنية,ChIJLxU2ciflST4R2sadirK7DYE,"point_of_interest, establishment","2887, 7824،, Dhahran",OPERATIONAL,4.7,35,26.363791191623783,50.15570846557618,910.69
+3,ثانوية أم المؤمنين حفصة بالحرس الوطني بالظهران,ChIJT4QYqxjlST4R9o_1ZsO5Xmk,"school, point_of_interest, establishment","9587+6VC, Dhahran",OPERATIONAL,2.9,11,26.363791191623783,50.15570846557618,912.5
+3,نادي الحرس الوطني بالظهران,ChIJo6axiNzlST4RCNfIBeMDMbY,"gym, health, point_of_interest, establishment","7738، 2965،, Dhahran",OPERATIONAL,3,6,26.363791191623783,50.15570846557618,946.01
+3,Rahmaniyah Mosque,ChIJY7vHZ7flST4R5wsZ3eIuLlU,"mosque, place_of_worship, point_of_interest, establishment","Jalaluddin Al Sayuti Street, 9542+8PJ, Dhahran",OPERATIONAL,4.6,125,26.363791191623783,50.15570846557618,966.03
+3,مركز عيادات الرعاية الصحية الأولية بمدينة الملك فهد السكنية بالحرس الوطني بالدمام Dammam Primary Health Care Centre,ChIJd1UxomvlST4RRqZnZypE2uQ,"health, point_of_interest, establishment","9578+V5W, Dhahran",OPERATIONAL,1.9,9,26.363791191623783,50.15570846557618,977.05
+4,saipin,ChIJd6RFno3lST4RGMPDStpvNxs,"point_of_interest, establishment","7618, Dhahran",OPERATIONAL,5,2,26.363791191623783,50.171708465576174,298.45
+4,Aston Warehouse,ChIJn9G6_4zlST4RaVwhbsRfaMA,"home_goods_store, store, point_of_interest, establishment","7744, Dhahran",OPERATIONAL,4.8,8,26.363791191623783,50.171708465576174,390.19
+4,Al Majd International School - Girls Section,ChIJRxlNzIzlST4RHU5ruHqjulA,"school, point_of_interest, establishment","956G+GGC, Dhahran",OPERATIONAL,2.9,162,26.363791191623783,50.171708465576174,530.99
+4,دار الائتمان السعودي,ChIJ9WwIKTnvST4RgANWofHbMtY,"finance, point_of_interest, establishment","طريق الملك سعود, Dhahran",OPERATIONAL,1.2,20,26.363791191623783,50.171708465576174,555.9
+4,Changan Almajdouie Dhahran - Showroom | معرض شانجان المجدوعي الظهران,ChIJIecUnYzlST4ReIPxxqR2P2E,"car_dealer, store, point_of_interest, establishment","4280 King Saud Bin Abdulaziz Road, 7682, Dhahran",OPERATIONAL,3.8,1760,26.363791191623783,50.171708465576174,620.82
+4,Takween Advanced Industries,ChIJ3y9E42HvST4RO5ath6OOy0g,"point_of_interest, establishment","958G+RPV, Dammam",OPERATIONAL,4.8,11,26.363791191623783,50.171708465576174,628.69
+4,Al-Iman for Contracting and Trading Co.,ChIJCe9RHvPlST4RwcZD4FMNAcU,"store, point_of_interest, establishment","7310, Dhahran",OPERATIONAL,4.5,52,26.363791191623783,50.171708465576174,628.49
+4,Alamer Advertising Co,ChIJY-eSuprlST4RnHUQVHP-r20,"point_of_interest, establishment","8437, Dhahran",OPERATIONAL,4.9,226,26.363791191623783,50.171708465576174,649.89
+4,Kempinski Al Othman Hotel Al Khobar,ChIJR4bEz47lST4R_04g8ZXmVFw,"lodging, point_of_interest, establishment","ص ب 840, طريق الملك سعود, Dammam",OPERATIONAL,4.6,14147,26.363791191623783,50.171708465576174,703.87
+4,Said Group,ChIJ1XYjRI_lST4RGwF1sHKnj10,"general_contractor, point_of_interest, establishment","King Saud Road, الخبر",OPERATIONAL,3.4,16,26.363791191623783,50.171708465576174,865.87
+4,ALETIHAD co-operative insurance company,ChIJpUqIKbHoST4RQnpnduDw08w,"point_of_interest, establishment","Ground Floor, King Saud Bin Abdulaziz Road, Al Khobar",OPERATIONAL,2.7,1023,26.363791191623783,50.171708465576174,902.35
+4,"WIPRO ARABIA LTD., CORPORATE OFFICE",ChIJK_a6-hPoST4R91KrtGh5uWk,"point_of_interest, establishment","Dist, Ibn Abdulaziz Road, Abdulkarim Tower, Building # 8514 Additional # 4233 # Unit # 5 King Fahad, الظهران",OPERATIONAL,4.5,70,26.363791191623783,50.171708465576174,912.75
+4,Gulf Gaihab International,ChIJN2fpIiroST4RsW62YlQRX34,"point_of_interest, establishment",Al Khobar,OPERATIONAL,4,1,26.363791191623783,50.171708465576174,925.93
+4,FAMCO Al-Futtaim - فامكو الفطيم,ChIJH4r9roXlST4R0Pi0io0oR58,"point_of_interest, establishment","King Fahd Road, Dhahran",OPERATIONAL,4.3,44,26.363791191623783,50.171708465576174,973.12
+4,Gama Hospital,ChIJpaFWcoXlST4Rd-S505c6BQM,"hospital, health, point_of_interest, establishment","King Fahd Road, Dhahran",OPERATIONAL,3.6,1245,26.363791191623783,50.171708465576174,840.7
+4,Al Majd International School-Philippine Curriculum,ChIJDwus3IzlST4ROzewt-F6Jwo,"school, point_of_interest, establishment","Rakah, website:www.amisd-pc.com, الخبر",OPERATIONAL,3.8,4,26.363791191623783,50.171708465576174,476.36
+4,Uhud Field,ChIJxwANtJHlST4RFtscbaulBV8,"point_of_interest, establishment","958C+9H6, Dhahran",OPERATIONAL,3.8,30,26.363791191623783,50.171708465576174,236.39
+4,Wellbore Integrity Solutions - Saudi Regional HQ,ChIJKfKvH3rlST4RqDXr6o_TfMQ,"point_of_interest, establishment","7617 - Al Qashlah Dist Unit No 7618, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,264.87
+4,Al Gosaibi Wedding & Parties Hall,ChIJv_C2vY3lST4R7u4gbc61DmY,"point_of_interest, establishment","957F+6Q6, Dhahran",OPERATIONAL,3.7,246,26.363791191623783,50.171708465576174,278.87
+4,مدرسة النهضة في الضهران,ChIJZe6M8XTlST4RpXkiBk8MF0U,"primary_school, school, point_of_interest, establishment","34232, Dhahran",OPERATIONAL,5,1,26.363791191623783,50.171708465576174,295.83
+4,51 compound,ChIJ543RTQDlST4RQydo7jpUF2Q,"lodging, point_of_interest, establishment","7598, 3922, الظهران",OPERATIONAL,4.4,5,26.363791191623783,50.171708465576174,325.23
+4,51st Compound,ChIJsauKGADlST4Re-fCOJVEVVg,"point_of_interest, establishment","EAGC7662، 7662 2، 3962, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,339.5
+4,Zamil Village,ChIJM05jNI7lST4RxY2_HyxmWMY,"point_of_interest, establishment","958F+CJ8, Al Khobar",OPERATIONAL,4.5,172,26.363791191623783,50.171708465576174,344.51
+4,Frank's Rawabi S.A. Ltd.,ChIJV1UFDo3lST4RQFLer0ob2IY,"point_of_interest, establishment","7574, Dhahran",OPERATIONAL,3.7,6,26.363791191623783,50.171708465576174,351.64
+4,عيادة أحد,ChIJvZCzW1DlST4R31Or3uFsXhg,"point_of_interest, establishment","8112, 3448, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,365.74
+4,حديقة حي أحد,ChIJ-UqZL5DlST4RPNbNon7zlF4,"park, point_of_interest, establishment","8198, 3710, الظهران",OPERATIONAL,3.5,29,26.363791191623783,50.171708465576174,369.15
+4,مركز لجنة فحص السموم,ChIJjeWCh57lST4RaEeBFyKfbPc,"point_of_interest, establishment","احد, 9589+HP9, حي احد خلف مستوصف, الدمام",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,372.99
+4,Silcca salon,ChIJrfTF4ujlST4Re-sY_MNmAOk,"beauty_salon, point_of_interest, establishment","Zamil Village, Al Khobar",OPERATIONAL,4.8,22,26.363791191623783,50.171708465576174,371.75
+4,King Fahad high school,ChIJW4xPpJPlST4R_uSYaPBJv5s,"school, point_of_interest, establishment","7502, Dhahran",OPERATIONAL,3.6,18,26.363791191623783,50.171708465576174,374.93
+4,Mastoura Khobar Yard,ChIJywuDZ43lST4RYYq2Ecs-TrY,"point_of_interest, establishment","34232, الظهران",OPERATIONAL,4.6,9,26.363791191623783,50.171708465576174,383.82
+4,روضة حي احد,ChIJ5Y4tgEHlST4RHGbJq3hoEs0,"school, point_of_interest, establishment","8042, 3358, Dhahran",OPERATIONAL,4,2,26.363791191623783,50.171708465576174,390.95
+4,مسجد (مصلى شركة دانون الصافي),ChIJ62DXXl3lST4RBumBlge3vpo,"mosque, place_of_worship, point_of_interest, establishment","7968، القشلة،, Dhahran",OPERATIONAL,4.7,7,26.363791191623783,50.171708465576174,394.59
+4,Mastoura for Trading & Contracting Company Limited,ChIJpTSIQo3lST4RHH56dSgQEzU,"point_of_interest, establishment","34232, الظهران",OPERATIONAL,4.7,6,26.363791191623783,50.171708465576174,400.36
+4,Al Safi Danone Company Dammam,ChIJhWA1fo7lST4RRndeIVd0nHA,"point_of_interest, establishment","7968, Dhahran",OPERATIONAL,3.8,47,26.363791191623783,50.171708465576174,410.06
+4,مركز تدريب المعلمات,ChIJbc9JHLDlST4RYjjlk_9DSQ8,"school, point_of_interest, establishment",الظهران,OPERATIONAL,5,2,26.363791191623783,50.171708465576174,414.81
+4,مركز تدريب رياض الأطفال,ChIJ-_uSBNvlST4ReUJ2ftskeGE,"school, point_of_interest, establishment","8078, 3323, الظهران",OPERATIONAL,3,1,26.363791191623783,50.171708465576174,437.17
+4,Kent camp,ChIJO4-VBW7lST4RZYLhivgK20U,"point_of_interest, establishment","7540، القشلة، الظهران 34232 4071،،, القشلة،, الظهران",OPERATIONAL,3,2,26.363791191623783,50.171708465576174,439.83
+4,Algosaibi Services Housing Complex,ChIJH0EPdADlST4RX1PJQlGy8l0,"general_contractor, point_of_interest, establishment","Algosaibi Services Housing Complex, EAGB7520 7520 Al Qashlah Saudi Arabia, الظهران",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,448.97
+4,"Algosaibi Services- Housing Complex, Dammam",ChIJZ61r4YzlST4RnJlPCae2ZO0,"point_of_interest, establishment","7540، القشلة، الظهران 34232 4071،،, الظهران",OPERATIONAL,4,141,26.363791191623783,50.171708465576174,448.97
+4,HFI-Haka Motors and Industry Co,ChIJq4MAE8_lST4RiwEANQI4ac0,"car_repair, store, point_of_interest, establishment","7454 Al Qashlah Dammam, Al Khobar",OPERATIONAL,4,32,26.363791191623783,50.171708465576174,451.41
+4,حي بدر 7,ChIJO1kIAQDlST4R0d28LCOXLnc,"point_of_interest, establishment","9569+89H, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,455.19
+4,مدرسة خالد بن وليد الابتدائية اسكان الحرس الوطني,ChIJQxTsu5DlST4R8UFCFbAoIUU,"school, point_of_interest, establishment","9589+QFC, Dhahran",OPERATIONAL,4.8,16,26.363791191623783,50.171708465576174,462.26
+4,Kfs hospital warehouse,ChIJCdXYTQDlST4R6tyOdbN14zg,"storage, point_of_interest, establishment","EAGA7744، 7744 1، 4069, الظهران",OPERATIONAL,5,1,26.363791191623783,50.171708465576174,460.27
+4,جامع ابوبكر الصديق بالحرس الوطني,ChIJ21X5uZblST4R2RHUTTWxR9I,"mosque, place_of_worship, point_of_interest, establishment","7748, 3211, الظهران",OPERATIONAL,4.8,36,26.363791191623783,50.171708465576174,465.3
+4,حي بدر 6,ChIJRw9WEQDlST4RS-H76O5YMKM,"point_of_interest, establishment","EAGB7596، 7596 105 الحرس الوطني، 3256, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,473.15
+4,حي بدر 8,ChIJUQBYEALlST4RXU78F1I92TY,"point_of_interest, establishment","9559+XV2, Dhahran",OPERATIONAL,3.3,3,26.363791191623783,50.171708465576174,479.75
+4,Al Moallam Camp Accomodation,ChIJnVaBaFflST4RTMtmf9hknTk,"lodging, point_of_interest, establishment",Dhahran,OPERATIONAL,4.5,17,26.363791191623783,50.171708465576174,479.73
+4,بقاله الراشدي,ChIJd25Q6ozlST4RARvBEWxXTnY,"lodging, point_of_interest, establishment",7540، القشلة، الظهران 34232 4071،,OPERATIONAL,4,13,26.363791191623783,50.171708465576174,487.15
+4,Turner & Townsend,ChIJGZwuMX4DNj4RQ_vLY858tXA,"point_of_interest, establishment","Al Abdulkarim Tower 25th Floor Al Qashlah Al Qashlah Dhahran, الخبر",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,508.53
+4,2034 football world cup venue,ChIJ2zTQCQDlST4R3OhJXFbM8Mc,"point_of_interest, establishment","958G+6HC, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,508.54
+4,Kempinski staff accomodation,ChIJmViWNdPlST4ReqGrxoww5gM,"lodging, point_of_interest, establishment","7408, 4034, Saudi Arabia, الظهران",OPERATIONAL,4.5,32,26.363791191623783,50.171708465576174,513.61
+4,AL MAJD SCHOOL- BOYS SECTION,ChIJXRLegcDlST4RCUyigz6gN0w,"school, point_of_interest, establishment","956G+425, Dhahran",OPERATIONAL,2,3,26.363791191623783,50.171708465576174,517.1
+4,ALLMARI,ChIJ9YutU9blST4Rsda-vlero-I,"general_contractor, point_of_interest, establishment",Al Khobar,OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,524.54
+4,مغسلة ادنوك للسيارات ADNOC Carwash,ChIJMfesjqXlST4R-8fOwiLvyJg,"car_wash, point_of_interest, establishment",7750 طريق الملك سعود بن عبدالعزيز، القشلة، الظهران 34232 4178،,OPERATIONAL,2.5,172,26.363791191623783,50.171708465576174,525.64
+4,صيانتي,ChIJqwSRWgDlST4Rwy7xEUZvgw8,"car_rental, point_of_interest, establishment","958G+5M, Dhahran",OPERATIONAL,N/A,N/A,26.363791191623783,50.171708465576174,526.7
+4,مركز شانجان المجدوعي لتسليم السيارات - الظهران | Changan Almajdouie Car Delivery Center - Dhahran,ChIJn-254vzlST4RrOSVFpdKfeE,"car_dealer, store, point_of_interest, establishment","957G+2Q, Dhahran",OPERATIONAL,5,38,26.363791191623783,50.171708465576174,532.4
+4,قسم السمكره ( التوكلات العالميه للسيارات),ChIJ56hKay3lST4RXIAq0C_h1uI,"shopping_mall, point_of_interest, establishment","Unnamed Road, 958G+5PV, Dhahran",OPERATIONAL,2.9,27,26.363791191623783,50.171708465576174,541.53
+4,Masjed Uhud,ChIJK2lhqpDlST4R4NI0CzGAoE0,"mosque, place_of_worship, point_of_interest, establishment","8212, 3305, الظهران",OPERATIONAL,4.5,40,26.363791191623783,50.171708465576174,544.28
+5,Carlton Al Moaibed Hotel,ChIJeZHFp2HvST4R-lnLiYa6sUQ,"lodging, point_of_interest, establishment","Alqasim Alkhawarizmi Street, Dammam",OPERATIONAL,4,5398,26.363791191623783,50.18770846557618,410.14
+5,Al Hussan International School,ChIJdUt59U7vST4RQRF4MsuvG6c,"school, point_of_interest, establishment",Saudi Arabia,OPERATIONAL,3.1,66,26.363791191623783,50.18770846557618,940.78
+5,Modern Royal Electric,ChIJt5vl6yj7ST4R-EGJXmFwSrY,"point_of_interest, establishment","Khaled Ibn Al Walid Street, PO box 6086, الخبر",OPERATIONAL,4.5,6,26.363791191623783,50.18770846557618,509.58
+5,SNB Lease Finance Centre,ChIJ8xI86lvvST4RumCmPbk4XL0,"point_of_interest, establishment","King Fahd Road, Dammam",OPERATIONAL,3.9,1028,26.363791191623783,50.18770846557618,283.08
+5,زوفي للتقنية [ZOOFiTECH [ZTC,ChIJE6dm5lvvST4RWFia-_oF8SE,"point_of_interest, establishment","7211 King Fahd Road, 3096, Al Khobar",OPERATIONAL,3.3,26,26.363791191623783,50.18770846557618,576.78
+5,Ibn Majah School,ChIJBeuJjl3vST4RE0x7QFposmg,"school, point_of_interest, establishment","957R+Q2W, Dammam",OPERATIONAL,3.5,35,26.363791191623783,50.18770846557618,247.68
+5,C. S. Impianti Arabia Engineering & Contracting Co. Ltd,ChIJk0YZKl7vST4RKnqCVtHP154,"general_contractor, point_of_interest, establishment","King Fahd Road, 957P+FC3, Dammam",OPERATIONAL,4,4,26.363791191623783,50.18770846557618,166.61
+5,Namariq Arabian Services Co. Ltd.,ChIJ1Yq7gWDvST4RSahCuwHd47Y,"point_of_interest, establishment","King Fahd Road, 957P+CCF, Dammam",OPERATIONAL,5,5,26.363791191623783,50.18770846557618,167.18
+5,وول ستريت انجلش - الخبر,ChIJiXGM9WDvST4RlPkA61nRgOk,"school, point_of_interest, establishment","شارع محمد قطب, Al Khobar",OPERATIONAL,4.5,334,26.363791191623783,50.18770846557618,274.3
+5,Taajeer,ChIJ7_4hT2DvST4RRchNyOXbXHM,"car_dealer, store, point_of_interest, establishment","7991 King Fahd Road, Dammam",OPERATIONAL,2.2,38,26.363791191623783,50.18770846557618,352.31
+5,Max Protect company car care,ChIJiYMlOV7vST4RSjvtXNb0mIg,"point_of_interest, establishment","King Fahd Road, Dammam",OPERATIONAL,3.9,248,26.363791191623783,50.18770846557618,379.27
+5,Danube Ar Rakah,ChIJgeqACFzvST4R772Hmy1sa-I,"grocery_or_supermarket, supermarket, store, food, point_of_interest, establishment","شارع خالد بن الرليد،, Dammam",OPERATIONAL,4.3,4304,26.363791191623783,50.18770846557618,410.9
+5,Okashi - أوكاشي,ChIJj45Z9lvvST4Rzdry3GSTF6c,"restaurant, food, point_of_interest, establishment",Dammam,OPERATIONAL,4,660,26.363791191623783,50.18770846557618,451.73
+5,Maestro Pizza,ChIJuyhCAVzvST4RdA3m1z6PxAE,"meal_takeaway, meal_delivery, restaurant, food, point_of_interest, establishment","King Fahd Road, Dammam",OPERATIONAL,4,574,26.363791191623783,50.18770846557618,455.31
+5,Casapasta | كازاباستا,ChIJ8bXuClzvST4RzNVl3b046fU,"restaurant, food, point_of_interest, establishment","شارع الملك فهد, الراكة الشمالية، الدمام 34225, Dammam",OPERATIONAL,4,669,26.363791191623783,50.18770846557618,456.08
+5,مجمع ابن سينا لطب الأسنان والجلدية والليزر فرع الخبر حي الراكة - Avicena (Ibn Sina ) dental & derma clinic in Khobar,ChIJDcBSSz3oST4Rj77fH_HgNCM,"health, point_of_interest, establishment","Rakah square, Khaled Ibn Al Walid Street, Al Khobar",OPERATIONAL,4.1,496,26.363791191623783,50.18770846557618,460.29
+5,Signature Juices,ChIJu-Qe_1vvST4RQseNHptJF1Y,"food, point_of_interest, establishment","Khaled Ibn Al Walid Street, Al Khobar",OPERATIONAL,4.3,1358,26.363791191623783,50.18770846557618,470.76
+5,Domino's Pizza,ChIJ3cmU5lvvST4R6YATqeXp-ek,"meal_takeaway, meal_delivery, restaurant, food, point_of_interest, establishment","3078 Khaled Ibn Al Walid Street, Dammam",OPERATIONAL,3.8,403,26.363791191623783,50.18770846557618,470.86
+5,Shawarmer | شاورمر,ChIJtVANAFzvST4RmVshOdz8ZDk,"meal_takeaway, restaurant, food, point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4,3231,26.363791191623783,50.18770846557618,472.98
+5,McDonald's,ChIJP3O4_1vvST4Rh7xX_NyX6-o,"restaurant, food, point_of_interest, establishment","Rakaa, Khaled Ibn Waleed Rd, Al Khobar",OPERATIONAL,3.9,3680,26.363791191623783,50.18770846557618,480.12
+5,MACE Khobar Branch,ChIJgeVKgVzvST4R1_whu1-6BmI,"point_of_interest, establishment","3298 خالد بن الوليد, Dammam",OPERATIONAL,5,1,26.363791191623783,50.18770846557618,489.26
+5,Operation Support Equipment Rental Est/مؤسسة دعم التشغيل لتأجير المعدات,ChIJZVn8hlzvST4RHhBQdx7lsG0,"point_of_interest, establishment","3298 خالد بن الوليد, Dammam",OPERATIONAL,5,11,26.363791191623783,50.18770846557618,489.26
+5,زين (Zain),ChIJu8Jph1vvST4RPyMAHdt1AvE,"point_of_interest, establishment","شارع خالد بن الوليد،, Khaled Ibn Al Walid St, Al Rakah Ash Shamaliyah, Dammam",OPERATIONAL,3.3,350,26.363791191623783,50.18770846557618,489.22
+5,فرع دليلي الاصفر Yellow Daleeli Branch,ChIJe1lEgVzvST4R3pgYHY41rDk,"point_of_interest, establishment",3298 خالد بن الوليد، الراكة الشمالية، الدمام 34225,OPERATIONAL,5,1,26.363791191623783,50.18770846557618,493.7
+5,شركة التوريدات المكانيكية والكيماويات,ChIJwWJZfFvvST4RVF8FLtfL2TQ,"point_of_interest, establishment","956R+6GP, Dammam",OPERATIONAL,4.2,6,26.363791191623783,50.18770846557618,507.25
+5,SAB الأول,ChIJB-gPgFvvST4R8y78yt1S7oM,"atm, finance, point_of_interest, establishment","Panda, Al Rakah Ash Shamaliyah بنده،, الخبر",OPERATIONAL,4,3,26.363791191623783,50.18770846557618,508.16
+5,مدرسة الشرق الساطع العالمية,ChIJfWrCL13vST4RYFxGu3bQCQs,"school, point_of_interest, establishment","Ibn Al Muqrb, Dammam",OPERATIONAL,3,61,26.363791191623783,50.18770846557618,530.61
+5,Alinma Bank | مصرف الإنماء,ChIJqW2gPjnvST4RiESNM4P8reY,"bank, finance, point_of_interest, establishment",الخبر,OPERATIONAL,3.7,158,26.363791191623783,50.18770846557618,553.56
+5,Al Tuwairqi Holding Company,ChIJoTiJ42HvST4RNzUi9PHTZQ8,"point_of_interest, establishment","King Fahd Road, 958M+P7X, Dammam",OPERATIONAL,4,92,26.363791191623783,50.18770846557618,561.61
+5,Air Liquide Arabia,ChIJg3MJCorlST4RuMFhIpQDk6k,"point_of_interest, establishment","King Fahd Road, 958M+Q7F, Dammam",OPERATIONAL,3.7,39,26.363791191623783,50.18770846557618,572.86
+5,شركة ثمار الجزيرة الطبية,ChIJg7Fa6FvvST4R7K3IQDP4zDs,"point_of_interest, establishment","بن عبد العزيز, 7211 طريق الملك فهد, Al Khobar",OPERATIONAL,1,3,26.363791191623783,50.18770846557618,578.02
+5,Classy Corner For Decor,ChIJIW1w6lvvST4RWOnPKyu0REE,"point_of_interest, establishment","Granada Street, 955Q+FRH, Al Khobar",OPERATIONAL,3,1,26.363791191623783,50.18770846557618,595.19
+5,Khobar Veterinary Clinic,ChIJBw9O_IjlST4Rrq-Gvn0xcv0,"veterinary_care, point_of_interest, establishment","King Fahd Road, Opp. Khobar Driving School, Rakah, Dammam",CLOSED_TEMPORARILY,3.8,278,26.363791191623783,50.18770846557618,745.8
+5,مركز صحي الراكة,ChIJQ5w7pELvST4RdzT_FBGRvTE,"health, point_of_interest, establishment","شارع أبو المجد،, Al Khobar",OPERATIONAL,3.4,156,26.363791191623783,50.18770846557618,705.14
+5,AISSOL - Advanced Industrial Safety Solutions - For all your Fire & Safety needs,ChIJZ7kEw1vvST4RRREO8Fg4MIk,"point_of_interest, establishment","Kinan Al Sharq Business Center, 3rd Floor, Khaled Ibn Al Walid Street, Al Khobar",OPERATIONAL,5,9,26.363791191623783,50.18770846557618,738.25
+5,High Tech Automation Zone Company Ltd,ChIJYVZCJhH-ST4R5agY2ufw_8E,"point_of_interest, establishment","Khaled Ibn Al Walid Street, Dammam",OPERATIONAL,4.7,12,26.363791191623783,50.18770846557618,744.47
+5,Alruqee Group,ChIJr27qlonlST4RA0-450fHlac,"point_of_interest, establishment","Opposite Khobar Driving School Above Sony Service Center Al Bawardy Building, Al Khobar",OPERATIONAL,4.3,53,26.363791191623783,50.18770846557618,753.41
+5,شركة تركيز للإستشارات الإدارية,ChIJ80iOWqXoST4RTjVjMG7HP58,"finance, point_of_interest, establishment","7554 Khalid Ibn Al Walid, 3676, Dammam",OPERATIONAL,4.6,5,26.363791191623783,50.18770846557618,765.95
+5,Manoosha Alreef,ChIJw40Hg0PvST4R6aQnzfwJTSQ,"restaurant, food, point_of_interest, establishment","Khaled Ibn Al Walid Street, Dammam",OPERATIONAL,4.1,1445,26.363791191623783,50.18770846557618,864.77
+5,Garden Restaurant,ChIJpfuMJIjlST4RJDxwI3Ji4_E,"restaurant, food, point_of_interest, establishment","Alemad Alasfahani Street, شارع العماد الأصفهاني، الراكة الشمالية - الخبر, Shamaliyah",CLOSED_TEMPORARILY,4,76,26.363791191623783,50.18770846557618,878.12
+5,Verona Villas,ChIJZ5vy_UTvST4RmUpqGemnBZI,"point_of_interest, establishment","شارع 35 ب تقاطع شارع الطاهري, Al Khobar",OPERATIONAL,4.3,24,26.363791191623783,50.18770846557618,935.77
+5,Dammam Sports City,ChIJ1W-thfXlST4RTi3CHPTKpTU,"point_of_interest, establishment","955P+HG5, Dammam",OPERATIONAL,4.4,1811,26.363791191623783,50.18770846557618,559.73
+5,Saadeddin Pastry,ChIJbxx6g0PvST4R8aiPMipakR4,"cafe, store, food, point_of_interest, establishment",Al Khobar,OPERATIONAL,4,795,26.363791191623783,50.18770846557618,982.13
+5,Changan Almajdouie Dhahran - Showroom | معرض شانجان المجدوعي الظهران,ChIJIecUnYzlST4ReIPxxqR2P2E,"car_dealer, store, point_of_interest, establishment","4280 King Saud Bin Abdulaziz Road, 7682, Dhahran",OPERATIONAL,3.8,1760,26.363791191623783,50.18770846557618,995.43
+5,شركة وصيانة الرافعات,ChIJUz91UEXvST4R2IkGmClWzRI,"point_of_interest, establishment","7036 Andalus Street, Al Khobar",OPERATIONAL,4.6,20,26.363791191623783,50.18770846557618,989.55
+5,SMSA Service Center,ChIJhXb480PvST4R9_24qvHdH_s,"point_of_interest, establishment","Khalid Ibn Al Waleed Street, Al Khobar",OPERATIONAL,2.6,399,26.363791191623783,50.18770846557618,996.41
+5,IISDM prep 1,ChIJPbq4a0LvST4RHQ2MW77RHdU,"school, point_of_interest, establishment","3911 مصطفى صادق الرفاعي, 8055, Dammam",OPERATIONAL,4.7,3,26.363791191623783,50.18770846557618,998.74
+5,ورشة فنون السرعة لصيانة السيارات,ChIJ3V0WrsvvST4RMwbYjxuDoqY,"point_of_interest, establishment","عبدالله المنيعي, 957Q+828, Dammam",OPERATIONAL,3,1,26.363791191623783,50.18770846557618,56.24
+5,Alqahtani compound,ChIJC20In2DvST4RLepsw7c4ZZk,"lodging, point_of_interest, establishment","محمد قطب, 957P+JR7, Dammam",OPERATIONAL,3.7,22,26.363791191623783,50.18770846557618,70.66
+5,Initial Saudi Arabia Group,ChIJx_WIyEDvST4R6y7GausVhZw,"point_of_interest, establishment","4415 خالد بن الوليد, 7882, الخبر",OPERATIONAL,3.4,100,26.363791191623783,50.18770846557618,137.91
+5,HEADOFFICE,ChIJ7-5JLF7vST4RmgaHBJ_XXLw,"point_of_interest, establishment","King Fahd Road, 957P+8HJ, Dammam",OPERATIONAL,3.9,189,26.363791191623783,50.18770846557618,140.84
+5,Sahab Business Center,ChIJ7-2RLA_vST4RHiA1rEfKmiE,"point_of_interest, establishment","2789 طريق الملك عبدالعزيز, 7777 King Fahd Ibn, الدمام",OPERATIONAL,4.5,2,26.363791191623783,50.18770846557618,149.19
+5,شركة ريماس الخليج الدولية RGI Remas Gulf International,ChIJaynWUgDvST4RE0lls33WDec,"point_of_interest, establishment","Sahab Business Center, King Fahd Road, Al Khobar",OPERATIONAL,3,2,26.363791191623783,50.18770846557618,149.68
+5,UTESCO,ChIJ68DLKl7vST4RJWnC-BaSdD8,"point_of_interest, establishment","7777 King Fahd Road, Dammam",OPERATIONAL,3.6,14,26.363791191623783,50.18770846557618,156.35
+5,Al Khodari Compound2 Dammam,ChIJUZrcVkvvST4R59fHJZ7fG8k,"point_of_interest, establishment","956Q+W3R, Dammam",OPERATIONAL,3.7,13,26.363791191623783,50.18770846557618,159.25
+5,Almajdouie Genesis,ChIJeaZzVS7vST4R74dhElKxwto,"car_dealer, store, point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4.4,71,26.363791191623783,50.18770846557618,161.9
+5,Integrated Technologies for Industrial Services Co. Ltd.,ChIJ3ZRvedblST4R9GHGhgAg7lk,"point_of_interest, establishment","7777 King Fahd Road, EADB7777، 7777 طريق الملك فهد، 2789، حي الراكة الشمالية،, Dammam",OPERATIONAL,3.2,10,26.363791191623783,50.18770846557618,164.68
+5,SAUDI POWERLINE CO.,ChIJ-bwpVADvST4RGzOMWXPL5gQ,"point_of_interest, establishment","957P+GC3, Dammam",OPERATIONAL,N/A,N/A,26.363791191623783,50.18770846557618,165.36
+6,Al Rajhi Bank,ChIJT6nWJmrkST4RZbxyh4usJnM,"atm, finance, point_of_interest, establishment","H.E Ali Naimi Street, 84W9+HXQ, Dhahran",OPERATIONAL,3.4,14,26.35046136669894,50.12370846557617,578.99
+6,Incense Route Company,ChIJkXQG0kXkST4RQu8z8wwNiQs,"point_of_interest, establishment","4796 King Abdulaziz Rd, Tihamah, Dhahran 34255 7463 King Abdulaziz Road, Dhahran",OPERATIONAL,4,2,26.35046136669894,50.12370846557617,579.87
+6,HTGroup,ChIJWSX8IULkST4RmNXpwdM2NgQ,"point_of_interest, establishment","King Abdulaziz Branch Road, 942H+4RJ, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.12370846557617,580.77
+6,Saadeddin Pastry,ChIJeTxEt0jkST4RjcdlhLw_Pi0,"bakery, food, store, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4,523,26.35046136669894,50.12370846557617,905.6
+6,Dhahran General Hospital,ChIJLR-kxWrkST4RodhwoOWRIkE,"hospital, health, point_of_interest, establishment",Dhahran,OPERATIONAL,3.1,68,26.35046136669894,50.12370846557617,906.28
+6,الصالة الرياضية,ChIJ03cEXiDlST4RQrNsyeKjFYc,"gym, health, point_of_interest, establishment","942C+4G, Dhahran",OPERATIONAL,3,5,26.35046136669894,50.12370846557617,244.75
+6,Kent Dammam Site,ChIJMTzcJQDlST4RVAvIJ-EVgEU,"general_contractor, point_of_interest, establishment","7388 طريق الملك عبدالعزيز, EAMA4586, 4586, الظهران",OPERATIONAL,4.7,3,26.35046136669894,50.12370846557617,322.56
+6,Shaikh brother,ChIJ14-z4F3lST4RDK1qSiyZaxY,"store, point_of_interest, establishment","King Abdulaziz Road, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,410.9
+6,مستوصف مجمع قوات الدفاع الجوي بالظهران,ChIJWfxQ5TDlST4RkOP2_gvJGmQ,"hospital, health, point_of_interest, establishment",3914، هجر، الظهران 34255 7766،,OPERATIONAL,3.3,6,26.35046136669894,50.12370846557617,423.31
+6,Soccer Field,ChIJqXhXOEHkST4RV1mf2fbR-Z8,"point_of_interest, establishment","Al Tabari Street, 84XG+2J2, Dhahran",OPERATIONAL,4.3,4,26.35046136669894,50.12370846557617,431.76
+6,مدرسة آبي هريرة الأبتدائية بالدمام ( بنين,ChIJczc4XwDlST4RjuGKENMZgHc,"primary_school, school, point_of_interest, establishment","943C+PPJ, Dammam",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,471.26
+6,Aramco Environmental Park 1,ChIJ7TXpklTlST4RbAY7d-honeE,"park, point_of_interest, establishment","Al Tabari Street, 84WG+MCW, Dhahran",OPERATIONAL,4.4,599,26.35046136669894,50.12370846557617,475.48
+6,Aramco Environmental Park 1 Parking Lot,ChIJYQtVLEHkST4RQqNYPoC-m8k,"point_of_interest, establishment","Al Tabari Street, 84WG+PH5, Dhahran",OPERATIONAL,4.5,53,26.35046136669894,50.12370846557617,494.66
+6,Rumaizan Tower,ChIJcZbi4S7lST4RxzEZU7H6tNs,"point_of_interest, establishment","تهامة،, Dhahran",OPERATIONAL,4.8,4,26.35046136669894,50.12370846557617,501.28
+6,شركة تقين لتقنية المعلومات Taqeen,ChIJ704x36DlST4RCE6V7cNoIP0,"point_of_interest, establishment","King Abdulaziz Branch Road, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.12370846557617,550.82
+6,مكتب تصاريح دخول مجمع اسكان قوات الدفاع الجوي,ChIJh1XbEfvlST4RmzYgJbDJEN0,"point_of_interest, establishment","84W9+QW4, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,554.86
+6,Smart Trailer Est.,ChIJu79zeGDlST4RpWEDWPn8Y0M,"store, point_of_interest, establishment","King Abdulaziz Branch Road, 942H+2P2, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,556.46
+6,Alfifa for tourism,ChIJJTkWdunlST4RTMC_41PMcZw,"point_of_interest, establishment","10 King Abdulaziz Branch Road, Dhahran",OPERATIONAL,3.2,5,26.35046136669894,50.12370846557617,563.25
+6,Tihamah,ChIJkSqbzFrkST4RPg8KfznaGTY,"sublocality_level_1, sublocality, political",Tihamah,UNKNOWN,N/A,N/A,26.35046136669894,50.12370846557617,748.79
+6,قيادة اللواء الاول بالدفاع الجوي,ChIJMYvmSqnlST4Rx53T-pPs_84,"point_of_interest, establishment","EAMA7109، 7109 192 غرب الظهران، 3798، حي هجر،, Dhahran",OPERATIONAL,4,1,26.35046136669894,50.12370846557617,566.96
+6,SEC Aljamiah Substation,ChIJUWSLMkfkST4RGTpv7uX4_i0,"point_of_interest, establishment","84WG+9G9, Dhahran",OPERATIONAL,3.3,4,26.35046136669894,50.12370846557617,569.94
+6,تقنية التحكم الذكي - ICTSmart,ChIJ388fIM3lST4RouZZJT-n3pI,"store, point_of_interest, establishment","4796 King Abdulaziz Road, 7463, Dhahran",OPERATIONAL,4.6,7,26.35046136669894,50.12370846557617,580.03
+6,United Expertise for Environmental Consultancies,ChIJbzKkRDRDsqcRDoYlfOZ7LLE,"point_of_interest, establishment","King Abdulaziz Branch Road, Dhahran",OPERATIONAL,4.1,9,26.35046136669894,50.12370846557617,581.73
+6,Daharan,ChIJIW8GCQDlST4R40GezDddju8,"general_contractor, point_of_interest, establishment","King Abdulaziz Road, 942H+4RM, Dammam",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,581.97
+6,شركة هجال للخدمات البيئية,ChIJtcfE4iDlST4RfNysUxihjRo,"point_of_interest, establishment","King Abdulaziz Road, Dhahran",OPERATIONAL,4,1,26.35046136669894,50.12370846557617,583.89
+6,AlRayis Mosque,ChIJ88QFykXkST4RvFJApwlUFdM,"mosque, place_of_worship, point_of_interest, establishment","Yousef Abu Altheeb Street, 942H+CRC, Dhahran",OPERATIONAL,4.7,91,26.35046136669894,50.12370846557617,583.86
+6,NADEL | مؤسسة نادل للخدمات التجارية,ChIJAa7qwTDlST4RPgJlI1G3rXg,"point_of_interest, establishment","King Abdulaziz Road, 942H+6RM, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,584.49
+6,مكتب هديل للخدمات التجارية,ChIJhYVh0UXkST4RQlSOT0r31q4,"point_of_interest, establishment","942H+3RF, Dhahran",OPERATIONAL,4,2,26.35046136669894,50.12370846557617,584.76
+6,Technology Ventures Middle East,ChIJNZvTniflST4RezDX0VPgD3A,"point_of_interest, establishment","مبنى الوليدي للأعمال, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,585.13
+6,شاي نردين,ChIJo6SQUZblST4R2jdWUwqaTKU,"point_of_interest, establishment",Dhahran,OPERATIONAL,4.7,207,26.35046136669894,50.12370846557617,585.44
+6,الشركة العربية الرائدة للحراسات الأمنية arabian pioneer company for security guards,ChIJv-d3Rx7lST4RWlgS4Z8fNqs,"point_of_interest, establishment","10 King Abdulaziz Branch Road, Dhahran",OPERATIONAL,4.6,33,26.35046136669894,50.12370846557617,585.66
+6,مؤسسة حصيرة للمقاولات العامة,ChIJLeggoX7lST4Ry1bj4Nd4Jj0,"general_contractor, point_of_interest, establishment","King Abdulaziz Road, 942H+3R8, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.12370846557617,586.64
+6,مؤسسة عالم التفاني للمقاولات العامه المصمم السعودي للديكور,ChIJgX42dNrlST4RWPm2Xke_lIg,"general_contractor, point_of_interest, establishment","942H+3R8، تهامة،،،, 942H+3R8, Dhahran",OPERATIONAL,3.7,3,26.35046136669894,50.12370846557617,586.68
+6,مبنى الوليدي للأعمال,ChIJC4mTmz3lST4RUaLJSatxaqk,"point_of_interest, establishment","942H+3R8, Dhahran",OPERATIONAL,5,7,26.35046136669894,50.12370846557617,586.68
+6,Alhasan Bin Ali Mosque,ChIJkwsCIEfkST4RD6_Jndeqznw,"mosque, place_of_worship, point_of_interest, establishment","Alhasan Bin Ali Mosque, Dhahran",OPERATIONAL,4.9,27,26.35046136669894,50.12370846557617,586.73
+6,Almalfa,ChIJF59cFQDlST4RJSce7DODkT0,"lodging, point_of_interest, establishment","14 Street, Dhahran",OPERATIONAL,5,10,26.35046136669894,50.12370846557617,587.79
+6,استراحة البراك,ChIJXwu1YADlST4RhkKC1nh3aQA,"point_of_interest, establishment","Altasamuh Park, 14 Street, Dhahran",OPERATIONAL,5,11,26.35046136669894,50.12370846557617,588.96
+6,قوات الدفاع الجوي الخامسة,ChIJ4xl_AgDlST4RGpaUaIzYBP0,"point_of_interest, establishment","H.E Ali Naimi Street, 84W9+HXQ, Dhahran",OPERATIONAL,4.8,5,26.35046136669894,50.12370846557617,596.3
+6,مكتب ترغيب للخدمات العقارية,ChIJfQ27TgDlST4RwnVNyhRIWY0,"real_estate_agency, point_of_interest, establishment","King Abdulaziz Branch Road, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.12370846557617,603.37
+6,Forgiveness Park,ChIJc5jNS1vkST4RxiJ6eOiMvFg,"park, point_of_interest, establishment","14 Street, Dhahran",OPERATIONAL,4.3,48,26.35046136669894,50.12370846557617,616.43
+6,"مشروع فلل سيال شركة إحياء العقارية Type B,C",ChIJ9wFOaQDlST4Rl8KWNfgi4Fw,"point_of_interest, establishment","943H+M8Q, Dhahran",OPERATIONAL,1,1,26.35046136669894,50.12370846557617,622.93
+6,Gazebo,ChIJmZWW9KPlST4RbG7Ocz3e_2o,"general_contractor, point_of_interest, establishment","7930 Al Tabari Street, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,625.96
+6,مسجد سعد بن عبادة,ChIJt0oI_VTlST4RNzmCRYCjMp0,"mosque, place_of_worship, point_of_interest, establishment",3673، هجر، الظهران 34255 7806،,OPERATIONAL,4.8,4,26.35046136669894,50.12370846557617,640.75
+6,Ehya Villas,ChIJc4A4IQDlST4Rxm-PERS5teQ,"point_of_interest, establishment","F448+P2F, Dammam",OPERATIONAL,4.7,3,26.35046136669894,50.12370846557617,655.62
+6,قاعة الدفاع الجوي بالظهران,ChIJIdW0KerlST4ReFgn_xobPxU,"point_of_interest, establishment","H.E Ali Naimi Street, 84W9+JF8, Dhahran",OPERATIONAL,4.4,54,26.35046136669894,50.12370846557617,662.58
+6,Salman khan,ChIJ-Z4nNwDlST4R16xLdSEVGKU,"place_of_worship, point_of_interest, establishment","7881 HJ 41 هجر, EAMA3657، 3657, الظهران",OPERATIONAL,5,4,26.35046136669894,50.12370846557617,693.22
+6,الدفاع المدني اسكان الدفاغ الحوي,ChIJe9Abvn3lST4RAn1QMFhb2H8,"point_of_interest, establishment","7755 HJ 33 هجر, EAMA3580، 3580, Dhahran",OPERATIONAL,4,1,26.35046136669894,50.12370846557617,698.18
+6,Mervat Al Nasser Grocery,ChIJHZUhOADlST4Ry33JeXTF5WQ,"point_of_interest, establishment","942J+J9X, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,737.24
+6,Bandariyah Grocery,ChIJZTS1kkXkST4RpJJabUq1ygs,"grocery_or_supermarket, store, food, point_of_interest, establishment","942J+J9X, Dhahran",OPERATIONAL,3.4,92,26.35046136669894,50.12370846557617,737.24
+6,Velvet Rose | أسر منتجة | ورق عنب,ChIJ4x6vp67lST4Rh1gBWKHAVoU,"restaurant, food, point_of_interest, establishment","943J+954, Dhahran",OPERATIONAL,4.6,16,26.35046136669894,50.12370846557617,748.79
+6,مدرسة حمزة الكوفي الابتدائية والمتوسطة لتحفيظ القرآن الكريم,ChIJNwV9eKLlST4Ru7DwG9_2Ztg,"school, point_of_interest, establishment","3656 Saadah Street, Dhahran",OPERATIONAL,3.8,12,26.35046136669894,50.12370846557617,754.36
+6,Abughania Family,ChIJjRH4piXlST4RSub99VrgutI,"point_of_interest, establishment","Balsam Street, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.12370846557617,759.92
+6,Karama Elementary School,ChIJ4_9UjmjlST4Rw8VbosIEWmE,"school, point_of_interest, establishment","3656 Saadah Street, Dhahran",OPERATIONAL,4,21,26.35046136669894,50.12370846557617,759.53
+6,مجمع منذر بن سعيد,ChIJo36mpgXlST4RBldJIYX_z2s,"school, point_of_interest, establishment","9428+XHR, Dhahran",OPERATIONAL,2.6,31,26.35046136669894,50.12370846557617,762.49
+6,مدرسة زينب بنت ابي سلمة,ChIJmQlSSG_kST4RBnnq2HZ6ak4,"school, point_of_interest, establishment","84X8+J9C, Dhahran",OPERATIONAL,3.5,8,26.35046136669894,50.12370846557617,797.09
+6,Abdullah Ibn Masoud Mosque,ChIJCf8ZfEfkST4RvFVJcjbRbPg,"mosque, place_of_worship, point_of_interest, establishment","Sariyah Street, 84VH+XG5, Dhahran",OPERATIONAL,4.4,16,26.35046136669894,50.12370846557617,803.83
+6,Sawsan Park,ChIJURvXojXlST4Rd7xEjxA4vf8,"park, point_of_interest, establishment","Sakeena Street, 84WH+2J3, Dhahran",OPERATIONAL,3.6,9,26.35046136669894,50.12370846557617,806.63
+6,جهاز خدمة ابشر,ChIJLVt4HIDlST4RR1ZAfV9frIM,"point_of_interest, establishment","84VC+84H, Dhahran",OPERATIONAL,1,1,26.35046136669894,50.12370846557617,856.86
+6,Ahmed Alsaeed Mosque,ChIJQVWvA1vkST4RYNojL3VBgVg,"mosque, place_of_worship, point_of_interest, establishment","944H+JHQ, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.12370846557617,857.8
+7,Riyad Bank,ChIJmazaHjbkST4R7UG70UaOi88,"atm, finance, point_of_interest, establishment","Al Asmaie Street, 84WP+J9V, Dhahran",OPERATIONAL,3.1,8,26.35046136669894,50.13970846557618,570.51
+7,جوتن الظهران - مؤسسة أحلى لون,ChIJzzkEg0rkST4RAF2r1lFWleA,"home_goods_store, store, point_of_interest, establishment","Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,4.5,92,26.35046136669894,50.13970846557618,246.1
+7,Arch Galleries - مؤسسة أروقة المعرض للمقاولات,ChIJDVKDSTXkST4RoRLfyP9uu3Q,"point_of_interest, establishment","Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,4.6,10,26.35046136669894,50.13970846557618,189.01
+7,National Commercial Bank,ChIJUy-trsrlST4R9dLcwOo2pY8,"bank, finance, point_of_interest, establishment","Ibn Al Ameed Street, Dhahran",OPERATIONAL,3.9,15,26.35046136669894,50.13970846557618,319.77
+7,McDonald's,ChIJ37fFu8rlST4Rbqbvz1Cni54,"restaurant, food, point_of_interest, establishment","طريق الأمير محمد بن فهد بن عبدالعزيز, Dhahran, الخبر",OPERATIONAL,3.8,2843,26.35046136669894,50.13970846557618,402.63
+7,Maestro Pizza,ChIJZwRQvMrlST4RpzgsOXgVV7w,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Branch Road, Dhahran",OPERATIONAL,4.1,520,26.35046136669894,50.13970846557618,427.44
+7,Dantella,ChIJMxcdlcrlST4RZ2dJ36ZxiU4,"bakery, store, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.1,1755,26.35046136669894,50.13970846557618,441.61
+7,Domino's Pizza,ChIJ95s8lmrgST4RUhkm816LJx8,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3.6,342,26.35046136669894,50.13970846557618,442.15
+7,ZAD,ChIJxcUx5MrlST4RJIT2kxpNfp4,"point_of_interest, establishment","84XV+2FH, Dhahran",OPERATIONAL,4.9,8,26.35046136669894,50.13970846557618,515.41
+7,KFC,ChIJNSrr_MrlST4Rn_9-1ck2q9k,"restaurant, food, point_of_interest, establishment","Prince Mohamed Ben Fahd ST., Al Doha",OPERATIONAL,3.7,1224,26.35046136669894,50.13970846557618,541.77
+7,Bawan Broasted,ChIJX0_jsEnkST4RMG_lJofT2IM,"meal_takeaway, restaurant, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4,976,26.35046136669894,50.13970846557618,567.41
+7,Petromin Express,ChIJ3eJ_NTTkST4Rr-K791ZlQvI,"car_wash, car_repair, store, point_of_interest, establishment","Ibn Al Ameed Street, Dhahran",OPERATIONAL,4.1,219,26.35046136669894,50.13970846557618,600.16
+7,صراف بنك الجزيره,ChIJYb8XMTTkST4RUqjv_UmDOMQ,"atm, finance, point_of_interest, establishment","Al Subaie, Dhahran",OPERATIONAL,3.2,6,26.35046136669894,50.13970846557618,642.18
+7,Luqaymat Bint Al Qadi,ChIJI0NjMTTkST4R0QDCbURpgAc,"store, restaurant, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4.1,694,26.35046136669894,50.13970846557618,649.44
+7,ليمو سيرفيس للنقل,ChIJ6-FoMTTkST4RX4qCXCCUrPs,"point_of_interest, establishment","34257, الظهران",OPERATIONAL,4.8,5,26.35046136669894,50.13970846557618,653.83
+7,SAB الأول,ChIJwen3psvlST4Rb9bHC0r7j5k,"bank, finance, point_of_interest, establishment","حي, Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3.3,52,26.35046136669894,50.13970846557618,655.98
+7,شركة مهن للموارد البشرية,ChIJq7i9hvLiST4RjcZVuxtFepY,"point_of_interest, establishment","Building No. 3320, Al Imram Muhammad lbm Abdul Wahab, Dammam",OPERATIONAL,3.5,467,26.35046136669894,50.13970846557618,664.82
+7,Saadeddin Pastry,ChIJeTxEt0jkST4RjcdlhLw_Pi0,"bakery, store, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4,523,26.35046136669894,50.13970846557618,692.38
+7,Beit Misk Restaurant,ChIJxxMXosvlST4RdnE3CVkqWcc,"restaurant, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3.8,4516,26.35046136669894,50.13970846557618,703.02
+7,قطوف وحلا,ChIJIwuFesvlST4REy85ufH-qYg,"store, food, point_of_interest, establishment","Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,4.1,1422,26.35046136669894,50.13970846557618,725.6
+7,Alinma Bank | مصرف الإنماء,ChIJ7e01i8vlST4RKvKet6cH_dc,"bank, finance, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, حي, Dhahran",OPERATIONAL,4.2,78,26.35046136669894,50.13970846557618,819.17
+7,Green Hands Group,ChIJu5NzBczlST4RsNR5_Le4hiY,"point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3,1,26.35046136669894,50.13970846557618,850.54
+7,Ice Gate HVAC Co شركة بوابة الجليد للتكييف,ChIJ90CCZczlST4RlGPWWxITsSY,"general_contractor, point_of_interest, establishment",Dhahran,OPERATIONAL,4.3,21,26.35046136669894,50.13970846557618,874.14
+7,JNA INVESTMENT جنى للاستثمار,ChIJGV6_CMzlST4RT8AW44MAbMA,"finance, point_of_interest, establishment","84WW+4HH, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.13970846557618,884.47
+7,Company shares real estate stock exchange,ChIJtYbKC8zlST4R6RmD04Tffxc,"point_of_interest, establishment","84WW+4H3, Dhahran",OPERATIONAL,1.8,5,26.35046136669894,50.13970846557618,885.61
+7,Smoothie Factory,ChIJjd_tiNDlST4Rz2TNd1p_k4w,"food, point_of_interest, establishment","619, Dhahran",OPERATIONAL,4.2,373,26.35046136669894,50.13970846557618,888.57
+7,Zain KSA - Shop,ChIJZ1iPaSboST4RfaZQUJjxCWI,"point_of_interest, establishment","Tilal Doha Complex, Al Taraji, Dhahran",OPERATIONAL,3.5,136,26.35046136669894,50.13970846557618,911.61
+7,شركة فيلوسي العربية السعودية المحدودة,ChIJbZovBczlST4RF8Tqq6uOidU,"point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Al Qusur, Unit No. 3, Talal Al-Doha Building Sub of, Dhahran",OPERATIONAL,3.8,134,26.35046136669894,50.13970846557618,915.39
+7,Musaned For Information Technology,ChIJpQo4BczlST4Rjy4GuJF14TI,"point_of_interest, establishment","Ibn Al Muqarab Street, 84WW+2M6, Dhahran",OPERATIONAL,4.8,11,26.35046136669894,50.13970846557618,916.8
+7,Mishwar Express,ChIJM0_N58rlST4Ru-oBdcZIaro,"restaurant, food, point_of_interest, establishment","طريق الأمير محمد بن فهد, مقابل البنك الاهلي, بجانب زين, الظهران",OPERATIONAL,3.4,742,26.35046136669894,50.13970846557618,921.86
+7,SNB AlAhli,ChIJ29r9G8zlST4R1hr-EUXRBRg,"bank, finance, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, 84VW+WQ, Dhahran",OPERATIONAL,4.2,394,26.35046136669894,50.13970846557618,953.51
+7,Hai Aljamiah Shopping Center,ChIJ73vVGzbkST4RuII8kN6UgDc,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4.2,401,26.35046136669894,50.13970846557618,574.17
+7,ادارة شركة الاحيدب,ChIJr7UCfwDlST4RKU8Agoi2H7o,"point_of_interest, establishment","942Q+2P2, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.13970846557618,62.39
+7,Al Kasibee Trd.Cont. Est,ChIJuw6WWUrkST4RAAy-Pq1smPk,"real_estate_agency, point_of_interest, establishment","942Q+2P2, Dhahran",OPERATIONAL,4.5,4,26.35046136669894,50.13970846557618,66.91
+7,ARSH real estate evaluation,ChIJA3d2tIjlST4RpwrSVTunFko,"real_estate_agency, point_of_interest, establishment","8376 Prince Mohammed Bin Fahd Road, 4442, Dhahran",OPERATIONAL,4,1,26.35046136669894,50.13970846557618,74.52
+7,شركة علي سعد آل شبلان القحطاني المحدوده للإستثمار والتطوير العقاري,ChIJ8zHzUkrkST4RUXp1s3BHqRw,"general_contractor, finance, point_of_interest, establishment","Prince Mohammed Bin Fahd Branch Road, 942Q+4HP, شارع سعيد بن مسيب،, Dhahran",OPERATIONAL,3.7,3,26.35046136669894,50.13970846557618,75.73
+7,Rustic colour,ChIJZwMBqOflST4Rrec2ObFC6vA,"general_contractor, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,82.19
+7,مكتب اطلس اليوم للعقارات,ChIJ5dOu-UrkST4R6Na9KmyxX8M,"point_of_interest, establishment","619،, Dhahran",OPERATIONAL,3.8,5,26.35046136669894,50.13970846557618,87.85
+7,فلا الشرق للخدمات العقارية,ChIJ05bBskvkST4RUaiZllNBHYE,"real_estate_agency, point_of_interest, establishment","شارع سعيد بن المسيب، طريق الأمير محمد بن فهد الفرعي, 942Q+5GV, Dhahran",OPERATIONAL,3.8,4,26.35046136669894,50.13970846557618,91.4
+7,الشقردية | Al Shgardia,ChIJ0XliAkDlST4RNIWjHZ-SrK0,"point_of_interest, establishment","8357, 4420, Saudi Arabia, الظهران",OPERATIONAL,1,1,26.35046136669894,50.13970846557618,93.77
+7,مؤسسة اتحاد الدانة للمقاولات العامة,ChIJ-bXo9b_lST4RvaUpPX454RM,"general_contractor, point_of_interest, establishment","Prince Mohammed Bin Fahd Branch Road, شارع سعيد بن المسيب, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.13970846557618,94.23
+7,Lily Salon,ChIJZYsEXO_lST4RPPJ6BowE8ns,"beauty_salon, hair_care, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.5,296,26.35046136669894,50.13970846557618,96.13
+7,منصات Mnasat,ChIJp6RLb_v7ST4RENgV7_ah4y4,"point_of_interest, establishment","8357, 4420 الظهران - الربوة SA, Dhahran",OPERATIONAL,4.9,9,26.35046136669894,50.13970846557618,103.09
+7,نادي الصحة الافضل النسائي,ChIJTxXmRi_lST4R6M-tgopteyo,"gym, health, point_of_interest, establishment",Al Khobar,OPERATIONAL,4.2,85,26.35046136669894,50.13970846557618,120.76
+7,مبنى الجوهرة السكني,ChIJk-opGnblST4RJtjGJFG_zx4,"point_of_interest, establishment",Dhahran,OPERATIONAL,3.7,3,26.35046136669894,50.13970846557618,130.74
+7,اي بيتزا الايطالية,ChIJYyE7M0LlST4RiimD7qnn2V4,"restaurant, food, point_of_interest, establishment",Dhahran,OPERATIONAL,4.2,10,26.35046136669894,50.13970846557618,146.06
+7,Al-Qusour,ChIJCzlbVQDlST4RelrVE8DTiKs,"point_of_interest, establishment","14 (A) Street, 942R+9F4, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.13970846557618,157.42
+7,wamdah,ChIJzSVLwG7lST4R9b29ibn-64w,"point_of_interest, establishment",الظهران,OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,161.94
+7,مؤسسة شبكة الرؤية الامنية,ChIJheB3o3zlST4RzWTVQtctnIY,"store, point_of_interest, establishment","4550 Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,4.7,10,26.35046136669894,50.13970846557618,166.16
+7,مؤسسه راف المتقدمه للمقاولات,ChIJUyABiTHlST4RYbZdC3DQk2E,"general_contractor, point_of_interest, establishment","Saeed Ibn Al Museeb Street, 84XR+J44, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.13970846557618,170.3
+7,مكتب المحامي عمر بن معوضه,ChIJvTts0erlST4RYF9KTUg-KZw,"lawyer, point_of_interest, establishment",Dhahran,OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,170.36
+7,مؤسسة ابراج الخبر للخدمات العقارية,ChIJY-MBeeHlST4R1HLHXOQeBXg,"real_estate_agency, point_of_interest, establishment","ابن المسيب, 84XR+H5V, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,172.35
+7,Ishraq Real Estate Services,ChIJZ7jkHQDlST4R5e6lDbmJLvg,"real_estate_agency, point_of_interest, establishment",Dhahran,OPERATIONAL,4.9,363,26.35046136669894,50.13970846557618,173.74
+7,مؤسسة نوره الرميلي التجارية,ChIJUfuf4grlST4RDBeSMYKkNEI,"point_of_interest, establishment","84XR+H5V، ابن المسيب، حي الجامعة،, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,182.67
+7,العويد للتطوير العقاري,ChIJqYBvEQDlST4RfsYqNPWqg1k,"real_estate_agency, point_of_interest, establishment","8242 Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,4.3,12,26.35046136669894,50.13970846557618,197.68
+7,مؤسسة السد العربي للمقاولات العامة,ChIJ3dBpwBnlST4RUCEkJ_k6ELg,"general_contractor, point_of_interest, establishment","8242 Saeed Ibn Al Museeb Street, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,204.22
+7,Al-Qusour Residential Buildings 1 & 2,ChIJV_OnbUvkST4R2tNf_pWyOOE,"point_of_interest, establishment","942R+W46, Dhahran",OPERATIONAL,4.3,53,26.35046136669894,50.13970846557618,209.17
+7,إيوان القصور | اثراء الدمام العقارية,ChIJeTTMgb3lST4RJcMSAmKXRJc,"point_of_interest, establishment","حي, Prince Mohammed Bin Fahd Branch Road, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.13970846557618,212.96
+8,Dhahran Hills Schools,ChIJFVpiVcPlST4RQ5a9ifoaq2Q,"school, point_of_interest, establishment","Jarir Street, Dhahran",OPERATIONAL,4.2,267,26.35046136669894,50.15570846557618,693.03
+8,شركة مهن للموارد البشرية,ChIJq7i9hvLiST4RjcZVuxtFepY,"point_of_interest, establishment","Building No. 3320, Al Imram Muhammad lbm Abdul Wahab, Dammam",OPERATIONAL,3.5,467,26.35046136669894,50.15570846557618,950.46
+8,Mustafa Almusailet House,ChIJ-RlnOgDlST4RXb35GHWGc1g,"point_of_interest, establishment","9524+69W, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,30.23
+8,My Little Heaven,ChIJ1V_N8cblST4R6HgYvHwTPwE,"school, point_of_interest, establishment","Prince Ahmed Street, 9524+43Q, Dhahran",OPERATIONAL,4.2,28,26.35046136669894,50.15570846557618,50.5
+8,La Bella Salon,ChIJD4dxMVflST4RrEWadffnMco,"beauty_salon, point_of_interest, establishment","Prince Ahmed Street, Dhahran",OPERATIONAL,4,84,26.35046136669894,50.15570846557618,58.39
+8,Wameedh Society,ChIJCTBh7sblST4RsrZslzQ6ns0,"point_of_interest, establishment","7512 شارع الأمير أحمد, 3911, الظهران",OPERATIONAL,4.5,111,26.35046136669894,50.15570846557618,97.87
+8,Ammash Al-Dosari Mosque,ChIJzZMuscblST4RhPV0UO7QNGg,"mosque, place_of_worship, point_of_interest, establishment","Prince Ahmed Street, 85X4+XRW, Dhahran",OPERATIONAL,4.8,207,26.35046136669894,50.15570846557618,145.92
+8,Alinma ATM,ChIJgXY-rMblST4RScc2ONqTBvM,"atm, finance, point_of_interest, establishment","85X4+RVV, Dhahran",OPERATIONAL,3.8,4,26.35046136669894,50.15570846557618,174.55
+8,مركز تقنية الدانة التجاري,ChIJX8VpVQrlST4RVx0ze2izrHY,"grocery_or_supermarket, store, food, point_of_interest, establishment","7517، القصور، الظهران 34246 4034،, Dhahran",OPERATIONAL,4.3,7,26.35046136669894,50.15570846557618,178.47
+8,بقالة الدوسري,ChIJbZAvrMblST4Rmt3Fg-Io1tg,"grocery_or_supermarket, store, food, point_of_interest, establishment","85X4+RVH, Dhahran",OPERATIONAL,3.8,122,26.35046136669894,50.15570846557618,181.91
+8,محل تبريد تكيف,ChIJla-lRFHlST4R-zfs_Ap4VEM,"point_of_interest, establishment","Prince Ahmed Street, Dhahran",OPERATIONAL,3.7,3,26.35046136669894,50.15570846557618,185.85
+8,مغسلة الفلك,ChIJ7c83qcblST4RU_WQXfJKkMc,"laundry, point_of_interest, establishment","85X4+RWW, Dhahran",OPERATIONAL,2.8,11,26.35046136669894,50.15570846557618,188.28
+8,Learning Station Daycare حضانة محطة التعلم,ChIJmTX1fDblST4RTESQuzyxnlc,"school, point_of_interest, establishment","Hamza Ibn Abdulmuttalib Street, Dhahran",OPERATIONAL,4.3,89,26.35046136669894,50.15570846557618,299.32
+8,ROSHN Sales Center - ALDANAH,ChIJR1udUgDlST4RlYtCEYUB7m8,"general_contractor, point_of_interest, establishment","EAJA7746، 7746 جلال الدين السيوطي، 3995, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,304.58
+8,مسجد الأمير طلال,ChIJtze3KyvlST4RM3yhJqse3_U,"mosque, place_of_worship, point_of_interest, establishment","85X3+G4F, Dhahran",OPERATIONAL,4.4,43,26.35046136669894,50.15570846557618,342.54
+8,مدرسة متوسطة أم عمارة (بنات),ChIJa13orsPlST4RPj23Oata-f0,"school, point_of_interest, establishment","85X5+CJQ, Dhahran",OPERATIONAL,1.7,19,26.35046136669894,50.15570846557618,397.52
+8,بوابة رقم 9 الحرس الوطني,ChIJJy5LT4_lST4Rz280XcBHcpw,"point_of_interest, establishment","7862 شارع جلال الدين السيوطي، القصور، الظهران 34246 3882, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,401.17
+8,المدرسة الابتدائية سمية بنت الخياط للبنات,ChIJfeGAkaLlST4RMfmcdmBRt08,"school, point_of_interest, establishment","85X5+5GX, Dhahran",OPERATIONAL,2.8,34,26.35046136669894,50.15570846557618,416.13
+8,Al Qusur,ChIJMWQBJ8blST4RvcWUwz_VfB8,"sublocality_level_1, sublocality, political",Al Qusur,UNKNOWN,N/A,N/A,26.35046136669894,50.15570846557618,602.09
+8,بوابة إسكان الحرس الوطني - للسكان فقط,ChIJLUUKh23lST4RoSneNv_HTmY,"point_of_interest, establishment",7862 شارع جلال الدين السيوطي، القصور، الظهران 34246 3882،,OPERATIONAL,4.5,46,26.35046136669894,50.15570846557618,445.28
+8,مدرسة ثانوية الخنساء (بنات),ChIJAX6ppsPlST4RAIAHAIBAPyQ,"school, point_of_interest, establishment","85X5+2MR, Dhahran",OPERATIONAL,3.5,26,26.35046136669894,50.15570846557618,466.99
+8,Hamza Ibn Abdulmutalib Mosque,ChIJA76aV8TlST4R9qeZw2LkDjU,"mosque, place_of_worship, point_of_interest, establishment","85W4+F6V, Dhahran",OPERATIONAL,4.5,69,26.35046136669894,50.15570846557618,468.85
+8,Alshalawy Mosque,ChIJTd0qoyXlST4RZBE9I8xaRQY,"mosque, place_of_worship, point_of_interest, establishment","حي, 3356 11ب, 7521, الظهران",OPERATIONAL,4.8,110,26.35046136669894,50.15570846557618,489.48
+8,Dhahran Jabal Schools,ChIJjwwaggzlST4RKTwGdqO4UTg,"school, point_of_interest, establishment","Jarir Street, Dhahran",OPERATIONAL,4.1,50,26.35046136669894,50.15570846557618,508.95
+8,مأذون شرعي,ChIJu_iVDwDlST4RqxB4Plq_qcA,"point_of_interest, establishment","حي, EAJB3383، 3383 انس بن أوس، 7538, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.15570846557618,519.24
+8,AlHuda,ChIJ0ywa2rflST4RAmjoQ8Prz84,"mosque, place_of_worship, point_of_interest, establishment","9522+V66, Dhahran",OPERATIONAL,4.6,98,26.35046136669894,50.15570846557618,552.52
+8,Hill International (ROSHN - ALDANAH),ChIJ3-AJNADlST4RSSjqfDEMMyo,"point_of_interest, establishment","85X6+XF, Dhahran",OPERATIONAL,5,3,26.35046136669894,50.15570846557618,552.9
+8,Dhahran Hills Trail,ChIJuVGUek_lST4RruPg71X1zYA,"park, point_of_interest, establishment","EAJF7413، 7413 11ب، 3416, Dhahran",OPERATIONAL,4.7,32,26.35046136669894,50.15570846557618,559.99
+8,rayyanah,ChIJbekqp1PlST4RI_p3YlvNY0Q,"point_of_interest, establishment",Dhahran,OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,602.09
+8,مشاتل ومزارع الانصاري,ChIJ5eTDXgDlST4RCEOumAcBh88,"point_of_interest, establishment","حي, مسار مشي, Dhahran",OPERATIONAL,2,2,26.35046136669894,50.15570846557618,607.22
+8,توينكس ملاهي اطفال,ChIJS5wVBQDlST4RHymhiPurE7g,"point_of_interest, establishment","حي, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.15570846557618,607.22
+8,Ajay giri,ChIJgTUHaADlST4R_1vLjS-6VGQ,"hair_care, point_of_interest, establishment","85V3+WPP, Khobar - Salwa Costal Road, الظهران",OPERATIONAL,5,1,26.35046136669894,50.15570846557618,637.31
+8,Public Restrooms,ChIJjQHfQS3lST4R5ct83xQcIIg,"point_of_interest, establishment","EAJA6994، 6994 11ب، 3528،, Dhahran",OPERATIONAL,1,1,26.35046136669894,50.15570846557618,681.84
+8,شقق فندقيه,ChIJi655OsXY82kRxYNAm0efwck,"point_of_interest, establishment","11B, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.15570846557618,687.61
+8,Madariz International School,ChIJnYyA_G7lST4R8oDd1Oqfoss,"school, point_of_interest, establishment","Prince Ahmed Street, Al Khobar",OPERATIONAL,5,5,26.35046136669894,50.15570846557618,693.06
+8,THOMAS ARACKAL,ChIJS7RSfSrlST4RrTbFU4nHHK0,"point_of_interest, establishment","EAJA3409، 3409 عرعر، 7078, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,711.32
+8,Rahmaniyah Mosque,ChIJY7vHZ7flST4R5wsZ3eIuLlU,"mosque, place_of_worship, point_of_interest, establishment","Jalaluddin Al Sayuti Street, 9542+8PJ, Dhahran",OPERATIONAL,4.6,125,26.35046136669894,50.15570846557618,713.78
+8,عمارة الشيخة,ChIJi5ENdADlST4RBbPrcOdQfLA,"point_of_interest, establishment","EAJA7007، 7007 الخفجي، 3492, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,734.72
+8,U.S. Renal Care - Dhahran Branch,ChIJZ3LjeQDlST4RkJ5hH1WyvXw,"hospital, health, point_of_interest, establishment","85W2+84F, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.15570846557618,746.8
+8,صيدلية زهرة الروضة Zahrat Al Rawdah Pharmacy 110,ChIJq6dyIorlST4RZEZZik7wDZY,"pharmacy, health, store, point_of_interest, establishment","Ibn Al Muqarab Street, Al Qusur, Dhahran",CLOSED_TEMPORARILY,2.3,4,26.35046136669894,50.15570846557618,754.47
+8,Dr.Herzallah Medical center,ChIJ6_A-PwDlST4RPdh-b7xF5dU,"hospital, health, point_of_interest, establishment","7079 شارع ابن المقرب, EAJA3318, 3318, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,758.03
+8,ARAMCO Drill Site C,ChIJN66oKADlST4RI9gCg2ZEEkk,"point_of_interest, establishment","85W7+X4W, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,784.06
+8,SICIM DRIL SITE-C,ChIJmW-WNADlST4RNzYs-n67ILs,"point_of_interest, establishment","4569 شارع جلال الدين السيوطي, 7194, الظهران",OPERATIONAL,5,2,26.35046136669894,50.15570846557618,797.94
+8,Hana Residence,ChIJf_319-PlST4RCVn1-dWQZ9E,"point_of_interest, establishment","Hamza Ibn Abdulmuttalib Street, 85V2+HMQ, Dhahran",OPERATIONAL,4.7,34,26.35046136669894,50.15570846557618,820.85
+8,ممشى القصور,ChIJl_Dwi2jlST4R6vdXzuHO3Cw,"park, point_of_interest, establishment","3151 11ب, EAJA7893، 7893, Dhahran",OPERATIONAL,4.6,332,26.35046136669894,50.15570846557618,836.07
+8,المهوس للعقارات ١٥,ChIJmeQ2Uf3lST4RDyrJryRHVnY,"point_of_interest, establishment","6860 13ج، 3515، حي القصور،, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,844.63
+8,Walking Trail,ChIJffS-0JrlST4RVV-UHcOer2w,"park, point_of_interest, establishment","84XW+6X8, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.15570846557618,849.89
+8,حديقة السديم,ChIJH0bzqs7lST4R6y1bVhLQQKE,"park, point_of_interest, establishment","3971, 6765, الظهران",OPERATIONAL,4.4,38,26.35046136669894,50.15570846557618,845.93
+8,جمعية تحفيظ القران الكريم بالخبر ( تحفيظ الخبر ),ChIJ0arUfgDlST4R-fPPcVcaHhw,"point_of_interest, establishment","EAJA3217، 3217 حرض، 8124, الظهران",OPERATIONAL,5,2,26.35046136669894,50.15570846557618,856.93
+8,tellal palace,ChIJs9mWI67lST4RK2dwdAH0ZY8,"point_of_interest, establishment","EAJB6817, 3597 الخفجي, 6817, Dhahran",OPERATIONAL,5,2,26.35046136669894,50.15570846557618,856.2
+8,مسجد الشيخ فهد بن عبدالله العويضه رحمه الله,ChIJUx0JCtjlST4Rh8Q_uzdzm_E,"mosque, place_of_worship, point_of_interest, establishment","EAJA3217، 3217 حرض، 8124،, Dhahran",OPERATIONAL,5,25,26.35046136669894,50.15570846557618,858.08
+8,عمارة التلال 1 شركة أدير العربية,ChIJK0zLZQDlST4RJGwOqePC3iU,"point_of_interest, establishment","EAJC6778، 6778 11ب، 3635, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,863.83
+8,Ahmed AlMberek Mosque,ChIJM6iSe8nlST4Rmj7_Yga5tI8,"mosque, place_of_worship, point_of_interest, establishment","84XW+6X8, Dhahran",OPERATIONAL,4.7,50,26.35046136669894,50.15570846557618,868.06
+8,جامع,ChIJvznaMHvlST4RUQx8dIyM3fE,"mosque, place_of_worship, point_of_interest, establishment",7049 2ب، القصور، الظهران 34246 4581،,OPERATIONAL,5,17,26.35046136669894,50.15570846557618,865.25
+8,Telal Residence 4,ChIJqwh0uuTlST4RsVGjqTjYa6M,"point_of_interest, establishment","6875, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,868.13
+8,Telal Residence 3,ChIJdUQ7k23lST4R1ACUZQaPfxc,"point_of_interest, establishment","المهاب، 3473،, EAJB6855، 6855, الظهران",OPERATIONAL,3.7,3,26.35046136669894,50.15570846557618,877.93
+8,عمارة التلال 2 شركة أدير العربية,ChIJtwqJDADlST4RYzCkvfdARe8,"point_of_interest, establishment","6769 الخفجي, EAJB6769، 3624, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,885.36
+8,Arabian Fal Hema Compound,ChIJK1v8gCTlST4R1dyibQfXfhw,"point_of_interest, establishment","Syed Khobar Place, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,903.92
+8,Aluhaideb Sales Center,ChIJ1z34YcrlST4R1uD_FV1d7YA,"real_estate_agency, point_of_interest, establishment","84VX+WJW, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.15570846557618,905.65
+9,Ettifaq Club,ChIJ30KRsfnlST4RbrPk9e1EaBY,"point_of_interest, establishment","حي, طريق الملك سعود الفرعي, Al Khobar",OPERATIONAL,4.2,1207,26.35046136669894,50.171708465576174,867.77
+9,Shining Stars School,ChIJg59Mxf7lST4RAGFatLXSE0o,"primary_school, school, point_of_interest, establishment","2769 29 (C) Street, Al Khobar",OPERATIONAL,3.8,9,26.35046136669894,50.171708465576174,956.91
+9,Sky Tower (Al-Hajry),ChIJDfqQv_7lST4RHuedTWQArRQ,"point_of_interest, establishment","2697 طريق الملك سعود بن عبدالعزيز, 7385 King Saud Bin Abdulaziz Rd, 7420 - 2696, Saudi Arabia, الخبر",OPERATIONAL,4.1,117,26.35046136669894,50.171708465576174,993.4
+9,قيادة لواء الأمن الخاص الثالث,ChIJ1ajeT5HlST4RDnq1yqm9p8Q,"point_of_interest, establishment","7479 135 الحرس الوطني, EAJA5193، 5193, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,356.46
+9,الكتيبه الأمنيه,ChIJK87PhgPlST4RP0WRArri1kA,"point_of_interest, establishment","7726، 5000, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,432.95
+9,IABFH B8,ChIJxe2jFMrlST4R3x44fz8qvsM,"hospital, health, point_of_interest, establishment","952G+VFQ, Unnamed Road, الظهران",OPERATIONAL,3,1,26.35046136669894,50.171708465576174,490.96
+9,الميدان الاسود,ChIJAe65N2jlST4RRxXBp4soJpA,"point_of_interest, establishment","7864، 3586, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,568.46
+9,IABFH Residences Children Park,ChIJs5aTVQDlST4R3nG3CkttlCg,"park, point_of_interest, establishment","953G+JP9, Dhahran",OPERATIONAL,4,1,26.35046136669894,50.171708465576174,649.33
+9,ادارة السرية الثالثة,ChIJx8dgoUblST4R3LHOoXzmiFo,"point_of_interest, establishment","954G+72R, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,671.92
+9,متجر ببغائي الالكتروني,ChIJqWQhawflST4RvwqV08kZ-ng,"pet_store, store, point_of_interest, establishment",Dammam,OPERATIONAL,4.5,2,26.35046136669894,50.171708465576174,683.33
+9,الأدارة السكنية لمدينة الملك فهد,ChIJU1HzTfrlST4REfl6xv8S63c,"point_of_interest, establishment","6843، 3186،, Dhahran",OPERATIONAL,4,4,26.35046136669894,50.171708465576174,696.95
+9,Logistics Building التموين الطبي الادارة,ChIJIRN4eL_lST4R-tRd9_IBmNE,"point_of_interest, establishment","شارع القشلة، الخبر،, Dammam",OPERATIONAL,4.7,6,26.35046136669894,50.171708465576174,705.9
+9,قسم الاطفاء مستشفى الامام عبدالرحمن,ChIJh56jzPnlST4RJSF-lOsxY-A,"point_of_interest, establishment","4093 King Saud Bin Abdulaziz Road, حي, 6936, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,708.09
+9,ادارة الممتلكات,ChIJ9dVXr-LlST4RBeWsmaUJYp4,"point_of_interest, establishment","4093 King Saud Bin Abdulaziz Road, حي, 6936, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,726.23
+9,المركز التركي للملابس والاحذيه,ChIJSwk7CgDlST4RJ8xw8akS9J4,"clothing_store, store, point_of_interest, establishment",King Saud Bin Abdulaziz Road,OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,735.73
+9,anb ATM صراف البنك العربي الوطني - National Guard Hospital 31,ChIJOVlLZVDlST4RazGbU4yKr8A,"atm, finance, point_of_interest, establishment","6880 Unnamed Road, 954G+6P, Dhahran",OPERATIONAL,4,2,26.35046136669894,50.171708465576174,755.44
+9,Midad Oilfield Services,ChIJ0Z6qwzjlST4Ro2R-OctRflw,"point_of_interest, establishment","King Saud Bin Abdulaziz Road, Dammam",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,761.1
+9,Al Jazeera Tent Solution,ChIJwSEges7lST4R-E4YaMJNsXo,"point_of_interest, establishment","AL Manar Business Center, King Saud Bin Abdulaziz Road, Dammam",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,761.1
+9,Car Parking shades in Saudi Arabia,ChIJ4VYx2KPlST4RvH1DdKgIdgQ,"point_of_interest, establishment","AL Manar Business Center, King Saud Bin Abdulaziz Road, Dammam",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,761.1
+9,Building 405,ChIJIaS-TvvlST4RgmqqiY_2Im0,"point_of_interest, establishment","Unnamed Road, 954G+H5F, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,757.78
+9,IAFH HOSPITAL,ChIJWUnURwDlST4RYgbj55pMeq0,"point_of_interest, establishment","954G+F96, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,758.19
+9,Finance department,ChIJKZE5E6_lST4REHogMamRR_o,"hospital, health, point_of_interest, establishment","954G+G7Q, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,766.41
+9,Ettifaq Mosque,ChIJcU9UQMHlST4R8nrDMuWbIto,"mosque, place_of_worship, point_of_interest, establishment","952H+9QM, Al Khobar",OPERATIONAL,4.8,10,26.35046136669894,50.171708465576174,773.36
+9,المستودع الطبي الداخلي Center Store,ChIJb0XnQPLlST4RPt5n-gp3wsQ,"storage, point_of_interest, establishment","4093 King Saud Bin Abdulaziz Road, 6936, Dhahran",OPERATIONAL,4,2,26.35046136669894,50.171708465576174,778.98
+9,إدارة العقود,ChIJ65S-H2DlST4RcnBTw-yIlBw,"point_of_interest, establishment","954G+G7Q, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,781.28
+9,Building 308 Housing Compound,ChIJUQJnTwDlST4RG0odMLXIkBw,"point_of_interest, establishment","4283 طريق الملك سعود بن عبدالعزيز, حي, 6866, الظهران",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,794.75
+9,New SBJV Office,ChIJxds4CgDlST4RTJ4o-173DVo,"general_contractor, point_of_interest, establishment","953H+8M2, Al Khobar",OPERATIONAL,5,4,26.35046136669894,50.171708465576174,803.48
+9,ابوشارب,ChIJofN_agDlST4RVkhyHbd7oLM,"point_of_interest, establishment","EAGA6924، 6924 44 الحرس الوطني، 3116, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,816.98
+9,قيادة لواء الامير محمد بن عبدالرحمن,ChIJ_Vnvq4XlST4R6SlBnNcAO-0,"store, point_of_interest, establishment","شارع, Dhahran",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,826.31
+9,Al Ettifaq Reserves Football Pitch,ChIJjZA2lgrlST4RTIpGTBLuEGQ,"point_of_interest, establishment","952H+XX, Al Khobar",OPERATIONAL,4,8,26.35046136669894,50.171708465576174,843.9
+9,الطوارئ,ChIJnRm6A4blST4RSO_q_GHczts,"health, point_of_interest, establishment","EAGD6968، 6968 الملك سعود، 4193،, Dhahran",OPERATIONAL,1.3,11,26.35046136669894,50.171708465576174,852.37
+9,SMSA Service Center,ChIJDfsYlPPlST4RuOd9NHGU7zA,"point_of_interest, establishment","National Guard Hospital, Dammam",OPERATIONAL,3.9,53,26.35046136669894,50.171708465576174,857.28
+9,بوابة الشركات - الخدمات,ChIJCSlttA3lST4Rslowqfk7suk,"point_of_interest, establishment","EAGA7259، 7259 مبارك الدويك، 3872، حي القشلة،, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,869.74
+9,المبنى الادارى,ChIJu5ny3V_lST4RHWDZqYqECKc,"point_of_interest, establishment","3983 طريق الملك سعود بن عبدالعزيز, حي, 7146, الظهران",OPERATIONAL,3,1,26.35046136669894,50.171708465576174,870.26
+9,الحرس الوطني ،قسم الاتصالات,ChIJu8nKcn7lST4RJrh9oT7vr2o,"hospital, health, point_of_interest, establishment","955G+42P, Dhahran",OPERATIONAL,3,1,26.35046136669894,50.171708465576174,885.24
+9,بوابة الزوار اسكان مدينة الملك فهد بالحرس الوطني,ChIJy_kLaADlST4Ra3D0BUVPl1w,"point_of_interest, establishment","3872 مبارك الدويك, EAGA7259، 7259, Dhahran",OPERATIONAL,5,4,26.35046136669894,50.171708465576174,896.35
+9,Aramco Stadium Site Office (SBJV),ChIJjaCtXADlST4RxmjS2SEOgbw,"general_contractor, point_of_interest, establishment","حي, سعود، 4303, EAGB6802، 6802 الملك سعود ابن عبدالعزيز, الظهران",OPERATIONAL,5,3,26.35046136669894,50.171708465576174,916.12
+9,عيادة الامراض الجلدية للدكتور حسن العماري,ChIJVbbnjfzlST4Rc9GN7OYhnRg,"doctor, health, point_of_interest, establishment","طريق الملك سعود، في مستشفى الحرس الوطني، الظهران، الدمام 34232،, Dhahran",OPERATIONAL,4.3,11,26.35046136669894,50.171708465576174,917.62
+9,إدارة التموين الطبي الهلال الأحمر السعودي,ChIJbcWoJ-vlST4R5YnnIuAJyrQ,"pharmacy, store, health, point_of_interest, establishment",7048 شارع جلال الدين السيوطي، القصور، الظهران 34246 4712،,OPERATIONAL,5,4,26.35046136669894,50.171708465576174,924.65
+9,Imam Abdulrahman Al Faisal Hospital Dhahran,ChIJqQpD5vPlST4RGIKwCV71oi0,"hospital, health, point_of_interest, establishment","King Saud Bin Abdulaziz Road, 954G+VRQ, Dhahran",OPERATIONAL,3.3,340,26.35046136669894,50.171708465576174,921.79
+9,SAB الأول,ChIJGWh8S-3lST4R0_UR_yyUk80,"atm, finance, point_of_interest, establishment","بوابة 5،, Al Gechlah Street, الخبر",OPERATIONAL,3.5,2,26.35046136669894,50.171708465576174,921.38
+9,ANB ATM 2,ChIJH7rKNRTlST4RyYCc7tZEs-A,"atm, finance, point_of_interest, establishment","7062 King Saud Bin Abdulaziz Road, 4205, Dhahran",OPERATIONAL,4,2,26.35046136669894,50.171708465576174,927.49
+9,مركز إسعاف الدوحه,ChIJnREIrFblST4R7AERdmqIDOg,"health, point_of_interest, establishment","7004 شارع جلال الدين السيوطي, EAJA4753، 4753, الظهران",OPERATIONAL,5,2,26.35046136669894,50.171708465576174,935.6
+9,anb ATM صراف البنك العربي الوطني - National Guard Hospital 24,ChIJK9qAwH7lST4R5CJJvgNYWaM,"atm, finance, point_of_interest, establishment","4205 King Saud Bin Abdulaziz Road, 7062, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,934.86
+9,ARAMCO Drill Site C,ChIJN66oKADlST4RI9gCg2ZEEkk,"point_of_interest, establishment","85W7+X4W, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,945.14
+9,Saudi Arabian Actavo Company Limited (شركة اكتاڤو العربية السعودية المحدودة),ChIJXwfuebPpST4RIEtQWEmYcEY,"general_contractor, point_of_interest, establishment","Sky Tower, King Saud Bin Abdul Aziz Road, 3rd Floor, الخبر",OPERATIONAL,3.9,7,26.35046136669894,50.171708465576174,942.37
+9,SICIM DRIL SITE-C,ChIJmW-WNADlST4RNzYs-n67ILs,"point_of_interest, establishment","4569 شارع جلال الدين السيوطي, 7194, الظهران",OPERATIONAL,5,2,26.35046136669894,50.171708465576174,949.61
+9,Beyond Store,ChIJ8ZN0xZrlST4RGcYGzql6nSs,"cafe, store, food, point_of_interest, establishment","955G+69M, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,945.01
+9,العيادات الخارجية,ChIJRbldW3vlST4RfccyRSXTBbs,"health, point_of_interest, establishment","7062 طريق الملك سعود بن عبدالعزيز، الحرس الوطني، 4205, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,949.3
+9,Al haras,ChIJZ1tel_PlST4RMU8YNnxC3FA,"hospital, health, point_of_interest, establishment","955G+2RG, Unnamed Road, الظهران",OPERATIONAL,4.2,6,26.35046136669894,50.171708465576174,950.23
+9,الصيانة المركزية الهلال الأحمر السعودي,ChIJV8jHIRDlST4RHYowenL7Y-g,"car_repair, point_of_interest, establishment",7048 شارع جلال الدين السيوطي، القصور، الظهران 34246 4712،,OPERATIONAL,4,6,26.35046136669894,50.171708465576174,958.42
+9,4 الاتحاد,ChIJYZLKSQDlST4Ro5-l_0NBONw,"point_of_interest, establishment","952J+8G7, Al Khobar",OPERATIONAL,5,1,26.35046136669894,50.171708465576174,957.24
+9,BlueSky Coffee |قهوة بلوسكي,ChIJdRa96DblST4RoilNznvwsFY,"cafe, store, food, point_of_interest, establishment","Imam Abdulrahman Al Faisal Hospital, Dhahran",OPERATIONAL,4,7,26.35046136669894,50.171708465576174,956.38
+9,ملعب موطن الفرسان,ChIJXXr5Aa3lST4R1O5WIZ3YGEk,"point_of_interest, establishment","952J+8G8, Dammam",OPERATIONAL,5,17,26.35046136669894,50.171708465576174,960.2
+9,Gate 4 - Ettifaq stadium,ChIJvWT5eQDlST4Rur6ep7KAlW4,"stadium, point_of_interest, establishment","EAGA2899، 2899 31، 7868, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,961.41
+9,صيدلية تكرار العلاج ( إعادة صرف ),ChIJz6P8QJ_lST4Ro1IfhCAonq4,"pharmacy, store, health, point_of_interest, establishment","حي, 7182 طريق الملك سعود بن عبدالعزيز، 4070،, Dhahran",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,960.99
+9,Rawabi Contracting,ChIJHdEoYQDlST4Rbyo9Ef_A9nI,"general_contractor, point_of_interest, establishment","2696 طريق الملك سعود بن عبدالعزيز, EAGA7385, 7385, الخبر",OPERATIONAL,N/A,N/A,26.35046136669894,50.171708465576174,967.42
+9,SKY TOWER KHOBAR,ChIJPcDih6rlST4RDmXt16GvYBU,"point_of_interest, establishment","2697 King Saud Bin Abdulaziz Road, Al Khobar",OPERATIONAL,4.4,39,26.35046136669894,50.171708465576174,970.79
+10,Dubaib & Sulaim Trading & Contracting (DSCO),ChIJM_bB71HvST4RGnplujF3ZBU,"point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4,110,26.35046136669894,50.18770846557618,567.01
+10,SARA Showroom - Al Khobar,ChIJjUXtAFHvST4RnmYsPr7swtA,"point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4.1,167,26.35046136669894,50.18770846557618,397.75
+10,Al Omar Furniture,ChIJC3hBA-37ST4RTjcAWcutGMo,"furniture_store, home_goods_store, store, point_of_interest, establishment","حي, King Fahd Road",OPERATIONAL,3.6,982,26.35046136669894,50.18770846557618,466.73
+10,Al Saleheen Grand Mosque,ChIJDfo7wqzoST4RYyQmkePYDk8,"mosque, place_of_worship, point_of_interest, establishment","Al Saleheen, Al Khobar",OPERATIONAL,4.5,71,26.35046136669894,50.18770846557618,743.85
+10,Arabian Food Supplies,ChIJZ58E4VLvST4RST9pPBXEkqk,"food, point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4,256,26.35046136669894,50.18770846557618,422.8
+10,Saad National Schools,ChIJJwTmSVbvST4Rh4bfM09iWj4,"school, point_of_interest, establishment","Usaid Ibn Thalaba Street, 952M+5RP, Al Khobar",OPERATIONAL,3.6,49,26.35046136669894,50.18770846557618,312.59
+10,Beit AlShabab Hostel,ChIJNQK-m1fvST4RSD4zD0p1BgM,"lodging, point_of_interest, establishment","6622 طريق الملك فهد بن عبد العزيز, Al Khobar",OPERATIONAL,4.2,25,26.35046136669894,50.18770846557618,334.48
+10,Suzuki Barayan,ChIJgT4VplHvST4RkHfxxBflByk,"store, point_of_interest, establishment",Al Khobar,OPERATIONAL,3.5,470,26.35046136669894,50.18770846557618,385.08
+10,Volkswagen Showroom Al Khobar,ChIJfx0wIlLvST4RKpXg-naopvk,"car_dealer, store, point_of_interest, establishment","King Fahd Road, 952R+5Q, Al Khobar",OPERATIONAL,4,554,26.35046136669894,50.18770846557618,416.18
+10,Sport Yard,ChIJz2RmHVjvST4RYej1FtZq35g,"point_of_interest, establishment","36 Street, 953M+8XP, Al Khobar",OPERATIONAL,4,536,26.35046136669894,50.18770846557618,421.38
+10,شركة مصادر لخدمات الموارد البشرية,ChIJ4TQZs1HvST4RJIV_vPbELjM,"point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,3.2,174,26.35046136669894,50.18770846557618,485.39
+10,Haval,ChIJ9b0jvLsCNj4RbQJYDaxvcIM,"store, point_of_interest, establishment","King Fahd Road, 952R+XVF, Al Khobar",OPERATIONAL,3.6,884,26.35046136669894,50.18770846557618,497.62
+10,BMW Service Center,ChIJfXZyh1LvST4RUt8TseuKmzk,"car_repair, point_of_interest, establishment","24 Street, Al Khobar",OPERATIONAL,3.6,389,26.35046136669894,50.18770846557618,519.11
+10,MINI,ChIJTUgVh1LvST4RwAMOMzbXhSA,"car_repair, car_dealer, store, point_of_interest, establishment","Al Khobar-Dammam Highway, الخبر",OPERATIONAL,4.5,34,26.35046136669894,50.18770846557618,567.5
+10,KAMCO General Contracting Company,ChIJtYjW5VHvST4RdIYRwLeoE_k,"general_contractor, point_of_interest, establishment","طريق الملك عبدالعزيز, Al Khobar",OPERATIONAL,3.9,102,26.35046136669894,50.18770846557618,577.1
+10,Auto Chapeau,ChIJSZVOhvHoST4RhOPNBPyEmO4,"car_wash, car_repair, point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.6,1388,26.35046136669894,50.18770846557618,581.51
+10,MYNM BMW Khobar Showroom,ChIJGevV6lLvST4Rk4pw7YSIIwc,"car_dealer, store, point_of_interest, establishment","King Fahd Road, 85XV+76, Al Khobar",OPERATIONAL,4,1052,26.35046136669894,50.18770846557618,603.68
+10,Ettifaq Club,ChIJ30KRsfnlST4RbrPk9e1EaBY,"point_of_interest, establishment","حي, طريق الملك سعود الفرعي, Al Khobar",OPERATIONAL,4.2,1207,26.35046136669894,50.18770846557618,729.37
+10,Alkhaleej Higher Training Institute for Women,ChIJb8zoicfoST4R4MWKvXUs5bA,"point_of_interest, establishment","6190 Andalus, Al Khobar",OPERATIONAL,3.3,86,26.35046136669894,50.18770846557618,712.09
+10,Land Rover Authorised Repairer Mohammed Yousuf Naghi,ChIJtxlHWL_CST4ROEkHdmdOy24,"car_repair, point_of_interest, establishment","King Kalid Road, Al Khobar",OPERATIONAL,3.7,92,26.35046136669894,50.18770846557618,645.44
+10,Mohammed Yousef Naghi Motors,ChIJPaKzn1LvST4R3vEeXQJ-mnQ,"car_dealer, store, point_of_interest, establishment","85XV+494, Al Khobar",OPERATIONAL,4.1,213,26.35046136669894,50.18770846557618,647.27
+10,Land Rover Retailer Mohammed Yousuf Naghi,ChIJ32C8nVLvST4RLt2-CReOOlM,"car_dealer, store, point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4.1,316,26.35046136669894,50.18770846557618,665.86
+10,Jaguar Retailer Mohammed Yousuf Naghi,ChIJ1wUGsVHvST4RvWFTwlCcqfQ,"car_dealer, store, point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,3.9,35,26.35046136669894,50.18770846557618,668.58
+10,TTSC Arabia,ChIJ7yxESq3oST4RmNBwnoa8xRs,"general_contractor, point_of_interest, establishment","Al-Falak Co. 20th Street Ehab Adeeb, Al Khobar",OPERATIONAL,3.7,3,26.35046136669894,50.18770846557618,695.56
+10,SAQ Consult,ChIJZQUiKlXvST4R5FvRxG6Ogzk,"point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.6,7,26.35046136669894,50.18770846557618,819.5
+10,Al Hussan International School,ChIJdUt59U7vST4RQRF4MsuvG6c,"school, point_of_interest, establishment",Saudi Arabia,OPERATIONAL,3.1,66,26.35046136669894,50.18770846557618,989.55
+10,Refad Media,ChIJOzZe20zvST4Rb4tctszbWhE,"point_of_interest, establishment","Tariq Bin Ziad Street, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.18770846557618,860.27
+10,Advanced Solutions Technology,ChIJqbvNIE3vST4RVBTVJZ3t-6k,"point_of_interest, establishment","85XW+7C6, Al Rashed building, Al Khobar",OPERATIONAL,4.5,2,26.35046136669894,50.18770846557618,866.97
+10,Diamond Building,ChIJa7D4I03vST4RTY8vNzZzH2E,"point_of_interest, establishment","Granada Street, 85XW+69Q, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.18770846557618,866.34
+10,مؤسسة نمي لتنظيم المعارض والمؤتمرات,ChIJrWKt2EzvST4RzBUclztrGbs,"point_of_interest, establishment","Tariq Bin Ziad Street, 85XW+7FF, Al Khobar",OPERATIONAL,4.5,4,26.35046136669894,50.18770846557618,880.68
+10,Shining Stars School,ChIJg59Mxf7lST4RAGFatLXSE0o,"primary_school, school, point_of_interest, establishment","2769 29 (C) Street, Al Khobar",OPERATIONAL,3.8,9,26.35046136669894,50.18770846557618,901.82
+10,زوفي للتقنية [ZOOFiTECH [ZTC,ChIJE6dm5lvvST4RWFia-_oF8SE,"point_of_interest, establishment","7211 King Fahd Road, 3096, Al Khobar",OPERATIONAL,3.3,26,26.35046136669894,50.18770846557618,930.17
+10,Macro Business Group,ChIJc0ZM20zvST4Ro5JtGHFinD0,"general_contractor, point_of_interest, establishment","Tariq Bin Ziad Street, 85XW+8PJ, Al Khobar",OPERATIONAL,3.1,21,26.35046136669894,50.18770846557618,932.82
+10,ABC,ChIJ38L6w0zvST4R9ljoLSgFt04,"point_of_interest, establishment","2297 طارق بن زياد, 7327, Al Khobar",OPERATIONAL,3.9,9,26.35046136669894,50.18770846557618,932.94
+10,Classy Corner For Decor,ChIJIW1w6lvvST4RWOnPKyu0REE,"point_of_interest, establishment","Granada Street, 955Q+FRH, Al Khobar",OPERATIONAL,3,1,26.35046136669894,50.18770846557618,931.41
+10,GulfNet Solutions Company Limited-PipeTech,ChIJe81LGnX7ST4Rdk18ho-IIow,"point_of_interest, establishment","7298 18 ج،, حي, 2282, الخبر",OPERATIONAL,3.3,6,26.35046136669894,50.18770846557618,949.79
+10,شركة ثمار الجزيرة الطبية,ChIJg7Fa6FvvST4R7K3IQDP4zDs,"point_of_interest, establishment","بن عبد العزيز, 7211 طريق الملك فهد, Al Khobar",OPERATIONAL,1,3,26.35046136669894,50.18770846557618,945.4
+10,Starbucks,ChIJoVSn57LoST4R83u59oBsTwo,"cafe, store, food, point_of_interest, establishment","Tamimi Markets-Raka, Al Khobar",OPERATIONAL,4,595,26.35046136669894,50.18770846557618,951.31
+10,New World International School,ChIJa0Kw0qzoST4Rqo2k79XxQQY,"school, point_of_interest, establishment","Prince Sultan Bin Fahd Street, 85WR+342, Al Khobar",OPERATIONAL,3.8,442,26.35046136669894,50.18770846557618,644.43
+10,شركة وصيانة الرافعات,ChIJUz91UEXvST4R2IkGmClWzRI,"point_of_interest, establishment","7036 Andalus Street, Al Khobar",OPERATIONAL,4.6,20,26.35046136669894,50.18770846557618,976.01
+10,أسواق التميمي,ChIJT9eNHbPoST4R4E1dofC2GYs,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","King Fahd Road, Al Khobar",OPERATIONAL,4.3,4756,26.35046136669894,50.18770846557618,984.36
+10,Canary Village,ChIJh8iGnlbvST4R6TdpHSXZHmw,"point_of_interest, establishment",Al Khobar,OPERATIONAL,4.3,425,26.35046136669894,50.18770846557618,144.55
+10,Canary Village Indoor Basketball Court,ChIJo4_SaADvST4R3r_vSQnGswc,"point_of_interest, establishment","EAGG7878، 7878 35 قرطبة، 3398, الخبر",OPERATIONAL,N/A,N/A,26.35046136669894,50.18770846557618,188.65
+10,Azores Restaurant & Cafe,ChIJCeoiNlDvST4RzoS3isQ-HHg,"cafe, food, point_of_interest, establishment","85XP+FP4, Al Khobar",OPERATIONAL,4.4,50,26.35046136669894,50.18770846557618,220.18
+10,حديقة المعيبد,ChIJsWbRJ1HvST4RAQ3FbOyg_QQ,"park, point_of_interest, establishment","8143 زياد بن الاخرش, Al Khobar",OPERATIONAL,4,27,26.35046136669894,50.18770846557618,224.13
+10,سكان عمال مطعم عزيمة,ChIJ8ZZeODrvST4RbA5DkFjoHWc,"point_of_interest, establishment","85XQ+HPH, Al Khobar",OPERATIONAL,5,1,26.35046136669894,50.18770846557618,236.59
+10,Tawheed Mosque,ChIJ4w-B01DvST4R-svIwi6Y2U0,"mosque, place_of_worship, point_of_interest, establishment","35th Street, 952Q+XCP, Al Khobar",OPERATIONAL,4.8,50,26.35046136669894,50.18770846557618,237.82
+10,Zarqaa Grocery,ChIJ8eBt0FPvST4R_SPqYpUvwRs,"grocery_or_supermarket, store, food, point_of_interest, establishment",7886 حنظلة بن ابي عامر، قرطبة، الخبر 34234 3782,OPERATIONAL,4.2,46,26.35046136669894,50.18770846557618,252.1
+10,أكادمية بروستارز العالمية لكرة القدم,ChIJARmXcADvST4RI3kZXqZEqzM,"point_of_interest, establishment","ابن عبدالعزيز سعود، 5251, EAGC6698، 6698 الملك فهد, Al Khobar",OPERATIONAL,5,2,26.35046136669894,50.18770846557618,288.61
+10,Maaz Accomodation,ChIJFTBJflHvST4RQYjA7r_6xVA,"lodging, point_of_interest, establishment","Amr Ibn Qais Street, 952R+683, Al Khobar",OPERATIONAL,4.1,21,26.35046136669894,50.18770846557618,307.1
+10,أكاديمية اجيال الرياضية,ChIJCwpgO4nvST4RY0EVFfZj62A,"point_of_interest, establishment","953Q+7HF, Al Khobar",OPERATIONAL,5,2,26.35046136669894,50.18770846557618,325.01
+10,Lamborghini Service Center Al Khobar,ChIJlUTR6o_vST4RMs3E4w2dQPk,"car_repair, point_of_interest, establishment","Amr Ibn Qais Street, 952R+3CX, Al Khobar",OPERATIONAL,5,2,26.35046136669894,50.18770846557618,342.27
+10,Al Falakh Office,ChIJmbm8SOjvST4RWl5F7W5UDc4,"point_of_interest, establishment","8102 King Fahd Ibn Abdul Aziz Rd, 3850, Al Khobar",OPERATIONAL,5,2,26.35046136669894,50.18770846557618,346.65
+10,SAMACO Bodyshop,ChIJVYyn8mLvST4RCooBLJkT_B8,"car_repair, point_of_interest, establishment","Amr Ibn Qais Street, 952R+3G6, Al Khobar",OPERATIONAL,N/A,N/A,26.35046136669894,50.18770846557618,355.93
+10,Volkswagen Service Center - Al Khobar,ChIJEThbcZrvST4RZeyBwIfTrwY,"point_of_interest, establishment","952R+7G, 3902, الخبر",OPERATIONAL,3.9,17,26.35046136669894,50.18770846557618,360.62
+10,اليمني للسيارات الصيانة السريعة alyemni quick service,ChIJeZ3JMCPvST4Rn0pVWCRr7Tw,"car_repair, point_of_interest, establishment","3902, الخبر",OPERATIONAL,3.6,101,26.35046136669894,50.18770846557618,378.1
+10,سوبارو و ايسوزو اليمني,ChIJ2eU57tLvST4RIoJxw4p2dpg,"car_dealer, store, point_of_interest, establishment","شارع الوليد بن سلمة, 952R+HJ2, Dammam",OPERATIONAL,3.8,9,26.35046136669894,50.18770846557618,382.16
+10,ملعب نادي النهضة,ChIJtY2RMgDvST4R5YYlIBnNUrI,"point_of_interest, establishment","EAGC6698، 6698 الملك فهد ابن عبدالعزيز سعود، 5251, Al Khobar",OPERATIONAL,5,1,26.35046136669894,50.18770846557618,382.06
+11,Energy Exhibit,ChIJN65pcT3kST4RMqg8grnXjIU,"museum, point_of_interest, establishment","84MF+Q2G, Dhahran",OPERATIONAL,4.6,2696,26.33713154177409,50.12370846557617,318.5
+11,King Abdulaziz Center for World Culture - Ithra,ChIJW_eTFRbkST4RftSJXB76nhw,"tourist_attraction, movie_theater, museum, library, point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,4.6,6716,26.33713154177409,50.12370846557617,333.2
+11,Saudi Drill Company Ltd,ChIJZ9k5LXjoST4RLLZDCNWGW-8,"point_of_interest, establishment","،, شارع خادم الحرمين الشريفين،, Dhahran",OPERATIONAL,4.3,26,26.33713154177409,50.12370846557617,584.03
+11,Dhahran General Hospital,ChIJLR-kxWrkST4RodhwoOWRIkE,"hospital, health, point_of_interest, establishment",Dhahran,OPERATIONAL,3.1,68,26.33713154177409,50.12370846557617,770.9
+11,ساحة إثراء,ChIJn6mXX2nlST4R2g5Mab-fm1A,"cafe, store, food, point_of_interest, establishment","84PF+53, Dhahran",OPERATIONAL,4.7,21,26.33713154177409,50.12370846557617,211.13
+11,دورات مياه,ChIJscK4FwDlST4Ru6x9WjIMXQU,"point_of_interest, establishment","Ring Road, 84PF+3C7, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,213.4
+11,Ithra Mosque,ChIJod3YBT3kST4R24y3XE-QFxU,"mosque, place_of_worship, point_of_interest, establishment","Ring Road, 84PF+3C7, Dhahran",OPERATIONAL,4.8,353,26.33713154177409,50.12370846557617,217.43
+11,Labyrinth Fountain,ChIJx8J2l2flST4R32uCZ9hQsL8,"park, point_of_interest, establishment","84PF+53, Dhahran",OPERATIONAL,4.8,5,26.33713154177409,50.12370846557617,230.12
+11,Ralph’s Coffee,ChIJTUC4WwDlST4RRE_12ImYhS4,"cafe, store, food, point_of_interest, establishment","حديقة إثراء, Dhahran",OPERATIONAL,4.2,46,26.33713154177409,50.12370846557617,236.0
+11,Legend ithra | أسطورة الشوكولاتة إثراء,ChIJ5x-Ko9rlST4R7K2W1kBBG3M,"store, food, point_of_interest, establishment","Plaza, Dhahran",OPERATIONAL,4.7,19,26.33713154177409,50.12370846557617,244.71
+11,RSPS 6,ChIJrWHKRerlST4RTHKGnzazgGs,"point_of_interest, establishment","84PC+XGJ, Dhahran",OPERATIONAL,5,6,26.33713154177409,50.12370846557617,246.91
+11,Ithra visitor Parking 3,ChIJfWXFGbXlST4RhIbpRANpJZQ,"parking, point_of_interest, establishment","Ring Road, Dhahran",OPERATIONAL,4.3,15,26.33713154177409,50.12370846557617,261.46
+11,فراي إن قو إثراء أرامكو,ChIJxfd8iCblST4RJ2xd5oeY5pk,"meal_takeaway, restaurant, food, point_of_interest, establishment","King Abdulaziz Center for World Culture - Ithra, Al Khobar",OPERATIONAL,5,1,26.33713154177409,50.12370846557617,273.28
+11,حديقة إثراء,ChIJ8wLoJADlST4RgwlaO-Kdo-s,"park, point_of_interest, establishment","84PC+3Q5, Dhahran",OPERATIONAL,4.4,16,26.33713154177409,50.12370846557617,280.34
+11,Loading Dock 1,ChIJSz2JOcHlST4R-t3ge4E8usY,"storage, point_of_interest, establishment","3280, 8664, الظهران",OPERATIONAL,3,1,26.33713154177409,50.12370846557617,285.39
+11,شاي أديم حديقة إثراء - ِAdeem Tea Ithra Garden,ChIJKUgDTujlST4RnqaOCht7508,"cafe, food, point_of_interest, establishment",Dhahran,OPERATIONAL,4.4,42,26.33713154177409,50.12370846557617,305.76
+11,Ithra,ChIJtfRRcADlST4R3h0KSkG6jKA,"museum, point_of_interest, establishment","84MF+R29, Ithrah",OPERATIONAL,4.8,200,26.33713154177409,50.12370846557617,307.08
+11,CHICO | تشيكو,ChIJ51bLnbrlST4RVexf0vk3n9o,"restaurant, food, point_of_interest, establishment","Ring Road, Al Khobar",CLOSED_TEMPORARILY,4.1,7,26.33713154177409,50.12370846557617,325.13
+11,معرض السعودية نحو الفضاء,ChIJ_eUElQvlST4RPNCkHBFxtzQ,"point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,3.5,8,26.33713154177409,50.12370846557617,331.04
+11,OKTO ITHRA,ChIJL7GD5SHlST4R8JvTqwLLz-8,"restaurant, food, point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,4.1,245,26.33713154177409,50.12370846557617,333.03
+11,Ithra visitor park 5,ChIJSbQVPQDlST4RNNJVxCRtIr8,"park, point_of_interest, establishment","center for world culture-ithra, King Abdulaziz Road",OPERATIONAL,5,1,26.33713154177409,50.12370846557617,333.2
+11,Ithra Museum Galleries,ChIJ9TREl_3lST4RneCQs4wQAIc,"museum, point_of_interest, establishment","84PC+66R, Dhahran",OPERATIONAL,4.6,90,26.33713154177409,50.12370846557617,337.15
+11,Jon & Vinny's Ithra,ChIJ-S0dd2jlST4RgRpXmxwGfq0,"restaurant, food, point_of_interest, establishment","Inside King Abdulaziz Center for World Culture - Ithra, 8386 Ring Road, Dhahran",OPERATIONAL,4.4,431,26.33713154177409,50.12370846557617,341.34
+11,Energy Exhibit Loading Dock,ChIJcRbLBwDlST4RjeOzUDP6s3A,"parking, point_of_interest, establishment","84MF+J58, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,352.01
+11,Ithra visitor Parking 1,ChIJ2RqderblST4Rwrf3j8VyLfE,"parking, point_of_interest, establishment","Ring Road, Dhahran",OPERATIONAL,4.3,12,26.33713154177409,50.12370846557617,360.03
+11,Pattis Ithra Library,ChIJVZT1HIXlST4RcNGY9N7V_eg,"restaurant, food, point_of_interest, establishment","84PC+75M, Dhahran",OPERATIONAL,2.8,18,26.33713154177409,50.12370846557617,363.63
+11,مركز البحوث والتطوير,ChIJKYtwaUjlST4ROXKBJNJBvAo,"point_of_interest, establishment","بولفار, Dhahran",OPERATIONAL,5,3,26.33713154177409,50.12370846557617,365.88
+11,Ithra Library,ChIJoyf5LUblST4R6ES9psxGaAk,"library, point_of_interest, establishment","84PC+75M, Dhahran",OPERATIONAL,4.5,122,26.33713154177409,50.12370846557617,369.66
+11,متحف الطفل | Children's Museum,ChIJl5D7GKHlST4RTeIA1RJaNbo,"point_of_interest, establishment",84PC+66R، غرب الظهران، الظهران 34461،,OPERATIONAL,2.4,22,26.33713154177409,50.12370846557617,370.82
+11,madeleine - ithra library,ChIJExC1wDblST4RK8KM_c6kmRM,"cafe, store, food, point_of_interest, establishment","84PC+66R, Dhahran",OPERATIONAL,3.8,14,26.33713154177409,50.12370846557617,377.18
+11,LWF,ChIJecjfRbnlST4Rpag2usMQL8I,"restaurant, food, point_of_interest, establishment","Ring Road, Dhahran",CLOSED_TEMPORARILY,4.6,675,26.33713154177409,50.12370846557617,382.54
+11,Ithra Theatre,ChIJy-qm3rnlST4RrxbgSnVTcR0,"point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,4.7,1723,26.33713154177409,50.12370846557617,385.54
+11,CDZ Store,ChIJqXDuzP7lST4RSlt0_TvVAqY,"store, point_of_interest, establishment","King Abdulaziz Center for World Culture - Ithra, King Abdulaziz Center for World Culture, Al Khobar",OPERATIONAL,5,3,26.33713154177409,50.12370846557617,385.74
+11,مواقف اضافية للزوار,ChIJ3ST8GwDlST4RrECYnOpSADs,"point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,414.61
+11,Pizza Bar By IOI,ChIJP1o8xfvlST4RWoiYoPWw6yA,"restaurant, food, point_of_interest, establishment","84QC+H2, Dhahran",OPERATIONAL,4.2,400,26.33713154177409,50.12370846557617,415.35
+11,Admin Oasis,ChIJfU1ExwrlST4Rq-dZqZ4OM1A,"park, point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,3.7,3,26.33713154177409,50.12370846557617,431.07
+11,Cantina by pattis,ChIJZze6qqXlST4RlvKUL9MFPz4,"restaurant, cafe, store, food, point_of_interest, establishment","8386 Ring Road, Dhahran",OPERATIONAL,2.9,16,26.33713154177409,50.12370846557617,442.32
+11,SNB AlAhli ATM,ChIJJQhhKHrlST4Rmw1oiPZLffg,"point_of_interest, establishment","84P9+6QR, Dhahran",OPERATIONAL,3.5,2,26.33713154177409,50.12370846557617,462.81
+11,Building A,ChIJheTiPQDlST4R6MWtlrLo3Ug,"point_of_interest, establishment","طريق الملك فهد, 84PH+RG5, Dhahran",OPERATIONAL,5,1,26.33713154177409,50.12370846557617,514.76
+11,Ghawar Building,ChIJv9za2CLkST4R4OFXCsJur5A,"point_of_interest, establishment","H.E Ali Naimi Street, 84JF+WH8, Dhahran",OPERATIONAL,4.5,38,26.33713154177409,50.12370846557617,537.27
+11,Aljamiah Dist Pumping Station,ChIJr2wq9U3lST4Ry-8jNrO4Ch4,"point_of_interest, establishment","3298 Areej Street, Dhahran",OPERATIONAL,4.8,4,26.33713154177409,50.12370846557617,543.79
+11,Building B,ChIJh0_pGwDlST4RIuu9QVTxO_k,"point_of_interest, establishment","84PH+QM5, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,551.85
+11,Dhahran Views Building 27,ChIJSdOLgwnlST4RPFnwpsG0wE8,"point_of_interest, establishment","84PH+WPR, Dhahran",OPERATIONAL,5,9,26.33713154177409,50.12370846557617,556.04
+11,Ithra visitor Parking 2,ChIJxYaFvtblST4RyywHKLXpi0M,"parking, point_of_interest, establishment","Ring Road, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,554.8
+11,TheCatBat,ChIJz97BTYzlST4RaPmelMWKukg,"pet_store, store, point_of_interest, establishment","Althurayya Street, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,561.61
+11,Parking lot,ChIJkypfrCLkST4RRSdqh5kom8E,"point_of_interest, establishment","84JC+WQP, Unnamed Road, الظهران",OPERATIONAL,4.8,4,26.33713154177409,50.12370846557617,560.65
+11,阿美博物馆P5停车场,ChIJj2rvaQDlST4RWBK0V-NSTR4,"parking, point_of_interest, establishment","3076 212 غرب الظهران, EKPE8381، 8381, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,564.32
+11,Ithra visitor Parking 5,ChIJQdrgayzlST4RwQRnKajMBV0,"parking, point_of_interest, establishment","Ring Road, Dhahran",OPERATIONAL,4.7,43,26.33713154177409,50.12370846557617,566.98
+11,Dhahran Views Building 5,ChIJt2sob8zlST4RjJQQ1JHsMBU,"point_of_interest, establishment","84PH+RQR, Dhahran",OPERATIONAL,5,1,26.33713154177409,50.12370846557617,567.68
+11,وردة الظهران,ChIJ9dwVkYvlST4RW-y534Mqijc,"point_of_interest, establishment","6942 21ب, EAMB3446، 3446, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,571.74
+11,Dhahran Views Building 2,ChIJ62pEjt_lST4R3UD0Bo-1p3A,"point_of_interest, establishment","84PH+XQW, Dhahran",OPERATIONAL,4.1,9,26.33713154177409,50.12370846557617,574.25
+11,شركة الخالدي القابضة,ChIJZ7tHOnjoST4RqXxFlHYcxcA,"moving_company, point_of_interest, establishment","Custodian of The Two Holy Mosques Road, Dhahran",OPERATIONAL,4.3,84,26.33713154177409,50.12370846557617,576.49
+11,Plaza Conference Center,ChIJK7ZoxyLkST4RMeWokRQuQ2U,"point_of_interest, establishment","H.E Ali Naimi Street, 84JF+Q4W, Dhahran",OPERATIONAL,4.5,392,26.33713154177409,50.12370846557617,577.63
+11,شارك Sharik,ChIJd_QKcFzlST4RFLcd1spFp7w,"point_of_interest, establishment","Custodian of The Two Holy Mosques Road, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.12370846557617,581.23
+11,Dhahran Views Building 3,ChIJjakmhMzlST4RdJRE-yGFhww,"point_of_interest, establishment","84QH+3RC, Dhahran",OPERATIONAL,4.7,7,26.33713154177409,50.12370846557617,582.36
+11,Saudi Falcon Co,ChIJH2KYSaT9ST4RYLjPMdarRh8,"travel_agency, point_of_interest, establishment",Dhahran,OPERATIONAL,3.7,6,26.33713154177409,50.12370846557617,584.43
+11,Parking 4,ChIJXS2UfaPlST4RqPfb05zolQs,"parking, point_of_interest, establishment",Dhahran,OPERATIONAL,3,1,26.33713154177409,50.12370846557617,587.15
+11,Abu Maan,ChIJe86lAADlST4RI_gbOhjD0mo,"hospital, health, point_of_interest, establishment","84RC+H4P, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.12370846557617,586.54
+12,ليمو سيرفيس للنقل,ChIJ6-FoMTTkST4RX4qCXCCUrPs,"point_of_interest, establishment","34257, الظهران",OPERATIONAL,4.8,5,26.33713154177409,50.13970846557618,878.12
+12,صراف بنك الجزيره,ChIJYb8XMTTkST4RUqjv_UmDOMQ,"atm, finance, point_of_interest, establishment","Al Subaie, Dhahran",OPERATIONAL,3.2,6,26.33713154177409,50.13970846557618,881.74
+12,Saudi Petro Gas Company,ChIJaWCCedblST4Rg4jaU_eYrhI,"point_of_interest, establishment","84MX+722, Dhahran",OPERATIONAL,2.9,14,26.33713154177409,50.13970846557618,897.18
+12,Luqaymat Bint Al Qadi,ChIJI0NjMTTkST4R0QDCbURpgAc,"store, restaurant, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4.1,694,26.33713154177409,50.13970846557618,893.33
+12,Petromin Express,ChIJ3eJ_NTTkST4Rr-K791ZlQvI,"car_wash, car_repair, store, point_of_interest, establishment","Ibn Al Ameed Street, Dhahran",OPERATIONAL,4.1,219,26.33713154177409,50.13970846557618,905.66
+12,SNB AlAhli ATM,ChIJE69hWi_kST4RZX3BJ8FLqgE,"atm, finance, point_of_interest, establishment","Jabal Street, 84JJ+MW, Dhahran",OPERATIONAL,2,3,26.33713154177409,50.13970846557618,954.46
+12,Little Geniuses الصغار العباقرة,ChIJvT6KDEnkST4RDOBphJJwQ18,"point_of_interest, establishment","البديعه, EAMA7166, الظهران",OPERATIONAL,4.7,23,26.33713154177409,50.13970846557618,958.58
+12,Ice Gate HVAC Co شركة بوابة الجليد للتكييف,ChIJ90CCZczlST4RlGPWWxITsSY,"general_contractor, point_of_interest, establishment",Dhahran,OPERATIONAL,4.3,21,26.33713154177409,50.13970846557618,967.34
+12,مصرف الراجحي,ChIJ5RYk7irkST4RqLVSyijZHDg,"bank, finance, point_of_interest, establishment","Custodian of The Two Holy Mosques Road, 84JR+43, Dhahran",OPERATIONAL,2.4,157,26.33713154177409,50.13970846557618,752.23
+12,Bawan Broasted,ChIJX0_jsEnkST4RMG_lJofT2IM,"meal_takeaway, restaurant, food, point_of_interest, establishment","Ibn Batuta Street, Dhahran",OPERATIONAL,4,976,26.33713154177409,50.13970846557618,994.38
+12,Mama frind madam DANA,ChIJk_IaegDlST4RXgrGU9uc6yY,"point_of_interest, establishment","EAMA6932, 4553 Anas Ibn Malik Street, 6932, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,56.87
+12,مشغل شموخ الحسناء | Shmokh Alhasnaa,ChIJs_u5HpLlST4RLew8IfovTLo,"beauty_salon, point_of_interest, establishment","6998 Omar Ibn Abdulaziz Street, 4409, Dhahran",CLOSED_TEMPORARILY,3.9,42,26.33713154177409,50.13970846557618,87.64
+12,Clothes Collection Box,ChIJsym8-e3lST4RRe0kJxpucDs,"point_of_interest, establishment","Bakr Ibn Umayyah Street, 84QQ+29R, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.13970846557618,140.7
+12,الدمام البيرق,ChIJCaI9GwDlST4RPlyaezfGGY0,"point_of_interest, establishment","الامل، 2343, EHDC7219، 7219, Dammam",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,148.58
+12,Ubai Ibn Thabit Elementary School,ChIJ2-5TJi3kST4RfjO1QR9l6gQ,"school, point_of_interest, establishment","4640 اسماء بنت ابي بكر, 6887, Dhahran",OPERATIONAL,3.8,29,26.33713154177409,50.13970846557618,169.02
+12,Muath bin Jabal Mosque,ChIJaYsswC3kST4RMA-wadZUj-s,"mosque, place_of_worship, point_of_interest, establishment","6892 Yaqoot Street, Dhahran",OPERATIONAL,4.5,38,26.33713154177409,50.13970846557618,173.12
+12,Promising Telents Day Care,ChIJU4k63U_lST4Rjn7MMReCOnA,"point_of_interest, establishment","Omar Ibn Abdulaziz Street, Dhahran",OPERATIONAL,4.5,29,26.33713154177409,50.13970846557618,175.84
+12,مؤسسة نور الهدى للتكييف والتبريد,ChIJf095IwDlST4RFjjsrLQhwn0,"point_of_interest, establishment","EAMA6917, 6917 Kharj Street, 4262, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.13970846557618,224.95
+12,Basem Laundry مغسلة باسم,ChIJEbvNAgDlST4R1EbvV3K9afY,"laundry, point_of_interest, establishment","6892 Yaqoot Street, Dhahran",OPERATIONAL,3.8,4,26.33713154177409,50.13970846557618,226.11
+12,Ashjan Supermarket,ChIJw8SlZQDlST4RskYBZu7TKwA,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","6892 Yaqoot Street, Dhahran",OPERATIONAL,4.8,16,26.33713154177409,50.13970846557618,233.86
+12,jū specialty coffee,ChIJOYxqIwTlST4RogjBkuG7etA,"cafe, store, food, point_of_interest, establishment",Dhahran,OPERATIONAL,4.5,211,26.33713154177409,50.13970846557618,239.66
+12,بن مشعف,ChIJc9hMNADlST4RqnAX5w0zut0,"point_of_interest, establishment","EAMB4386، 4386 ابن الهيثم، 7210, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,267.4
+12,Ibn Alqayem Mosque,ChIJPcjU8jLkST4RuRMcdUK2InM,"mosque, place_of_worship, point_of_interest, establishment","7243 Omar Ibn Abdulaziz Street, Dhahran",OPERATIONAL,4.8,91,26.33713154177409,50.13970846557618,289.8
+12,قدرات,ChIJkRUwoZXlST4RbkNvjpsCnbk,"school, point_of_interest, establishment","4605 اسماء بنت ابي بكر،, 7244, Dhahran",OPERATIONAL,4.5,4,26.33713154177409,50.13970846557618,313.03
+12,Ibn Almuthaffar Middle School,ChIJ8RlvJdPlST4RW8lL5bWxQUg,"school, point_of_interest, establishment","84PV+J56, Dhahran",OPERATIONAL,3.6,82,26.33713154177409,50.13970846557618,324.26
+12,Imam Saud Alkabeer Secondary School,ChIJwZ_DsdLlST4RDx078K8AW7Y,"school, point_of_interest, establishment","84QV+F26, الظهران",OPERATIONAL,3.6,111,26.33713154177409,50.13970846557618,327.76
+12,مركز حديقة الكرز,ChIJQ41WOxXmST4RHz0RZ8085iw,"point_of_interest, establishment","الظهران شارع أسماء بنت أبي بكر، الدانة الشمالية مبنى رقم 89, Dhahran",OPERATIONAL,4.4,48,26.33713154177409,50.13970846557618,340.0
+12,Park,ChIJ_aujSvPlST4RHJQQ9e8RdsI,"park, point_of_interest, establishment","84RQ+29P, Dhahran",OPERATIONAL,3.3,7,26.33713154177409,50.13970846557618,350.85
+12,Meem grocery store بقالة ميم,ChIJpfirdADlST4RHDY52e5IsaY,"grocery_or_supermarket, store, food, point_of_interest, establishment","7317 العين, EAMA4566، 4566, الظهران",OPERATIONAL,1,3,26.33713154177409,50.13970846557618,362.47
+12,Spring Park حديقة الربيع,ChIJz-a3rQPlST4RN4A1VcdI52o,"park, point_of_interest, establishment","84PP+QCM, Unnamed Road, الظهران",OPERATIONAL,4.2,20,26.33713154177409,50.13970846557618,365.24
+12,One Meem MS Dana,ChIJiSmx8vPlST4Rl5IIt64RIo4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","4566 شارع عمر بن عبدالعزيز, EAMA4566, 317, Al Danah Ash Shamaliyah, الظهران",OPERATIONAL,5,2,26.33713154177409,50.13970846557618,371.11
+12,صباغ دهانات جوتن,ChIJY4GGnNflST4ReUrE42xd8SQ,"home_goods_store, store, point_of_interest, establishment","حي, Dhahran",OPERATIONAL,4.6,21,26.33713154177409,50.13970846557618,373.7
+12,حلاق,ChIJNRtD_2TlST4RCGQV_DDsxh8,"health, hair_care, point_of_interest, establishment","7317 Al Muhammad, حي, 4566, الظهران",OPERATIONAL,3.4,7,26.33713154177409,50.13970846557618,376.78
+12,لينا ماركت 4 ( 24 ساعه ),ChIJ0bJLgAHlST4R4CQ1xPZrEiU,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","Salama Ibn Qais St, Dana Al Shamaliah, Adh, Dhahran",OPERATIONAL,3.4,16,26.33713154177409,50.13970846557618,426.14
+12,Washbasins upscale Dana,ChIJa-fI4tLlST4RpoWP8h3ANVg,"laundry, point_of_interest, establishment","4910, Dhahran",OPERATIONAL,4,9,26.33713154177409,50.13970846557618,431.32
+12,Mama beth,ChIJYzeSeADlST4RaYBaPvGKNK0,"store, point_of_interest, establishment","EAMA4047، 4047 ابن الهيثم، 6998, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,436.25
+12,Building 1,ChIJQc7reADlST4Rty0Fe2pbr-k,"point_of_interest, establishment","6523 ابو ألعقيل الاسلمي, 4567, الظهران",OPERATIONAL,4,1,26.33713154177409,50.13970846557618,432.24
+12,Building 2,ChIJ-emrcgDlST4RBiDiZA_xH8Q,"point_of_interest, establishment","84MR+64C, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,453.0
+12,Little Planets,ChIJJTj-zD_lST4RFG4BvWX97hY,"school, point_of_interest, establishment","4530 Omar Ibn Abdulaziz Street, 7401, Dhahran",OPERATIONAL,4.5,45,26.33713154177409,50.13970846557618,455.15
+12,حديقة الاريج,ChIJTWXzwKPlST4RLEvGv8Jqt-c,"park, point_of_interest, establishment","4683 Al Muhammad, 7409, الظهران",OPERATIONAL,5,3,26.33713154177409,50.13970846557618,480.04
+12,الواحة,ChIJx-_pAQDlST4RUROlXzSUad4,"point_of_interest, establishment","EAMB7165، 7165 الواحة، 4950, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,488.37
+12,Hilong Geophysical Co,ChIJexb6LADlST4R1ZfHhVULJO0,"storage, point_of_interest, establishment","6551 حي, EAMA4132، 4132 طريق الظهران, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,492.38
+12,Hamat Hills,ChIJQy8MOQDlST4RdWeqewFZJzU,"point_of_interest, establishment","84MQ+464, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.13970846557618,509.6
+12,Dana Booster Station,ChIJ9bE482_lST4R6kajpTbRZ9k,"point_of_interest, establishment","84PM+RQR, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,531.34
+12,Bin Baz Grand Mosque,ChIJ1fBortPlST4R3vmQniLqgdI,"mosque, place_of_worship, point_of_interest, establishment","Bin Baz Mosque, Talha Ibn Al Barra Street, Dhahran",OPERATIONAL,4.7,115,26.33713154177409,50.13970846557618,551.16
+12,Tahani,ChIJwdngsD3lST4RaZXQMb-Uzow,"point_of_interest, establishment","S1, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,565.38
+12,Dossary Mosque,ChIJj5stGzHkST4RFOmRaUdZvA8,"mosque, place_of_worship, point_of_interest, establishment","Dossary Mosque, Al Abrar Street, Dhahran",OPERATIONAL,4.7,54,26.33713154177409,50.13970846557618,575.94
+12,Rainbow Land,ChIJNd3qQhrlST4Rnut9qVTCqMI,"point_of_interest, establishment","6369 ابو ألعقيل الاسلمي، 4429, الظهران",OPERATIONAL,1,1,26.33713154177409,50.13970846557618,585.8
+12,Mosque,ChIJu9M6lALlST4RROyjNWUBpcM,"mosque, place_of_worship, point_of_interest, establishment","84JR+P6W, Dhahran",OPERATIONAL,4.7,15,26.33713154177409,50.13970846557618,590.36
+12,4th Intermediate for Girls in Dhahran,ChIJ047oVTHkST4R2RVL2u4xXkg,"school, point_of_interest, establishment","9 (B) Street, 84RP+RJG, Dhahran",OPERATIONAL,2.2,26,26.33713154177409,50.13970846557618,629.57
+12,اسواق ومخابز عالم الهمامي,ChIJ75IKaADlST4R26U44cdBbhk,"home_goods_store, store, point_of_interest, establishment","17 Street, 84QM+MF3, الخرج",OPERATIONAL,1,1,26.33713154177409,50.13970846557618,641.07
+12,AL Jahalan compound,ChIJ5WeDFwDlST4RwsdiVcFxc74,"point_of_interest, establishment","6443 عمر بن عبد العزيز, Dhahran",OPERATIONAL,5,1,26.33713154177409,50.13970846557618,636.78
+12,Agility logestic,ChIJTdi_EgDlST4Ry6DpbEidzEA,"real_estate_agency, point_of_interest, establishment","EAMA5098, 6724 Al Sahab Street, 5098, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,645.3
+12,海龙地球物理勘探有限公司,ChIJsYZi5k7lST4RscKAKjr2lWM,"point_of_interest, establishment","6620 Custodian of The Two Holy Mosques Road, حي, 3932, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,648.55
+12,DANA Substation,ChIJOVDItY7lST4RdlcyYbBBqL0,"storage, point_of_interest, establishment","EAMA6782, 5105 Al Sahab Street, 6782, Dhahran",OPERATIONAL,3.5,2,26.33713154177409,50.13970846557618,648.9
+12,SS Dana-2 115/13.8 KV Substation,ChIJ36TGPgDlST4R6_fzYJdSCo4,"point_of_interest, establishment","Doha Road, 84PW+397, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,656.53
+12,شركة هايلونج Hilong,ChIJVxIXUSHlST4RhluZLUyOic4,"point_of_interest, establishment","حي, 3932 طريق خادم الحرمين الشريفين، الدانة الشمالية، الظهران 34258 6620،",OPERATIONAL,N/A,N/A,26.33713154177409,50.13970846557618,662.6
+12,The 6th Elementary School for Girls,ChIJqfZ2rTbkST4RUPtwO9mU6qE,"school, point_of_interest, establishment","84RP+WGQ, Dhahran",OPERATIONAL,3.2,26,26.33713154177409,50.13970846557618,667.84
+13,McDonald's,ChIJnUqjDHjmST4RVAlxzP2RmrU,"restaurant, food, point_of_interest, establishment","Dhahran, الخبر",OPERATIONAL,3.8,4311,26.33713154177409,50.15570846557618,727.69
+13,AL-DULIMAN OPTICS الدليمان للبصريات,ChIJyfSNCNrlST4RVGYO-oHIlX8,"health, store, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.6,223,26.33713154177409,50.15570846557618,339.52
+13,Talal Al-Hajri Mosque,ChIJo0PhXNflST4RubKsIbn_nDc,"mosque, place_of_worship, point_of_interest, establishment","5690, Dhahran",OPERATIONAL,4.8,57,26.33713154177409,50.15570846557618,394.86
+13,SAB الأول,ChIJW71UfdDlST4Rl56louWocXI,"atm, finance, point_of_interest, establishment","طريق الأمير محمد بن فهد،, Prince Mohammed Bin Fahd Rd, Aldhhran",OPERATIONAL,4.5,2,26.33713154177409,50.15570846557618,490.12
+13,Tamimi Markets,ChIJywdih9DlST4RkQ5G8UlBqmc,"supermarket, convenience_store, grocery_or_supermarket, food, store, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4,806,26.33713154177409,50.15570846557618,493.16
+13,Saudi Autistic Society,ChIJsUI0RXbmST4RHEyS5DgKsvM,"point_of_interest, establishment","8065 Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,3.8,35,26.33713154177409,50.15570846557618,567.3
+13,Telal Residence 1,ChIJHaVroNrlST4RnsBP_EfH3LU,"point_of_interest, establishment",Dhahran,OPERATIONAL,4.6,10,26.33713154177409,50.15570846557618,591.25
+13,Dhahran City Municipality,ChIJP7FAz9flST4RCGy7kF7LXck,"point_of_interest, establishment","5552 Prince Sultan Road, Dhahran",OPERATIONAL,3,65,26.33713154177409,50.15570846557618,705.89
+13,Little Geniuses الصغار العباقرة,ChIJvT6KDEnkST4RDOBphJJwQ18,"point_of_interest, establishment","البديعه, EAMA7166, الظهران",OPERATIONAL,4.7,23,26.33713154177409,50.15570846557618,698.31
+13,SNB AlAhli ATM,ChIJI0tPPNblST4ReS9_cYye9EI,"atm, finance, point_of_interest, establishment","Prince Sultan Road, 84JX+WF, Dhahran",OPERATIONAL,3.5,38,26.33713154177409,50.15570846557618,875.77
+13,Farm Superstore,ChIJU72cWtblST4RFrR8xmPyfB8,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment","84MX+8M, Dhahran",OPERATIONAL,3.9,1122,26.33713154177409,50.15570846557618,777.69
+13,Dhahran Hills Schools,ChIJFVpiVcPlST4RQ5a9ifoaq2Q,"school, point_of_interest, establishment","Jarir Street, Dhahran",OPERATIONAL,4.2,267,26.33713154177409,50.15570846557618,829.72
+13,SAB الأول,ChIJ0T6TKdblST4R9tTWJvrhGn0,"atm, finance, point_of_interest, establishment","Prince Sultan Road, الدمام",OPERATIONAL,3.3,12,26.33713154177409,50.15570846557618,867.42
+13,Saudi Petro Gas Company,ChIJaWCCedblST4Rg4jaU_eYrhI,"point_of_interest, establishment","84MX+722, Dhahran",OPERATIONAL,2.9,14,26.33713154177409,50.15570846557618,929.4
+13,Dorrar,ChIJt9hyCXPmST4Rp6xT0li_5hg,"point_of_interest, establishment","Anas Ibn Malik Street, Dhahran",OPERATIONAL,4.9,79,26.33713154177409,50.15570846557618,962.35
+13,Alaskar Grocery,ChIJe52TFNnlST4RZ44fGunqNS8,"grocery_or_supermarket, food, store, point_of_interest, establishment","Ibn Taimiah Street, 85P4+R4F, Dhahran",OPERATIONAL,3.6,116,26.33713154177409,50.15570846557618,42.17
+13,أعشاب النخيل,ChIJtVAC7irlST4RrJ4Dm_DSXc8,"health, store, point_of_interest, establishment","3852-3830 Ibn Taimiah Street, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,57.68
+13,مغسلة الجبر,ChIJN83kYwDlST4RqtEHQqUHwUQ,"laundry, point_of_interest, establishment","6153 Prince Mohammed Bin Fahd Road, 3707, Dhahran",OPERATIONAL,3.3,9,26.33713154177409,50.15570846557618,121.05
+13,Tilal Al Doha Park,ChIJC3m6ftnlST4RI9C7ETTSGX4,"park, point_of_interest, establishment","3842, 6268, الظهران",OPERATIONAL,4.4,96,26.33713154177409,50.15570846557618,143.33
+13,Dahran,ChIJxcFwVgDlST4RrxXGKfUEsmk,"park, point_of_interest, establishment","Prince Sultan Road, 85P4+75P, Al Khobar",OPERATIONAL,1,1,26.33713154177409,50.15570846557618,158.84
+13,Sallah Head Office,ChIJbT_rJQDlST4RZgoF1FUvZj0,"point_of_interest, establishment","2353 Al Ouzai, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,171.05
+13,Al doha Park,ChIJ4029dgDlST4R5niaAN2ASiE,"park, point_of_interest, establishment","EAJA6706، 6706 الأسد بن الكناني، 2206, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,173.18
+13,Dhahran Plaza,ChIJZ-baJQDlST4RM0QeFSpYqfs,"shopping_mall, point_of_interest, establishment","6153 Prince Mohammed Bin Fahd Road, 3707, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.15570846557618,183.51
+13,cosmo dhahran,ChIJX3EHHQDlST4RNrg-5pMWbv0,"cafe, store, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.2,184,26.33713154177409,50.15570846557618,184.52
+13,ارتشي,ChIJwe4PZwDlST4R8GvewlLfQOY,"cafe, store, food, point_of_interest, establishment","6153 Prince Mohammed Bin Fahd Road, 3707, Dhahran",OPERATIONAL,3.9,114,26.33713154177409,50.15570846557618,201.32
+13,Archi | ارتشي,ChIJmecQrn_lST4RC_UlSNwcJjI,"cafe, store, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.2,54,26.33713154177409,50.15570846557618,201.59
+13,مجالس ال هين,ChIJ89yqNADlST4RwNON-2RV6dI,"general_contractor, point_of_interest, establishment","حي, EAJA3751، 3751 الوادي، 6290, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,205.25
+13,Dhahran Square,ChIJT3lwls_lST4Reb7L4h7gkJQ,"shopping_mall, point_of_interest, establishment","طريق الأمير محمد بن فهد بن عبدالعزيز, 85Q3+37H, EAJA3707, الظهران",OPERATIONAL,4.6,13,26.33713154177409,50.15570846557618,210.0
+13,eyewa Aldoha district - ايوا حي الدوحة,ChIJv2zlcwDlST4RKkkJAomUR7k,"health, store, point_of_interest, establishment","85P3+W9V, Dhahran",OPERATIONAL,4.3,114,26.33713154177409,50.15570846557618,227.6
+13,أسواق المزرعة,ChIJv1prbwDlST4Rt8AEL-CGleQ,"shopping_mall, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, 85Q3+37H, Dhahran",OPERATIONAL,4.6,100,26.33713154177409,50.15570846557618,233.38
+13,Ebad Alrahman Mosque,ChIJryztldjlST4R-bIUAR4jWWQ,"mosque, place_of_worship, point_of_interest, establishment","Ebad Alrahman Mosque, Asad Al Kinani Street, Dhahran",OPERATIONAL,4.7,250,26.33713154177409,50.15570846557618,241.23
+13,Nahdi pharmacy | صيدليه النهدى,ChIJnxXBSwDlST4RowrWxJFEahU,"pharmacy, health, store, point_of_interest, establishment","طريق الامير محمد بن فهد الفرعي, 85Q3+376 Dhahran الشرقية-الظهران-حى القصور",OPERATIONAL,4.8,71,26.33713154177409,50.15570846557618,263.07
+13,FALS electronic,ChIJj732HsblST4ROa-wGCyEQic,"electronics_store, store, point_of_interest, establishment","Asad Al Kinani Street, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,263.95
+13,Vision 2030 Monument,ChIJzzsremrlST4RR808jP6dOzM,"point_of_interest, establishment","EAJA2188, Prince Sultan Road, Dhahran",OPERATIONAL,4,3,26.33713154177409,50.15570846557618,270.91
+13,ماربيلا كمباوند Marbella Compound السليمان العقارية,ChIJqQaPHtrlST4Ryyivs4mPYOY,"point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.4,411,26.33713154177409,50.15570846557618,276.74
+13,شركة ايجاده للمحاماة والاستشارات القانونية,ChIJYX-ip_XlST4RWuV3woPcB50,"point_of_interest, establishment","حـــي, AL QUSOUR DISTRICT, DHAHRAN, KINGDOM OF SAUDI ARABIA لمملكة العربية السعودية, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,282.8
+13,بنك الجزيرة,ChIJQy07IcXpST4RD4LEWUfPHSw,"bank, finance, point_of_interest, establishment","85Q3+456, Dhahran",OPERATIONAL,1.9,53,26.33713154177409,50.15570846557618,286.73
+13,ALJAZIRA ATM,ChIJo5TYAtrlST4RqagvsE4xyEc,"atm, finance, point_of_interest, establishment","TELAL, Dhahran",OPERATIONAL,3.3,3,26.33713154177409,50.15570846557618,288.2
+13,مدارس التربية النموذجية العالمية الظهران,ChIJGZHMk6zlST4RyIBsiOBc5xs,"school, point_of_interest, establishment","85Q3+MH, Dhahran",OPERATIONAL,4,245,26.33713154177409,50.15570846557618,288.34
+13,حديقة جميلة القحطاني,ChIJcznUNQDlST4RwP8mEy2QWds,"park, point_of_interest, establishment","حي, EAJC3788، 3788 الوادي، 6393, Dhahran",OPERATIONAL,3,1,26.33713154177409,50.15570846557618,288.56
+13,Revive Beauty Lounge,ChIJPdJZGtrlST4Rki7M0spm8z8,"beauty_salon, point_of_interest, establishment",Dhahran,OPERATIONAL,4,124,26.33713154177409,50.15570846557618,290.41
+13,Millefiori Gallery ..ماليفيوري غاليري,ChIJQ4FeGtrlST4Rmn1iieXAYeo,"point_of_interest, establishment","85Q3+97P, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.15570846557618,291.32
+13,Marbella Kids Daycare مركز ماربيلا لضيافة الأطفال الأهلية,ChIJ5TgH8ZnlST4RBLENKxlNQIU,"point_of_interest, establishment","كمباوند ماربيلا, Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.7,10,26.33713154177409,50.15570846557618,294.38
+13,Espada,ChIJC8TOUijlST4RATm27af0avQ,"hair_care, health, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.7,79,26.33713154177409,50.15570846557618,294.52
+13,GRANOS CAFE KSA,ChIJ0dqwVBL7ST4Rj5o8lueNDL8,"cafe, store, food, point_of_interest, establishment","مجمع ماربيلا Marbella compound, bin Abdulaziz Road, طريق الأمير محمد بن فهد بن عبدالعزيز، القصور، الظهران Prince Muhammad bin Fahd, الظهران",CLOSED_TEMPORARILY,4.8,12,26.33713154177409,50.15570846557618,301.53
+13,صالون شذونة سبا Shathona Spa & Salon,ChIJY_Y_BNrlST4RKg6jpdtA5jA,"beauty_salon, hair_care, spa, point_of_interest, establishment",Dhahran,OPERATIONAL,4.5,1420,26.33713154177409,50.15570846557618,317.33
+13,Script Speciality Coffee,ChIJIxYh403lST4RaE50e2QzebY,"cafe, store, food, point_of_interest, establishment","Prince Mohammed Bin Fahd Road, Dhahran",OPERATIONAL,4.7,989,26.33713154177409,50.15570846557618,331.21
+13,Jamilah Qahtani Mosque,ChIJ2524SNrlST4REYz8exhDVaQ,"mosque, place_of_worship, point_of_interest, establishment","85Q3+WPM, Dhahran",OPERATIONAL,4.7,32,26.33713154177409,50.15570846557618,331.43
+13,GLOBAL VISION SAUDIA,ChIJVVVVldvlST4Rr0vHYiV30bs,"point_of_interest, establishment","Building N 0:7123, Al Amir Muhammed Ibn Fahd Branch Road, Zip Code :, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,336.64
+13,Al-Berwas Express Laundry,ChIJYz293XTlST4R927g9bqlPu8,"laundry, point_of_interest, establishment","85R3+2VH, Dhahran",OPERATIONAL,2.9,26,26.33713154177409,50.15570846557618,339.25
+13,بقالة الظهران,ChIJhQX8UWvlST4R2eMPQlsWsfU,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","EAJC6440، 6440 11ج، 3824، حي القصور،, Dhahran",OPERATIONAL,3,2,26.33713154177409,50.15570846557618,339.08
+13,Ibtisam Grocery,ChIJ4WUo-jDlST4R4_oXHxKiLIg,"grocery_or_supermarket, store, food, point_of_interest, establishment","حي, 2535 الأوزاعي، الدوحة الشمالية، الظهران 34249 7005،",OPERATIONAL,3.5,28,26.33713154177409,50.15570846557618,338.77
+13,GDA 2025,ChIJdyGeDg3lST4R2umTaBv3KDc,"point_of_interest, establishment",Dhahran,OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,342.33
+13,Medicine House,ChIJWW9t2rblST4Rw0WholjELzg,"point_of_interest, establishment","Prince Mohammed ibn Fahad St, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.15570846557618,342.33
+13,AUR,ChIJRUMqAwDlST4Rs8MJ3zBIu4g,"cafe, store, food, point_of_interest, establishment","Hamza Ibn Abdulmuttalib Street, Dhahran",OPERATIONAL,4.5,740,26.33713154177409,50.15570846557618,343.21
+13,Ghadaa Al Nada Juice,ChIJF33EuBjlST4Rq01qKHsZ_Ag,"food, point_of_interest, establishment","85R3+2VJ, Unnamed Road, القصور،, Dhahran",OPERATIONAL,4.6,45,26.33713154177409,50.15570846557618,343.88
+13,LATINUS BURGER.,ChIJVS3cm4rlST4RnG8BfBiELOw,"restaurant, food, point_of_interest, establishment","6479, الظهران",OPERATIONAL,4.3,143,26.33713154177409,50.15570846557618,347.93
+13,Vos events,ChIJrRG9cl3lST4Ry2AQVYD88Z0,"home_goods_store, store, point_of_interest, establishment","Al Uyaynah, Dhahran",OPERATIONAL,3.8,9,26.33713154177409,50.15570846557618,347.78
+14,Holiday Inn al Khobar by IHG,ChIJYyF0x_TlST4R2r2cht9GgqA,"lodging, point_of_interest, establishment","King Saud Bin Abdulaziz Road, Al Khobar",OPERATIONAL,4,4467,26.33713154177409,50.171708465576174,879.59
+14,Abu Bakr Alseddiq Mosque,ChIJewomwwnmST4RCd69mEy6WaE,"mosque, place_of_worship, point_of_interest, establishment","85Q9+3PC, Dhahran",OPERATIONAL,4.6,67,26.33713154177409,50.171708465576174,250.45
+14,Calzedonia,ChIJIzB3ITHmST4R2DgVQbxmKFA,"clothing_store, store, point_of_interest, establishment","King Saud Branch Road, Dhahran",CLOSED_TEMPORARILY,4.7,3,26.33713154177409,50.171708465576174,732.9
+14,jzala trade and real estate invest,ChIJsXBdpAPmST4RqIlPiPwCwX0,"real_estate_agency, point_of_interest, establishment","Jzala compound 1,, الخبر",OPERATIONAL,4,4,26.33713154177409,50.171708465576174,794.26
+14,جامع حمزة بن عبدالمطلب,ChIJr0XGKQzmST4RJ8kunR839fg,"mosque, place_of_worship, point_of_interest, establishment","3426 Imam Ahmad bin Hambal Street, Dhahran",OPERATIONAL,4.8,75,26.33713154177409,50.171708465576174,798.32
+14,Jazala Compound | مجمع جزالا السكني,ChIJsXBdpAPmST4R79g1dPaqsrA,"point_of_interest, establishment",Al Khobar,OPERATIONAL,3.9,167,26.33713154177409,50.171708465576174,806.18
+14,Abdulaziz Abahussain Mosque,ChIJQZNOLeHlST4RuXOk2J0ffAE,"mosque, place_of_worship, point_of_interest, establishment","3232, 7394, الظهران",OPERATIONAL,4.8,77,26.33713154177409,50.171708465576174,807.59
+14,Qasr Alawani,ChIJi3xLGQPmST4RQSGGpbxR3-Q,"home_goods_store, shopping_mall, furniture_store, store, point_of_interest, establishment","King Saud Branch Road, Al Khobar",OPERATIONAL,3.6,839,26.33713154177409,50.171708465576174,945.53
+14,Arabian Village Compound,ChIJMelwQQLmST4R0w4juAhSVYc,"point_of_interest, establishment","6410, Al Khobar",OPERATIONAL,4.3,102,26.33713154177409,50.171708465576174,970.25
+14,Al Rabwah Village,ChIJOwUljwDmST4Rw2Z_YodNqUs,"lodging, point_of_interest, establishment","2805 طارق بن زياد, Al Khobar",OPERATIONAL,4.3,59,26.33713154177409,50.171708465576174,985.03
+14,Alinma Bank,ChIJM7WS4Q3mST4RPGZker-4EVg,"bank, finance, point_of_interest, establishment",Dhahran,OPERATIONAL,3.2,149,26.33713154177409,50.171708465576174,985.1
+14,Sultana Park,ChIJXXh1897nST4RIqCZ3RhYCck,"park, point_of_interest, establishment","6733 Mohammed Iqbal Street, Dhahran",OPERATIONAL,4.3,14,26.33713154177409,50.171708465576174,66.95
+14,Dhahran Station - Doha,ChIJhQNhpvznST4RiI9tZouZ98k,"point_of_interest, establishment","Prince Ahmed Street, EAJC6627, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,278.04
+14,Lotus Park,ChIJp3UB4QnmST4RkYNVKF1MvD4,"park, point_of_interest, establishment","6969, Dhahran",OPERATIONAL,3.9,63,26.33713154177409,50.171708465576174,296.44
+14,Lutis park,ChIJ5RLHEsfnST4RuOM5EckQ-C8,"park, point_of_interest, establishment","6969, 3548, الظهران",OPERATIONAL,3,2,26.33713154177409,50.171708465576174,302.27
+14,Mintakh Mosque,ChIJjcsWCWHnST4RaQUcGqPffWk,"mosque, place_of_worship, point_of_interest, establishment","85MC+MPV, Dhahran",OPERATIONAL,4.8,35,26.33713154177409,50.171708465576174,320.0
+14,Arener site office,ChIJ39wMWQDnST4RUCy4M66vlew,"general_contractor, point_of_interest, establishment","85MF+QCR, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,345.15
+14,مغاسل العنوان المميز,ChIJ2SDWQwD9ST4RRsOqhDz1JTI,"laundry, point_of_interest, establishment","7801 Jalaluddin Al Sayuti Street, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.171708465576174,363.86
+14,بقالة فوزية,ChIJk_TJ4SHnST4R1vrGkW4Lglk,"grocery_or_supermarket, store, food, point_of_interest, establishment","بقالة فوزية،،, شارع الشلال، الدوحة, Dhahran",OPERATIONAL,4.5,12,26.33713154177409,50.171708465576174,396.13
+14,ابو عبدالعزيز مأذون الأنكحة معتمد,ChIJO08qQADnST4Rrf2xjTbXGic,"place_of_worship, point_of_interest, establishment","85P9+C4G, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,406.07
+14,Lachica,ChIJzZhvzQ7mST4RTkDKZDE0dck,"beauty_salon, point_of_interest, establishment","6438 اوس بن ثابت, Dhahran",OPERATIONAL,3.9,135,26.33713154177409,50.171708465576174,448.88
+14,Wadi AlSur AlBokhari Restaurant,ChIJLUY7dQrmST4RJKYsPkFJhkA,"restaurant, food, point_of_interest, establishment","6856 اوس بن ثابت, Dhahran",CLOSED_TEMPORARILY,3.6,299,26.33713154177409,50.171708465576174,533.28
+14,صالون السعد,ChIJL37bhTrnST4RSzl-9DBA_io,"hair_care, health, point_of_interest, establishment","85P8+WH6, Dhahran",OPERATIONAL,5,2,26.33713154177409,50.171708465576174,534.46
+14,مطعم ديار الكرام,ChIJczPQFhzlST4RXzSfG0G9_-g,"restaurant, food, point_of_interest, establishment","Doha Road, 85Q8+5H7, Dhahran",OPERATIONAL,5,1,26.33713154177409,50.171708465576174,536.25
+14,بقالة,ChIJfQN-kpHnST4Rvc-s3MAk6ns,"grocery_or_supermarket, store, food, point_of_interest, establishment","85JC+X84, Dhahran",OPERATIONAL,3.8,35,26.33713154177409,50.171708465576174,532.47
+14,مغسلة الفجر,ChIJvRFbSKbnST4RCBGF6PpOckE,"laundry, point_of_interest, establishment","3281 اوس بن ثابت،،, 6856, الظهران",OPERATIONAL,2.4,7,26.33713154177409,50.171708465576174,537.71
+14,NAAM CATERING SIGNATURE,ChIJGZjFTgDnST4RzuUVa-L-ouU,"food, point_of_interest, establishment","3268 Iqtisad Street, EAJB6842، 6842, Dhahran",OPERATIONAL,5,3,26.33713154177409,50.171708465576174,540.28
+14,First Secondary School for Girls,ChIJD-mMUgnmST4RwqUeN2uC9Ds,"school, point_of_interest, establishment","6456 السدر, Dhahran",OPERATIONAL,3.6,98,26.33713154177409,50.171708465576174,541.58
+14,سيمبلي تيستي SIMPLY TASTY,ChIJhxEUVgDnST4RLmtLTCL7HC4,"store, food, point_of_interest, establishment","EAJB6340، 6340 ابي بن ثابت، 3602, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,548.74
+14,مسجد العز بن عبدالسلام رحمه الله.,ChIJhaTt2OHlST4R2qosYWumqOk,"mosque, place_of_worship, point_of_interest, establishment","6876 اوس بن ثابت, Dhahran",OPERATIONAL,4.6,18,26.33713154177409,50.171708465576174,561.62
+14,Avenues Mall khobar,ChIJW0i1XwDlST4RShQV-Uq11co,"store, point_of_interest, establishment","The Avenues, Al Khobar",CLOSED_TEMPORARILY,5,2,26.33713154177409,50.171708465576174,562.16
+14,موسسة شبكة البناء التجارية,ChIJdcWlImjlST4R2TnjgJEBd5A,"store, point_of_interest, establishment","6932 Prince Ahmed Street, Dhahran",OPERATIONAL,3.2,11,26.33713154177409,50.171708465576174,576.54
+14,"Ahmadiah batching plant,dahran",ChIJO-7GFwDnST4RltT2at2OVwg,"general_contractor, point_of_interest, establishment","85PG+CW4, Dhahran",OPERATIONAL,4.4,5,26.33713154177409,50.171708465576174,573.4
+14,صالون الرجل ال هندام,ChIJ9YIJuDblST4RKbl61Ly-gNo,"hair_care, health, point_of_interest, establishment","85Q8+485, Dhahran",OPERATIONAL,2.6,19,26.33713154177409,50.171708465576174,588.09
+14,Saudi Electric Company,ChIJk5dsNAfmST4RgqUkFSfqB90,"point_of_interest, establishment","7124 King Saud Bin Abdulaziz Road, Dhahran",OPERATIONAL,5,3,26.33713154177409,50.171708465576174,592.24
+14,Al Rajhi Bank,ChIJeWcC0OHlST4Rzgi9VmT-9Ks,"atm, finance, point_of_interest, establishment","6932 اوس بن ثابت, Dhahran",OPERATIONAL,2.9,15,26.33713154177409,50.171708465576174,599.32
+14,جراند مارت,ChIJNc2gQgDlST4RTTUvxEGbF2w,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment","3215 Aws Ibn Thabit Street, EAJC6936، 6936, Dhahran",CLOSED_TEMPORARILY,4.5,2,26.33713154177409,50.171708465576174,600.6
+14,الثانوية الاولى مقرارات بالظهران,ChIJ6b_lqw7mST4Rxs3a4DrQZks,"school, point_of_interest, establishment","Al Harith Ibn Qais St Al Harith Ibn Qais Street, Dhahran",OPERATIONAL,4.1,28,26.33713154177409,50.171708465576174,605.24
+14,مغسلة الاناقة للملابس الرجالية,ChIJv_bQ7w7mST4RyNyZof9ytAQ,"laundry, point_of_interest, establishment","Rimal Street, 85J9+QR9, Dhahran",OPERATIONAL,4.3,22,26.33713154177409,50.171708465576174,615.71
+14,الشباب للخياطة,ChIJITX-cpTlST4REIG8X3f2Svs,"point_of_interest, establishment","3215 Aws Ibn Thabit Street, 6936, Dhahran",OPERATIONAL,3.4,10,26.33713154177409,50.171708465576174,623.29
+14,مخبز وفوال الرباط,ChIJ2WbZ20HlST4RDouYPugsCm8,"restaurant, food, point_of_interest, establishment","85Q8+763, Dhahran",OPERATIONAL,2.7,16,26.33713154177409,50.171708465576174,625.38
+14,بقالة سور الحديقة,ChIJ-U5z0xrnST4RCqKMfLn6Qlw,"grocery_or_supermarket, store, food, point_of_interest, establishment","EAJC6801، 6801 الاقتصاد، 3199،, Dhahran",OPERATIONAL,3.8,11,26.33713154177409,50.171708465576174,628.26
+14,مغسلة الهنوف,ChIJy0mCy-HlST4RysVecGDx7pU,"laundry, point_of_interest, establishment","85Q8+653, Dhahran",OPERATIONAL,3.2,9,26.33713154177409,50.171708465576174,636.59
+14,صيدلية فارما هوم الدوحة Pharma home pharmacy Doha,ChIJz5h0zOHlST4ROPgcqrVwpWE,"pharmacy, store, health, point_of_interest, establishment","3214 اوس بن ثابت, 6932, Dhahran",OPERATIONAL,4.2,34,26.33713154177409,50.171708465576174,638.54
+14,عرين عويدتا,ChIJJ8r8AwDlST4RPd4SSuX0PPQ,"car_dealer, store, point_of_interest, establishment","85P8+V42, Dhahran",OPERATIONAL,5,1,26.33713154177409,50.171708465576174,641.95
+14,Horse Laundromat,ChIJIU3vqeHlST4R9AiNmg6KfW4,"laundry, point_of_interest, establishment","Prince Ahmed Street, 85Q8+R89, Dhahran",OPERATIONAL,3.9,36,26.33713154177409,50.171708465576174,641.73
+14,كفتيريا قدري محمد,ChIJRxEZy-HlST4RX6v5hxrYfnU,"cafe, food, point_of_interest, establishment","شارع الشهيد القحطاني, 85Q8+64P, Dhahran",OPERATIONAL,3.8,6,26.33713154177409,50.171708465576174,645.4
+14,Imam Muhammad bin Sirin mosque,ChIJa1naow_mST4R6Th-1v9n1qo,"mosque, place_of_worship, point_of_interest, establishment","3789 اوس بن ثابت, 6200, Dhahran",OPERATIONAL,4.6,38,26.33713154177409,50.171708465576174,640.57
+14,Last minute grocery store,ChIJU0-0RQDnST4RZypkPtUQXOU,"food, point_of_interest, establishment","3239 شارع الشلال, EAJA6548, 6548, الظهران",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,645.91
+14,KI BC,ChIJWdow0xDnST4Rh-ES_cCaM4o,"point_of_interest, establishment","Imam Ahmad bin Hambal Street, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,652.37
+14,Lulu Al Doha Supermarket,ChIJa2PJBuHlST4RsWaeqh9hzis,"grocery_or_supermarket, shopping_mall, store, food, point_of_interest, establishment","احمد بن عبدالعزيز, Dhahran",OPERATIONAL,3.9,64,26.33713154177409,50.171708465576174,681.7
+14,Cervinia Sweet سيرڤينيا سويت,ChIJPzF2ZADnST4R7H4nyCWjuu0,"bakery, store, food, point_of_interest, establishment","EAJB3827، 3827 احمد بن حنبل، 6160, الظهران",OPERATIONAL,5,1,26.33713154177409,50.171708465576174,677.43
+14,Secondary Shawkaani,ChIJ1wiqLeDlST4RGmjSr8mEVxw,"school, point_of_interest, establishment","6854 اوس بن ثايت, 3141, الظهران",OPERATIONAL,2,4,26.33713154177409,50.171708465576174,684.52
+14,محطة كهرباء الدوحة المركزية,ChIJjVpXTgHmST4Rna8C2DH8a08,"point_of_interest, establishment","6878 King Saud Bin Abdulaziz Road, Dhahran",OPERATIONAL,N/A,N/A,26.33713154177409,50.171708465576174,683.03
+14,Doha Elementary School,ChIJtVBPQC3lST4RxveQ4nFBx2M,"school, point_of_interest, establishment","Aws Ibn Thabit Street, 85P7+RV5, Dhahran",OPERATIONAL,2.5,2,26.33713154177409,50.171708465576174,696.09
+14,Civil Defense Center,ChIJ190qcRjnST4RcE0JZ2nj-l0,"fire_station, point_of_interest, establishment","Alnuman Ibn Sinan Street, 85M8+2QM, Dhahran",OPERATIONAL,4.5,2,26.33713154177409,50.171708465576174,694.11
+14,مدرسة الدوحة المتوسطة,ChIJfSkiohflST4Rvt1eSgUgyWA,"school, point_of_interest, establishment","3141 اوس بن ثايت،, 6854, Dhahran",OPERATIONAL,3.7,3,26.33713154177409,50.171708465576174,703.81
+14,Zahou Web,ChIJhTacPJ7nST4RT-Zw2yn5OxQ,"point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,5,7,26.33713154177409,50.171708465576174,724.32
+15,Holiday Inn al Khobar by IHG,ChIJYyF0x_TlST4R2r2cht9GgqA,"lodging, point_of_interest, establishment","King Saud Bin Abdulaziz Road, Al Khobar",OPERATIONAL,4,4467,26.33713154177409,50.18770846557618,919.35
+15,Alasfour Furniture - Khobar,ChIJEW7v_6foST4RPShTfY1o8i4,"furniture_store, home_goods_store, store, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,3.7,292,26.33713154177409,50.18770846557618,628.09
+15,Sinopec Services Saudi Arabia,ChIJvzFaLqroST4RfJ6oTF24qeM,"point_of_interest, establishment","Eurovillage Compound, KSA, Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.2,191,26.33713154177409,50.18770846557618,229.26
+15,SPIMACO Eastern Office,ChIJ5_75PKboST4RXONsbT0MV64,"health, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.2,5,26.33713154177409,50.18770846557618,362.14
+15,Aldawaa Pharmacy 61,ChIJdV115KXoST4Rvikw8u2eVXA,"pharmacy, health, store, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.2,83,26.33713154177409,50.18770846557618,425.55
+15,Human Assets Training Institute,ChIJ29-APqboST4RaHWvvmaPY1M,"university, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.4,213,26.33713154177409,50.18770846557618,396.42
+15,Creativity Consultant Training Center,ChIJ9XTVJKboST4RmFpWsMD2l6M,"point_of_interest, establishment","3055 Prince Sultan Road, Al Khobar",OPERATIONAL,4.5,2,26.33713154177409,50.18770846557618,400.58
+15,Nahdi pharmacy | صيدليه النهدى,ChIJ4cC0nHDoST4RXUGRvbxlpjo,"pharmacy, health, store, point_of_interest, establishment","85PR+3FW, Al Khobar",OPERATIONAL,4.2,25,26.33713154177409,50.18770846557618,408.68
+15,Standard Arabia Training Center Al Khobar,ChIJq6qqqg3oST4R1ACBGgaBK70,"point_of_interest, establishment","Taba Center, Prince Sultan Road, Al Khobar",OPERATIONAL,3,2,26.33713154177409,50.18770846557618,412.88
+15,Sanam Laundry مغاسل سنام,ChIJ6cdgcqXoST4RRMLRCKvh5mc,"laundry, point_of_interest, establishment","Prince Sultan Road Prince Sultan Road, الخبر",OPERATIONAL,3.4,76,26.33713154177409,50.18770846557618,460.91
+15,Maram Mokhtar | Architecture & Interiors,ChIJR3zwO0boST4RAPTZ532AJRo,"general_contractor, point_of_interest, establishment","2893 Prince Sultan Road, Al Khobar",OPERATIONAL,3.8,16,26.33713154177409,50.18770846557618,552.16
+15,The Hut Burger,ChIJ9X54TKXoST4RP-3-a0xWx_E,"restaurant, food, point_of_interest, establishment","85PV+968, Al Khobar",CLOSED_TEMPORARILY,4,1160,26.33713154177409,50.18770846557618,552.31
+15,Petrojana Company,ChIJjzWwtAzoST4RLHDyXysdFag,"point_of_interest, establishment","Makkah Al Mukarramah Street, 85PV+86P, Al Khobar",OPERATIONAL,3.6,7,26.33713154177409,50.18770846557618,555.73
+15,Arabian Village Compound,ChIJMelwQQLmST4R0w4juAhSVYc,"point_of_interest, establishment","6410, Al Khobar",OPERATIONAL,4.3,102,26.33713154177409,50.18770846557618,640.56
+15,Al Saleheen Grand Mosque,ChIJDfo7wqzoST4RYyQmkePYDk8,"mosque, place_of_worship, point_of_interest, establishment","Al Saleheen, Al Khobar",OPERATIONAL,4.5,71,26.33713154177409,50.18770846557618,807.67
+15,COMPASS ARABIA CO.,ChIJ82F0QEHoST4Rerpd0AByMHA,"point_of_interest, establishment","Prince Sultan Road, 85PW+43H, Al Khobar",OPERATIONAL,3.8,58,26.33713154177409,50.18770846557618,757.47
+15,Al Rehab Village,ChIJ69prEQDmST4RpfEm3-gs-6k,"point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.4,37,26.33713154177409,50.18770846557618,791.76
+15,Jazala Compound | مجمع جزالا السكني,ChIJsXBdpAPmST4R79g1dPaqsrA,"point_of_interest, establishment",Al Khobar,OPERATIONAL,3.9,167,26.33713154177409,50.18770846557618,791.31
+15,SAQ Consult,ChIJZQUiKlXvST4R5FvRxG6Ogzk,"point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.6,7,26.33713154177409,50.18770846557618,798.18
+15,jzala trade and real estate invest,ChIJsXBdpAPmST4RqIlPiPwCwX0,"real_estate_agency, point_of_interest, establishment","Jzala compound 1,, الخبر",OPERATIONAL,4,4,26.33713154177409,50.18770846557618,803.19
+15,Qasr Alawani,ChIJi3xLGQPmST4RQSGGpbxR3-Q,"home_goods_store, shopping_mall, furniture_store, store, point_of_interest, establishment","King Saud Branch Road, Al Khobar",OPERATIONAL,3.6,839,26.33713154177409,50.18770846557618,834.42
+15,Al Rabwah Village,ChIJOwUljwDmST4Rw2Z_YodNqUs,"lodging, point_of_interest, establishment","2805 طارق بن زياد, Al Khobar",OPERATIONAL,4.3,59,26.33713154177409,50.18770846557618,841.15
+15,Dallat Alfaris مقهى دلة الفارس,ChIJ5YNt4P_lST4RpiJpTZH9sts,"cafe, food, point_of_interest, establishment","Prince Sultan Bin Fahd Street, Al Khobar",OPERATIONAL,4.1,1157,26.33713154177409,50.18770846557618,841.37
+15,estedama,ChIJJbIH3__lST4RlqSVCCD4bus,"point_of_interest, establishment","Near Holiday Inn Hotel, Prince Sultan Bin Fahd Street, Qurtoba, 85VJ+3P9, Al Khobar",OPERATIONAL,4.1,7,26.33713154177409,50.18770846557618,845.54
+15,ASH Group,ChIJ_T6q-VboST4R6PVlYeqpVhs,"point_of_interest, establishment","34235, Al Khobar",OPERATIONAL,4.4,11,26.33713154177409,50.18770846557618,846.54
+15,Radium Corporate Office,ChIJ-3VL2f_lST4Rp0DbIjBQM8I,"point_of_interest, establishment","2916 طارق بن زياد, 7117, Al Khobar",OPERATIONAL,5,1,26.33713154177409,50.18770846557618,864.93
+15,Hasoub office,ChIJNaDnYLroST4RQWlDu1dsYMY,"point_of_interest, establishment","Prince Sultan Road Prince Sultan Road, Al Khobar",OPERATIONAL,3.5,6,26.33713154177409,50.18770846557618,867.5
+15,Delmon Tower,ChIJrSDUYLroST4RtnNVrbI7xO0,"point_of_interest, establishment","Delmon Building, 4380 Prince Sultan Road, Qurtoba, 6800 31452,، Al Khobar 34235, Dammam",OPERATIONAL,4.3,82,26.33713154177409,50.18770846557618,873.63
+15,Calzedonia,ChIJIzB3ITHmST4R2DgVQbxmKFA,"clothing_store, store, point_of_interest, establishment","King Saud Branch Road, Dhahran",CLOSED_TEMPORARILY,4.7,3,26.33713154177409,50.18770846557618,880.46
+15,Al-Othman Business Park,ChIJXc0ipqXoST4RJ4GpVGMQTh8,"finance, point_of_interest, establishment","Prince Sultan Road, 85MR+GG7, Al Khobar",OPERATIONAL,4.4,23,26.33713154177409,50.18770846557618,517.25
+15,Saud Consultant,ChIJ2Wgx3QLmST4RDX41VT8KGZk,"point_of_interest, establishment","6158 Prince Sultan Road, Al Khobar",OPERATIONAL,4.3,57,26.33713154177409,50.18770846557618,762.61
+15,Hamad M. Al Rugaib & Sons Trading Co,ChIJNziDHLHoST4RAVE-IUUjOJ8,"point_of_interest, establishment","6389-6455 King Fahd Road, Al Khobar",OPERATIONAL,3.6,94,26.33713154177409,50.18770846557618,985.97
+15,EUROVILLAGE COMPOUND,ChIJpREfx6joST4R4VwuLGPiYow,"real_estate_agency, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.2,1106,26.33713154177409,50.18770846557618,128.45
+15,International Programs School,ChIJ5VdVCanoST4Re7ekN4cm3OI,"school, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,3.4,157,26.33713154177409,50.18770846557618,585.79
+15,Saudi Diesel Equipment Company Ltd. (Khobar Branch),ChIJt9LqJbroST4RPE3NrW7CTgs,"car_repair, store, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.4,161,26.33713154177409,50.18770846557618,529.61
+15,SNC Lavalin,ChIJs9TD0qvoST4Rbzd0tjN_j2o,"point_of_interest, establishment","3462, Euro Village Office Compound, Al Khobar",OPERATIONAL,4.3,107,26.33713154177409,50.18770846557618,297.35
+15,New World International School,ChIJa0Kw0qzoST4Rqo2k79XxQQY,"school, point_of_interest, establishment","Prince Sultan Bin Fahd Street, 85WR+342, Al Khobar",OPERATIONAL,3.8,442,26.33713154177409,50.18770846557618,922.27
+15,The Saudi Investment Bank ATM,ChIJ5cc5H5jpST4R2-PY0Hb921k,"atm, bank, finance, point_of_interest, establishment","Westblaak, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,63.44
+15,AP Race Swimming Academy - Eurovillage Compound,ChIJyb3OlizpST4RUONurlsyJwg,"point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,4.5,8,26.33713154177409,50.18770846557618,83.04
+15,Ev Coffee shop,ChIJ9SHgIQDpST4RRtSmI2ruuLI,"cafe, store, food, point_of_interest, establishment","6487 Westblaak, 6، EAGA3418، 3418, الخبر",OPERATIONAL,5,1,26.33713154177409,50.18770846557618,103.45
+15,EUROVILLAGE BOUTIQUE LIVING,ChIJ0yK-wqjoST4RSnod3QDBKhQ,"lodging, point_of_interest, establishment","3478 انس بن عباد،, Al Khobar",OPERATIONAL,4.4,146,26.33713154177409,50.18770846557618,115.17
+15,Alsuwaiket Football feild,ChIJxfwWTwDpST4RVvEhCdXW5IM,"point_of_interest, establishment","85PP+VFH, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,148.48
+15,Anjerpad 3,ChIJS4rMDADpST4RNQ_WhdT7Adc,"point_of_interest, establishment","Prince Sultan Road, 85PQ+QMG, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,149.3
+15,7 Tulpin Pad,ChIJzRS0sZXpST4RXStWmGndC_w,"point_of_interest, establishment","6365, 3645 7, EAGA3645, الخبر",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,183.72
+15,الانصاري 3,ChIJUUJv2E7pST4RRBJpfZfezDQ,"point_of_interest, establishment","EAGB3769، 3769 موسى بن النصير، 6516, Al Khobar",OPERATIONAL,3,1,26.33713154177409,50.18770846557618,238.82
+15,Souhad Eid,ChIJ2yoGCwDpST4RhcfCbKVzNiU,"point_of_interest, establishment","الانصاري ٣, Musa Ibn Nussair Street, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,238.82
+15,Eurovillage Masjid,ChIJNQqW9RvpST4RqmYye2VAMw0,"mosque, place_of_worship, point_of_interest, establishment","6614 12 قرطبة, EAGA3287، 3287, الخبر",OPERATIONAL,5,1,26.33713154177409,50.18770846557618,249.42
+15,crystanenpad 12,ChIJ8-icy8LpST4RUZOiprY6PXk,"point_of_interest, establishment","6392 3، 3752沙特阿拉伯, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,263.12
+15,سلمان و عمر و مالك,ChIJ-yZeJwDpST4RcJy3WTNkP2w,"primary_school, school, point_of_interest, establishment","EAGB3769، 3769 موسى بن النصير، 6516, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,268.32
+15,قرطبة 4,ChIJDYEEIwDpST4RPNok-KN0zWM,"point_of_interest, establishment","EAGB6451، 6451 الامام الشوكاني، 3797, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,276.26
+15,EXP Arabia Engineering Consultants,ChIJ2VJNqxjpST4RAKYBY5r2s-U,"general_contractor, point_of_interest, establishment","Dist, 3668 Prince Sultan Road, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,288.3
+15,شركة الحلول المستدامة للخدمات البيئية,ChIJRX1pcQDpST4RvBQVTEY9R8I,"local_government_office, point_of_interest, establishment","3668 Prince Sultan Road, Al Khobar",OPERATIONAL,3,2,26.33713154177409,50.18770846557618,288.3
+15,شركة مبارك السويكت للنفط والغاز,ChIJz_e19aXoST4RF9b5ecZJ6QA,"point_of_interest, establishment","3299-3511 Prince Sultan Road, Al Khobar",OPERATIONAL,4.1,18,26.33713154177409,50.18770846557618,288.59
+15,Emirates International Facility Management,ChIJo9uWU6AW9aQROk3lMZ96eKk,"general_contractor, point_of_interest, establishment","Prince Sultan Road, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,292.64
+15,AlSuwaiket Trading & Contracting,ChIJI-wQzEjpST4Rnbybe0xjay4,"finance, point_of_interest, establishment","حي, Prince Sultan Road, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,293.13
+15,EUROVILLAGE COMPOUND South Entrance,ChIJJ_JAbgDpST4RJP10tAs3uKo,"point_of_interest, establishment","EAGA3609، 3609 4، 6230, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,295.48
+15,欧洲村,ChIJNdrEdADpST4RvaKBzreXh0E,"point_of_interest, establishment","Prince Sultan Road, 85MQ+R93, Al Khobar",OPERATIONAL,N/A,N/A,26.33713154177409,50.18770846557618,297.88
+15,albab,ChIJGcyW86XoST4R0rwWr4TBxvI,"point_of_interest, establishment","85MQ+WQW, Al Khobar",OPERATIONAL,4,12,26.33713154177409,50.18770846557618,306.72

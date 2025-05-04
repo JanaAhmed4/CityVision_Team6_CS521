@@ -1,0 +1,31 @@
+# Function to get district name using latitude and longitude
+def reverse_geocode(lat, lon):
+    params = {'latlng': f'{lat},{lon}', 'key': API_KEY}
+    response = requests.get(GEOCODING_URL, params=params)
+    data = response.json()
+
+    time.sleep(0.1)  # Delay of 0.1 seconds between requests to avoid rate limiting
+
+    if data['status'] == 'OK':
+        for result in data['results']:
+            # Look for locality or neighborhood (more specific district-level information)
+            for component in result['address_components']:
+                if 'neighborhood' in component['types'] or 'locality' in component['types']:
+                    return component['long_name']
+    return None
+
+# Function to process each row for reverse geocoding
+def reverse_geocode_parallel(row):
+    lat = row['Latitude']
+    lon = row['Longitude']
+    return reverse_geocode(lat, lon)
+
+# Use ThreadPoolExecutor to send requests in parallel
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    districts = list(executor.map(reverse_geocode_parallel, [row for _, row in df.iterrows()]))
+
+# Add the district names to the dataframe
+df['District'] = districts
+
+# Save the updated dataframe
+df.to_csv('combined_df_with_district.csv', index=False)
