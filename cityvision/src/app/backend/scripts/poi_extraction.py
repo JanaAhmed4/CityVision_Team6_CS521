@@ -5,7 +5,7 @@ import pandas as pd
 from geopy.distance import geodesic  
 from feature_extraction import add_avg_num_of_reviewers_all_pois, add_avg_ratings_food_dining, add_population_within_3km, add_rental_price_by_district, add_residential_price_by_district, perform_categorization, update_business_type_column
 
-API_KEY = 'AIzaSyDNJHV8Q7OFcGJfieXInt2Y9JN6Gi2wDzk'
+API_KEY = 'XXX'
 map_client = googlemaps.Client(API_KEY)
 
 # Input and output file paths
